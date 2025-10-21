@@ -47,7 +47,7 @@ Once deployed, visit your Vercel URL and:
 - `app.js` - JavaScript for data loading and display
 - `styles.css` - Custom CSS styling
 - `vercel.json` - Vercel configuration
-- All CSV data files (*.csv)
+- `island_data.json` - All island data in JSON format (3.14 MB)
 
 ## Requirements
 
@@ -69,9 +69,10 @@ Once deployed, visit your Vercel URL and:
 
 ## Notes
 
-- All data is loaded from CSV files in the same directory
-- The website uses Bootstrap 5 for styling and PapaParse for CSV parsing
+- All data is loaded from a single JSON file (`island_data.json`)
+- The website uses Bootstrap 5 for styling
 - Designed for Vercel deployment (free hosting)
+- Fast loading: Single 3MB file instead of 16 separate requests
 - Population changes are calculated automatically from 2014 and 2022 data
 - All numbers are formatted cleanly (no unnecessary decimals)
 

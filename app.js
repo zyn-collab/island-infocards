@@ -46,36 +46,39 @@ function setupEventListeners() {
 }
 
 /**
- * Load all CSV files using PapaParse
- * Ensures files are loaded correctly on both local and Vercel
+ * Load all data from a single JSON file
+ * Much faster and more reliable than loading 16 CSV files
  */
 function loadAllData() {
     showLoading(true);
-    console.log('Starting to load data from:', window.location.origin);
+    console.log('Loading island data...');
     
-    const files = [
-        { url: '00_atoll_master.csv', key: 'atolls' },
-        { url: '01_islands_core.csv', key: 'islands' },
-        { url: '02_demographics_2022.csv', key: 'demographics2022' },
-        { url: '02_demographics_2014.csv', key: 'demographics2014' },
-        { url: '03_labor_force.csv', key: 'laborForce' },
-        { url: '04_households.csv', key: 'households' },
-        { url: '05_activities.csv', key: 'activities' },
-        { url: '06_services.csv', key: 'services' },
-        { url: '09_health_facilities.csv', key: 'healthFacilities' },
-        { url: '10_social_services.csv', key: 'socialServices' },
-        { url: '11_school_statistics.csv', key: 'schoolStatistics' },
-        { url: '12_schools.csv', key: 'schools' },
-        { url: '07_cso_organizations.csv', key: 'csoOrganizations' },
-        { url: '08_cso_islands.csv', key: 'csoIslands' },
-        { url: '13_island_distances.csv', key: 'islandDistances' },
-        { url: 'facilities_accommodations.csv', key: 'accommodations' }
-    ];
-    
-    const promises = files.map(file => loadCSV(file.url, file.key));
-    
-    Promise.all(promises)
-        .then(() => {
+    fetch('island_data.json')
+        .then(response => {
+            if (!response.ok) {
+                throw new Error(`Failed to load data file: ${response.status}`);
+            }
+            return response.json();
+        })
+        .then(data => {
+            // Assign all data at once
+            islandData.atolls = data.atolls || [];
+            islandData.islands = data.islands || [];
+            islandData.demographics2022 = data.demographics2022 || [];
+            islandData.demographics2014 = data.demographics2014 || [];
+            islandData.laborForce = data.laborForce || [];
+            islandData.households = data.households || [];
+            islandData.activities = data.activities || [];
+            islandData.services = data.services || [];
+            islandData.healthFacilities = data.healthFacilities || [];
+            islandData.socialServices = data.socialServices || [];
+            islandData.schoolStatistics = data.schoolStatistics || [];
+            islandData.schools = data.schools || [];
+            islandData.csoOrganizations = data.csoOrganizations || [];
+            islandData.csoIslands = data.csoIslands || [];
+            islandData.islandDistances = data.islandDistances || [];
+            islandData.accommodations = data.accommodations || [];
+            
             console.log('✓ All data loaded successfully');
             console.log('Data summary:', {
                 atolls: islandData.atolls.length,
@@ -86,7 +89,7 @@ function loadAllData() {
             });
             
             if (islandData.islands.length === 0) {
-                showError('No island data loaded. Please check that CSV files are in the correct location.');
+                showError('No island data found in data file.');
                 showLoading(false);
                 return;
             }
@@ -97,55 +100,9 @@ function loadAllData() {
         })
         .catch(error => {
             console.error('✗ Error loading data:', error);
-            showError(`Failed to load data: ${error.message || 'Unknown error'}. Please check the browser console for details.`);
+            showError(`Failed to load data: ${error.message}. Make sure island_data.json exists.`);
             showLoading(false);
         });
-}
-
-/**
- * Load a single CSV file using fetch + PapaParse
- * Works reliably on Vercel
- */
-function loadCSV(url, dataKey) {
-    return new Promise((resolve, reject) => {
-        // Use simple relative path
-        const csvPath = url;
-        
-        console.log(`Loading ${url}...`);
-        
-        // Use fetch to get the CSV file
-        fetch(csvPath)
-            .then(response => {
-                if (!response.ok) {
-                    throw new Error(`HTTP error! status: ${response.status}`);
-                }
-                return response.text();
-            })
-            .then(csvText => {
-                // Parse the CSV text with PapaParse
-                Papa.parse(csvText, {
-                    header: true,
-                    skipEmptyLines: true,
-                    dynamicTyping: false,
-                    complete: function(results) {
-                        if (results.errors && results.errors.length > 0) {
-                            console.warn(`Warnings parsing ${url}:`, results.errors);
-                        }
-                        islandData[dataKey] = results.data;
-                        console.log(`✓ Loaded ${dataKey}: ${results.data.length} records`);
-                        resolve();
-                    },
-                    error: function(error) {
-                        console.error(`✗ Parse error for ${url}:`, error);
-                        reject(error);
-                    }
-                });
-            })
-            .catch(error => {
-                console.error(`✗ Failed to load ${url}:`, error);
-                reject(error);
-            });
-    });
 }
 
 /**

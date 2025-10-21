@@ -2,4 +2,11 @@
 START_SERVER.bat
 START_SERVER_NODE.bat
 style and look.txt
+convert_to_json.js
+node_modules/
+package.json
+package-lock.json
+
+# CSV files (we use JSON now)
+*.csv
 
