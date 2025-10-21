@@ -1,0 +1,16 @@
+# Local development files
+START_SERVER.bat
+START_SERVER_NODE.bat
+style and look.txt
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# DO NOT ignore CSV files - they are needed for the website!
+# If you see *.csv here, DELETE IT!
+

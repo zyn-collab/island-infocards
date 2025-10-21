@@ -47,9 +47,11 @@ function setupEventListeners() {
 
 /**
  * Load all CSV files using PapaParse
+ * Ensures files are loaded correctly on both local and Vercel
  */
 function loadAllData() {
     showLoading(true);
+    console.log('Starting to load data from:', window.location.origin);
     
     const files = [
         { url: '00_atoll_master.csv', key: 'atolls' },
@@ -74,34 +76,57 @@ function loadAllData() {
     
     Promise.all(promises)
         .then(() => {
-            console.log('All data loaded successfully');
+            console.log('✓ All data loaded successfully');
+            console.log('Data summary:', {
+                atolls: islandData.atolls.length,
+                islands: islandData.islands.length,
+                demographics2022: islandData.demographics2022.length,
+                activities: islandData.activities.length,
+                accommodations: islandData.accommodations.length
+            });
+            
+            if (islandData.islands.length === 0) {
+                showError('No island data loaded. Please check that CSV files are in the correct location.');
+                showLoading(false);
+                return;
+            }
+            
             dataLoaded = true;
             populateAtollDropdown();
             showLoading(false);
         })
         .catch(error => {
-            console.error('Error loading data:', error);
-            showError('Failed to load data. Please refresh the page.');
+            console.error('✗ Error loading data:', error);
+            showError(`Failed to load data: ${error.message || 'Unknown error'}. Please check the browser console for details.`);
             showLoading(false);
         });
 }
 
 /**
  * Load a single CSV file using PapaParse
+ * Works on both local server and Vercel
  */
 function loadCSV(url, dataKey) {
     return new Promise((resolve, reject) => {
-        Papa.parse(url, {
+        // Ensure we have the correct path for both local and Vercel
+        const csvPath = url.startsWith('/') ? url : `/${url}`;
+        const fullUrl = window.location.origin + csvPath;
+        
+        Papa.parse(fullUrl, {
             download: true,
             header: true,
             skipEmptyLines: true,
+            dynamicTyping: false, // Keep everything as strings initially
             complete: function(results) {
+                if (results.errors && results.errors.length > 0) {
+                    console.warn(`Warnings loading ${url}:`, results.errors);
+                }
                 islandData[dataKey] = results.data;
-                console.log(`Loaded ${dataKey}: ${results.data.length} records`);
+                console.log(`✓ Loaded ${dataKey}: ${results.data.length} records from ${fullUrl}`);
                 resolve();
             },
             error: function(error) {
-                console.error(`Error loading ${url}:`, error);
+                console.error(`✗ Error loading ${url} from ${fullUrl}:`, error);
                 reject(error);
             }
         });
