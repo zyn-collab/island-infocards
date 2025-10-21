@@ -103,33 +103,48 @@ function loadAllData() {
 }
 
 /**
- * Load a single CSV file using PapaParse
- * Works on both local server and Vercel
+ * Load a single CSV file using fetch + PapaParse
+ * Works reliably on Vercel
  */
 function loadCSV(url, dataKey) {
     return new Promise((resolve, reject) => {
-        // Ensure we have the correct path for both local and Vercel
-        const csvPath = url.startsWith('/') ? url : `/${url}`;
-        const fullUrl = window.location.origin + csvPath;
+        // Use simple relative path
+        const csvPath = url;
         
-        Papa.parse(fullUrl, {
-            download: true,
-            header: true,
-            skipEmptyLines: true,
-            dynamicTyping: false, // Keep everything as strings initially
-            complete: function(results) {
-                if (results.errors && results.errors.length > 0) {
-                    console.warn(`Warnings loading ${url}:`, results.errors);
+        console.log(`Loading ${url}...`);
+        
+        // Use fetch to get the CSV file
+        fetch(csvPath)
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
                 }
-                islandData[dataKey] = results.data;
-                console.log(`✓ Loaded ${dataKey}: ${results.data.length} records from ${fullUrl}`);
-                resolve();
-            },
-            error: function(error) {
-                console.error(`✗ Error loading ${url} from ${fullUrl}:`, error);
+                return response.text();
+            })
+            .then(csvText => {
+                // Parse the CSV text with PapaParse
+                Papa.parse(csvText, {
+                    header: true,
+                    skipEmptyLines: true,
+                    dynamicTyping: false,
+                    complete: function(results) {
+                        if (results.errors && results.errors.length > 0) {
+                            console.warn(`Warnings parsing ${url}:`, results.errors);
+                        }
+                        islandData[dataKey] = results.data;
+                        console.log(`✓ Loaded ${dataKey}: ${results.data.length} records`);
+                        resolve();
+                    },
+                    error: function(error) {
+                        console.error(`✗ Parse error for ${url}:`, error);
+                        reject(error);
+                    }
+                });
+            })
+            .catch(error => {
+                console.error(`✗ Failed to load ${url}:`, error);
                 reject(error);
-            }
-        });
+            });
     });
 }
 
