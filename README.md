@@ -2,31 +2,32 @@
 
 A simple, clean website to explore detailed information about Maldivian islands.
 
-## How to Use
+## Quick Start - Deploy to Vercel
 
-### Easy Method (Recommended):
+1. Install Vercel CLI:
+   ```bash
+   npm install -g vercel
+   ```
 
-**For Windows:**
-1. Double-click `START_SERVER.bat` (requires Python) OR `START_SERVER_NODE.bat` (requires Node.js)
-2. Wait for the server to start
-3. Open your browser and go to `http://localhost:8000`
-4. Press Ctrl+C in the command window when done to stop the server
+2. Navigate to this folder and deploy:
+   ```bash
+   cd "c:\Users\User\OneDrive\Desktop\Policy Lab\Island Level Dataset\cards website"
+   vercel
+   ```
 
-**For Mac/Linux:**
-1. Open Terminal in this folder
-2. Run: `python -m http.server 8000` (Python 3) or `python -m SimpleHTTPServer 8000` (Python 2)
-3. Open your browser and go to `http://localhost:8000`
-4. Press Ctrl+C in Terminal when done
+3. Done! Your site will be live at `https://your-project-name.vercel.app`
 
-### Why do I need a server?
+See `DEPLOYMENT.md` for more details.
 
-Modern browsers block loading local CSV files directly for security reasons. A local server solves this issue. Don't worry - it's completely safe and runs only on your computer!
+## How to Use the Website
 
-2. **Select an island** using one of two methods:
+Once deployed, visit your Vercel URL and:
+
+1. **Select an island** using one of two methods:
    - **Search**: Type the island name in the search box to quickly find it
    - **Dropdown**: Select an atoll first, then choose an island from that atoll
 
-3. **View information**: Once you select an island, a detailed card will appear with all available information including:
+2. **View information**: Once you select an island, a detailed card will appear with all available information including:
    - Geographic information (size, coordinates, capital status)
    - Travel and distance information
    - Demographics (2022 data with changes from 2014)
@@ -37,6 +38,7 @@ Modern browsers block loading local CSV files directly for security reasons. A l
    - Education statistics
    - Contact information
    - Activities and things to do
+   - Accommodations (resorts, guesthouses)
    - Civil Society Organizations (CSOs)
 
 ## Files Included
@@ -44,38 +46,34 @@ Modern browsers block loading local CSV files directly for security reasons. A l
 - `index.html` - Main HTML file
 - `app.js` - JavaScript for data loading and display
 - `styles.css` - Custom CSS styling
+- `vercel.json` - Vercel configuration
 - All CSV data files (*.csv)
 
 ## Requirements
 
-- A modern web browser with JavaScript enabled
-- Internet connection (for loading Bootstrap and PapaParse libraries from CDN)
-- Python (any version) OR Node.js installed (for running the local server)
-  - Most computers already have Python installed
-  - Download Python from: https://www.python.org/downloads/
-  - Download Node.js from: https://nodejs.org/
+- Node.js with npm (for Vercel deployment)
+  - Download from: https://nodejs.org/
+- Internet connection (required for deployment and website usage)
 
 ## Troubleshooting
 
-**Problem: "Failed to load data" error**
-- **Solution**: You must run the website through a local server (use the START_SERVER.bat files)
-- Do NOT open index.html directly by double-clicking it
-- Browsers block loading local CSV files for security reasons
+**Problem: "Failed to load data" on Vercel**
+- Check browser console (F12) for specific error messages
+- Ensure all CSV files were uploaded/deployed
+- See `DEPLOYMENT.md` for detailed troubleshooting
 
-**Problem: "Python/Node.js not found"**
-- **Solution**: Install Python from https://www.python.org/downloads/
-- During installation, check "Add Python to PATH"
-- After installing, restart your computer and try again
-
-**Problem: Port 8000 already in use**
-- **Solution**: Edit the batch file and change 8000 to another number (like 8080 or 3000)
+**Problem: Vercel CLI not found**
+- Install Node.js from https://nodejs.org/
+- Run `npm install -g vercel` again
+- Restart your terminal/command prompt
 
 ## Notes
 
 - All data is loaded from CSV files in the same directory
 - The website uses Bootstrap 5 for styling and PapaParse for CSV parsing
-- Must be run through a local server (see instructions above)
+- Designed for Vercel deployment (free hosting)
 - Population changes are calculated automatically from 2014 and 2022 data
+- All numbers are formatted cleanly (no unnecessary decimals)
 
 ## Data Sources
 
@@ -92,6 +90,7 @@ The website displays data from the following CSV files:
 - School statistics
 - CSO organizations and locations
 - Island distances and travel information
+- Accommodations (resorts and guesthouses)
 
 Enjoy exploring the Maldives islands!
 
@@ -108,4 +107,3 @@ Quick steps:
 4. Done! Your site is live.
 
 Or use the Vercel website to drag-and-drop deploy.
-

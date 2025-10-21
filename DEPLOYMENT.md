@@ -2,17 +2,7 @@
 
 ## Quick Deployment Steps
 
-### IMPORTANT: Test Locally First!
-
-Before deploying to Vercel, test locally:
-1. Run `START_SERVER.bat`
-2. Open `http://localhost:8000`
-3. Verify atolls load in dropdown
-4. Verify islands appear when selecting an atoll
-5. Verify island data displays when selecting an island
-6. Check browser console (F12) for any errors
-
-**If local test fails, DO NOT deploy to Vercel yet.**
+The website is designed to work on Vercel. You can deploy directly without local testing if you prefer.
 
 ### Option 1: Deploy via Vercel Website (Easiest)
 
@@ -55,11 +45,7 @@ Before deploying to Vercel, test locally:
    cd "c:\Users\User\OneDrive\Desktop\Policy Lab\Island Level Dataset\cards website"
    ```
 
-3. **Test locally first!**
-   - Run your local server and verify everything works
-   - Only proceed if local version works perfectly
-
-4. **Deploy**
+3. **Deploy**
    ```bash
    vercel
    ```
@@ -71,14 +57,14 @@ Before deploying to Vercel, test locally:
      - "Project name?" → Choose a name (e.g., maldives-islands)
      - Accept other defaults
    
-5. **Verify immediately after deployment**
+4. **Verify immediately after deployment**
    - Open the provided URL in your browser
    - Press F12 to open console
    - Look for messages like "✓ Loaded atolls: 21 records"
    - Test atoll dropdown, island selection, and data display
    - If you see "✗ Error loading" messages, check that ALL CSV files were uploaded
 
-6. **Done!**
+5. **Done!**
    - Your site is now live at: `https://maldives-islands.vercel.app`
 
 ### Option 3: Using Git (Recommended for Updates)
