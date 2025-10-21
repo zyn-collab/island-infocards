@@ -1,0 +1,190 @@
+﻿island_id,atoll_id,is_big_island,is_very_big_island,is_atoll_capital,distance_to_male_km,has_airport,airport_name,airports_in_atoll_count,international_airports_in_atoll,airports_within_5km,has_airport_5km,has_intl_airport_5km,airports_within_10km,has_airport_10km,has_intl_airport_10km,airports_within_15km,has_airport_15km,has_intl_airport_15km,airports_within_20km,has_airport_20km,has_intl_airport_20km,airports_within_40km,has_airport_40km,has_intl_airport_40km,original_location
+1,1,False,False,False,81.65698587553572,False,,0,0,,False,False,,False,False,,False,False,,False,False,,False,False,Alifu Alifu Bodufolhudhoo
+2,1,False,False,False,88.04236005567364,False,,0,0,,False,False,,False,False,,False,False,,False,False,,False,False,Alifu Alifu Feridhoo
+3,1,False,False,False,89.45612310144276,False,,0,0,,False,False,,False,False,,False,False,,False,False,,False,False,Alifu Alifu Himendhoo
+30,3,False,False,False,90.13259739579611,False,,0,0,,False,False,,False,False,,False,False,,False,False,,False,False,Alifu Alifu Maalhos
+5,1,False,False,False,84.70379600306387,False,,0,0,,False,False,,False,False,,False,False,,False,False,,False,False,Alifu Alifu Mathiveri
+6,1,False,False,False,58.28512883471215,False,,0,0,,False,False,,False,False,,False,False,,False,False,,False,False,Alifu Alifu Rasdhoo
+7,1,False,False,False,67.64948980718505,False,,0,0,,False,False,,False,False,,False,False,,False,False,,False,False,Alifu Alifu Thoddoo
+8,1,False,False,False,71.73193598514182,False,,0,0,,False,False,,False,False,,False,False,,False,False,,False,False,Alifu Alifu Ukulhas
+9,2,False,False,False,88.00495972469382,False,,0,0,,False,False,,False,False,,False,False,,False,False,Villa International Airport,True,True,Alifu Dhaalu Dhan'gethi
+10,2,False,False,False,96.91753166905238,False,,0,0,,False,False,,False,False,Villa International Airport,True,True,Villa International Airport,True,True,Villa International Airport,True,True,Alifu Dhaalu Dhigurah
+63,9,False,False,False,103.8598682387824,False,,0,0,,False,False,Villa International Airport,True,True,Villa International Airport,True,True,Villa International Airport,True,True,Villa International Airport,True,True,Alifu Dhaalu Dhihdhoo
+12,2,False,False,False,110.9360115806998,False,,0,0,,False,False,Villa International Airport,True,True,Villa International Airport,True,True,Villa International Airport,True,True,Villa International Airport,True,True,Alifu Dhaalu Fenfushi
+13,2,False,False,False,71.33324623768289,False,,0,0,,False,False,,False,False,,False,False,,False,False,,False,False,Alifu Dhaalu Hangnaameedhoo
+14,2,False,False,False,78.60587266157769,False,,0,0,,False,False,,False,False,,False,False,,False,False,Villa International Airport,True,True,Alifu Dhaalu Kun'burudhoo
+15,2,True,False,False,108.107471970574,False,,0,0,Villa International Airport,True,True,Villa International Airport,True,True,Villa International Airport,True,True,Villa International Airport,True,True,Villa International Airport,True,True,Alifu Dhaalu Maamin'gili
+16,2,True,False,False,75.83901429894297,False,,0,0,,False,False,,False,False,,False,False,,False,False,Villa International Airport,True,True,Alifu Dhaalu Mahibadhoo
+17,2,False,False,False,103.3561285759319,False,,0,0,,False,False,,False,False,,False,False,,False,False,Villa International Airport,True,True,Alifu Dhaalu Mandhoo
+180,20,False,False,False,74.1773752756224,False,,0,0,,False,False,,False,False,,False,False,,False,False,Villa International Airport,True,True,Alifu Dhaalu Omadhoo
+19,3,False,False,False,117.0538567759833,True,Dharavandhoo Airport,0,0,Dharavandhoo Airport,True,False,Dharavandhoo Airport,True,False,Dharavandhoo Airport,True,False,Dharavandhoo Airport,True,False,Dharavandhoo Airport,True,False,Baa Dharavandhoo
+20,3,False,False,False,120.5755106691077,False,,0,0,Dharavandhoo Airport,True,False,Dharavandhoo Airport,True,False,Dharavandhoo Airport,True,False,Dharavandhoo Airport,True,False,Dharavandhoo Airport,True,False,Baa Dhonfanu
+21,3,True,False,False,114.1017337137329,False,,0,0,,False,False,Dharavandhoo Airport,True,False,Dharavandhoo Airport,True,False,Dharavandhoo Airport,True,False,Dharavandhoo Airport,True,False,Baa Eydhafushi
+22,3,False,False,False,98.90145486461716,False,,0,0,,False,False,,False,False,,False,False,,False,False,Dharavandhoo Airport,True,False,Baa Fehendhoo
+23,3,False,False,False,101.6444272181222,False,,0,0,,False,False,,False,False,,False,False,,False,False,Dharavandhoo Airport,True,False,Baa Fulhadhoo
+163,19,False,False,False,95.99651289182016,False,,0,0,,False,False,,False,False,,False,False,,False,False,Dharavandhoo Airport,True,False,Baa Goidhoo
+25,3,False,False,False,113.1782896767443,False,,0,0,,False,False,,False,False,,False,False,,False,False,Dharavandhoo Airport,True,False,Baa Hithaadhoo
+26,3,False,False,False,129.8994047767619,False,,0,0,,False,False,,False,False,Dharavandhoo Airport,True,False,Dharavandhoo Airport,True,False,Dharavandhoo Airport; Madivaru Airport,True,False,Baa Kamadhoo
+27,3,False,False,False,134.3622134218467,False,,0,0,,False,False,,False,False,,False,False,Dharavandhoo Airport,True,False,Dharavandhoo Airport,True,False,Baa Kendhoo
+28,3,False,False,False,123.3244646651842,False,,0,0,,False,False,Dharavandhoo Airport,True,False,Dharavandhoo Airport,True,False,Dharavandhoo Airport,True,False,Dharavandhoo Airport; Madivaru Airport,True,False,Baa Kihaadhoo
+29,3,False,False,False,134.3159496422406,False,,0,0,,False,False,,False,False,,False,False,Dharavandhoo Airport,True,False,Dharavandhoo Airport; Madivaru Airport,True,False,Baa Kudarikilu
+30,3,False,False,False,115.6767575257861,False,,0,0,Dharavandhoo Airport,True,False,Dharavandhoo Airport,True,False,Dharavandhoo Airport,True,False,Dharavandhoo Airport,True,False,Dharavandhoo Airport,True,False,Baa Maalhos
+31,3,False,False,False,119.8805635190743,False,,0,0,,False,False,,False,False,,False,False,,False,False,Dharavandhoo Airport,True,False,Baa Thulhaadhoo
+32,4,False,False,False,149.2142753359092,False,,Dhaalu Airport,0,,False,False,,False,False,,False,False,,False,False,Dhaalu Airport,True,False,Dhaalu Ban'didhoo
+33,4,False,False,False,163.8013344516039,False,,Dhaalu Airport,0,,False,False,,False,False,,False,False,,False,False,Dhaalu Airport,True,False,Dhaalu Hulhudheli
+34,4,True,False,False,180.9096473455252,False,,Dhaalu Airport,0,Dhaalu Airport,True,False,Dhaalu Airport,True,False,Dhaalu Airport,True,False,Dhaalu Airport,True,False,Dhaalu Airport,True,False,Dhaalu Kudahuvadhoo
+35,4,False,False,False,175.2455117182463,False,,Dhaalu Airport,0,,False,False,Dhaalu Airport,True,False,Dhaalu Airport,True,False,Dhaalu Airport,True,False,Dhaalu Airport,True,False,Dhaalu Maaen'boodhoo
+157,18,False,False,False,142.1979017807556,False,,Dhaalu Airport,0,,False,False,,False,False,,False,False,,False,False,Dhaalu Airport,True,False,Dhaalu Meedhoo
+37,4,False,False,False,154.8053591461013,False,,Dhaalu Airport,0,,False,False,,False,False,,False,False,,False,False,Dhaalu Airport,True,False,Dhaalu Rin'budhoo
+38,5,False,False,False,131.1218088311186,False,,0,0,,False,False,,False,False,,False,False,,False,False,,False,False,Faafu Bileiydhoo
+39,5,False,False,False,139.5513121052949,False,,0,0,,False,False,,False,False,,False,False,,False,False,,False,False,Faafu Dharan'boodhoo
+40,5,False,False,False,115.2896221197002,False,,0,0,,False,False,,False,False,,False,False,,False,False,Villa International Airport,True,True,Faafu Feeali
+133,16,False,False,False,136.0298333627492,False,,0,0,,False,False,,False,False,,False,False,,False,False,,False,False,Faafu Magoodhoo
+50,6,False,False,False,142.0671918570836,False,,0,0,,False,False,,False,False,,False,False,,False,False,,False,False,Faafu Nilandhoo
+43,6,False,False,False,395.1815662600702,False,,0,0,,False,False,,False,False,Koodoo Airport,True,False,Koodoo Airport,True,False,Koodoo Airport; Maavarulu Airport,True,False,Gaafu Alifu Dhaandhoo
+44,6,False,False,False,403.3440358462195,False,,0,0,,False,False,,False,False,,False,False,,False,False,Kaadedhdhoo Airport; Koodoo Airport; Maavarulu Airport,True,False,Gaafu Alifu Dhevvadhoo
+45,6,False,False,False,415.0306133041845,False,,0,0,,False,False,,False,False,Maavarulu Airport,True,False,Maavarulu Airport,True,False,Koodoo Airport; Maavarulu Airport,True,False,Gaafu Alifu Gemanafushi
+46,6,False,False,False,425.1254948470207,False,,0,0,Maavarulu Airport,True,False,Maavarulu Airport,True,False,Maavarulu Airport,True,False,Maavarulu Airport,True,False,Maavarulu Airport,True,False,Gaafu Alifu Kan'duhulhudhoo
+47,6,False,False,False,372.8006719356785,False,,0,0,,False,False,,False,False,,False,False,,False,False,Koodoo Airport,True,False,Gaafu Alifu Kolamaafushi
+48,6,False,False,False,408.6856901143587,False,,0,0,,False,False,,False,False,,False,False,Maavarulu Airport,True,False,Koodoo Airport; Maavarulu Airport,True,False,Gaafu Alifu Kon'dey
+106,12,False,False,False,384.8838566703753,False,,0,0,Koodoo Airport,True,False,Koodoo Airport,True,False,Koodoo Airport,True,False,Koodoo Airport,True,False,Koodoo Airport,True,False,Gaafu Alifu Maamendhoo
+50,6,False,False,False,393.476445185104,False,,0,0,,False,False,,False,False,Koodoo Airport,True,False,Koodoo Airport,True,False,Koodoo Airport; Maavarulu Airport,True,False,Gaafu Alifu Nilandhoo
+123,14,True,False,False,380.1665119916944,False,,0,0,Koodoo Airport,True,False,Koodoo Airport,True,False,Koodoo Airport,True,False,Koodoo Airport,True,False,Koodoo Airport,True,False,Gaafu Alifu Vilin'gili
+52,7,False,False,False,443.4426823606886,False,,0,0,Faresmaathoda Airport,True,False,Faresmaathoda Airport,True,False,Faresmaathoda Airport,True,False,Faresmaathoda Airport,True,False,Kaadedhdhoo Airport; Maavarulu Airport; Faresmaathoda Airport,True,False,Gaafu Dhaalu Faresmaathodaa
+53,7,False,False,False,441.5096268109006,False,,0,0,,False,False,Faresmaathoda Airport,True,False,Faresmaathoda Airport,True,False,Faresmaathoda Airport,True,False,Kaadedhdhoo Airport; Faresmaathoda Airport,True,False,Gaafu Dhaalu Fiyoari
+54,7,False,False,False,431.9492100498474,False,,0,0,,False,False,Maavarulu Airport,True,False,Maavarulu Airport,True,False,Maavarulu Airport,True,False,Maavarulu Airport; Faresmaathoda Airport,True,False,Gaafu Dhaalu Gahdhoo
+55,7,False,False,False,418.5290093864442,False,,0,0,Kaadedhdhoo Airport,True,False,Kaadedhdhoo Airport,True,False,Kaadedhdhoo Airport,True,False,Kaadedhdhoo Airport,True,False,Kaadedhdhoo Airport; Faresmaathoda Airport,True,False,Gaafu Dhaalu Hoadehdhoo
+56,7,False,False,False,417.036734225188,False,,0,0,Kaadedhdhoo Airport,True,False,Kaadedhdhoo Airport,True,False,Kaadedhdhoo Airport,True,False,Kaadedhdhoo Airport,True,False,Kaadedhdhoo Airport; Faresmaathoda Airport,True,False,Gaafu Dhaalu Madaveli
+57,7,False,False,False,434.6690562435766,False,,0,0,,False,False,,False,False,,False,False,,False,False,Kaadedhdhoo Airport; Faresmaathoda Airport,True,False,Gaafu Dhaalu Nadellaa
+58,7,False,False,False,438.3878165506758,False,,0,0,,False,False,,False,False,Faresmaathoda Airport,True,False,Faresmaathoda Airport,True,False,Kaadedhdhoo Airport; Faresmaathoda Airport,True,False,Gaafu Dhaalu Rathafandhoo
+189,21,True,True,False,408.9360331162221,False,,0,0,Kaadedhdhoo Airport,True,False,Kaadedhdhoo Airport,True,False,Kaadedhdhoo Airport,True,False,Kaadedhdhoo Airport,True,False,Kaadedhdhoo Airport,True,False,Gaafu Dhaalu Thinadhoo
+151,17,False,False,False,439.6821419071713,False,,0,0,,False,False,Faresmaathoda Airport,True,False,Faresmaathoda Airport,True,False,Faresmaathoda Airport,True,False,Maavarulu Airport; Faresmaathoda Airport,True,False,Gaafu Dhaalu Vaadhoo
+61,8,True,True,False,497.0783902992122,True,Fuvahmulah Airport,0,0,Fuvahmulah Airport,True,False,Fuvahmulah Airport,True,False,Fuvahmulah Airport,True,False,Fuvahmulah Airport,True,False,Fuvahmulah Airport,True,False,Gnaviyani Fuvahmulah
+62,9,False,False,False,295.6874596601245,False,,0,0,,False,False,Hanimaadhoo International Airport,True,True,Hanimaadhoo International Airport,True,True,Hanimaadhoo International Airport,True,True,Hanimaadhoo International Airport; Kulhudhuffushi Airport; Hoarafushi Airport,True,True,Haa Alifu Baarah
+63,9,True,False,False,304.9556050305957,False,,0,0,,False,False,,False,False,,False,False,Hanimaadhoo International Airport,True,True,Hanimaadhoo International Airport; Kulhudhuffushi Airport; Hoarafushi Airport,True,True,Haa Alifu Dhihdhoo
+64,9,False,False,False,303.8943845096902,False,,0,0,,False,False,,False,False,,False,False,Hanimaadhoo International Airport,True,True,Hanimaadhoo International Airport; Kulhudhuffushi Airport; Hoarafushi Airport,True,True,Haa Alifu Filladhoo
+65,9,False,False,False,319.6027174113844,False,,0,0,Hoarafushi Airport,True,False,Hoarafushi Airport,True,False,Hoarafushi Airport,True,False,Hoarafushi Airport,True,False,Hoarafushi Airport,True,False,Haa Alifu Huvarafushi
+66,9,True,False,False,315.6271886166099,False,,0,0,Hoarafushi Airport,True,False,Hoarafushi Airport,True,False,Hoarafushi Airport,True,False,Hoarafushi Airport,True,False,Hanimaadhoo International Airport; Kulhudhuffushi Airport; Hoarafushi Airport,True,True,Haa Alifu Ihavandhoo
+67,9,False,False,False,310.7000514670904,False,,0,0,,False,False,,False,False,,False,False,,False,False,Hanimaadhoo International Airport; Kulhudhuffushi Airport; Hoarafushi Airport,True,True,Haa Alifu Kelaa
+68,9,False,False,False,303.4030607693184,False,,0,0,,False,False,,False,False,,False,False,Hoarafushi Airport,True,False,Hanimaadhoo International Airport; Kulhudhuffushi Airport; Hoarafushi Airport,True,True,Haa Alifu Maarandhoo
+69,9,False,False,False,320.7788410395986,False,,0,0,,False,False,,False,False,Hoarafushi Airport,True,False,Hoarafushi Airport,True,False,Hanimaadhoo International Airport; Hoarafushi Airport,True,True,Haa Alifu Mulhadhoo
+70,9,False,False,False,298.5791891829974,False,,0,0,,False,False,,False,False,Hanimaadhoo International Airport,True,True,Hanimaadhoo International Airport,True,True,Hanimaadhoo International Airport; Kulhudhuffushi Airport; Hoarafushi Airport,True,True,Haa Alifu Muraidhoo
+71,9,False,False,False,302.2689684067391,False,,0,0,,False,False,,False,False,,False,False,Hoarafushi Airport,True,False,Hanimaadhoo International Airport; Kulhudhuffushi Airport; Hoarafushi Airport,True,True,Haa Alifu Thakandhoo
+72,9,False,False,False,332.7025266285723,False,,0,0,,False,False,,False,False,Hoarafushi Airport,True,False,Hoarafushi Airport,True,False,Hoarafushi Airport,True,False,Haa Alifu Thuraakunu
+73,9,False,False,False,329.7851985917188,False,,0,0,,False,False,,False,False,Hoarafushi Airport,True,False,Hoarafushi Airport,True,False,Hoarafushi Airport,True,False,Haa Alifu Uligamu
+74,9,False,False,False,299.0485000943127,False,,0,0,,False,False,,False,False,Hanimaadhoo International Airport,True,True,Hanimaadhoo International Airport,True,True,Hanimaadhoo International Airport; Kulhudhuffushi Airport; Hoarafushi Airport,True,True,Haa Alifu Utheemu
+75,9,False,False,False,305.2678265819814,False,,0,0,,False,False,,False,False,,False,False,Hanimaadhoo International Airport,True,True,Hanimaadhoo International Airport; Kulhudhuffushi Airport; Hoarafushi Airport,True,True,Haa Alifu Vashafaru
+76,10,False,False,False,290.3632846346741,False,,0,0,,False,False,,False,False,Hanimaadhoo International Airport; Kulhudhuffushi Airport,True,True,Hanimaadhoo International Airport; Kulhudhuffushi Airport,True,True,Hanimaadhoo International Airport; Kulhudhuffushi Airport; Hoarafushi Airport,True,True,Haa Dhaalu Finey
+77,10,True,False,False,289.2831748399893,True,Hanimaadhoo International Airport,0,0,Hanimaadhoo International Airport,True,True,Hanimaadhoo International Airport,True,True,Hanimaadhoo International Airport,True,True,Hanimaadhoo International Airport; Kulhudhuffushi Airport,True,True,Hanimaadhoo International Airport; Kulhudhuffushi Airport; Hoarafushi Airport,True,True,Haa Dhaalu Hanimaadhoo
+78,10,False,False,False,288.635571377423,False,,0,0,,False,False,,False,False,Kulhudhuffushi Airport,True,False,Hanimaadhoo International Airport; Kulhudhuffushi Airport,True,True,Hanimaadhoo International Airport; Kulhudhuffushi Airport; Hoarafushi Airport,True,True,Haa Dhaalu Hirimaradhoo
+79,10,True,True,False,276.6293293402422,True,Kulhudhuffushi Airport,0,0,Kulhudhuffushi Airport,True,False,Kulhudhuffushi Airport,True,False,Kulhudhuffushi Airport,True,False,Hanimaadhoo International Airport; Kulhudhuffushi Airport,True,True,Hanimaadhoo International Airport; Kulhudhuffushi Airport,True,True,Haa Dhaalu Kulhudhuffushi
+80,10,False,False,False,271.3289853319417,False,,0,0,,False,False,Kulhudhuffushi Airport,True,False,Kulhudhuffushi Airport,True,False,Kulhudhuffushi Airport,True,False,Hanimaadhoo International Airport; Kulhudhuffushi Airport,True,True,Haa Dhaalu Kumundhoo
+81,10,False,False,False,282.7598500456268,False,,0,0,,False,False,Kulhudhuffushi Airport,True,False,Kulhudhuffushi Airport,True,False,Kulhudhuffushi Airport,True,False,Hanimaadhoo International Airport; Kulhudhuffushi Airport; Hoarafushi Airport,True,True,Haa Dhaalu Kurin'bee
+82,10,False,False,False,263.9974952335123,False,,0,0,,False,False,,False,False,,False,False,,False,False,,False,False,Haa Dhaalu Makunudhoo
+83,10,False,False,False,293.0402351400446,False,,0,0,,False,False,,False,False,,False,False,Kulhudhuffushi Airport,True,False,Hanimaadhoo International Airport; Kulhudhuffushi Airport; Hoarafushi Airport,True,True,Haa Dhaalu Naivaadhoo
+84,10,False,False,False,289.2682015662007,False,,0,0,,False,False,,False,False,,False,False,Kulhudhuffushi Airport,True,False,Hanimaadhoo International Airport; Kulhudhuffushi Airport; Hoarafushi Airport,True,True,Haa Dhaalu Nellaidhoo
+85,10,False,False,False,269.8300135216583,False,,0,0,,False,False,,False,False,Kulhudhuffushi Airport,True,False,Kulhudhuffushi Airport,True,False,Hanimaadhoo International Airport; Kulhudhuffushi Airport,True,True,Haa Dhaalu Neykurendhoo
+86,10,False,False,False,280.6636628279276,False,,0,0,Kulhudhuffushi Airport,True,False,Kulhudhuffushi Airport,True,False,Hanimaadhoo International Airport; Kulhudhuffushi Airport,True,True,Hanimaadhoo International Airport; Kulhudhuffushi Airport,True,True,Hanimaadhoo International Airport; Kulhudhuffushi Airport; Hoarafushi Airport,True,True,Haa Dhaalu Nolhivaramu
+87,10,False,False,False,283.6289684148216,False,,0,0,,False,False,Hanimaadhoo International Airport; Kulhudhuffushi Airport,True,True,Hanimaadhoo International Airport; Kulhudhuffushi Airport,True,True,Hanimaadhoo International Airport; Kulhudhuffushi Airport,True,True,Hanimaadhoo International Airport; Kulhudhuffushi Airport; Hoarafushi Airport,True,True,Haa Dhaalu Nolhivaranfaru
+88,10,False,False,False,271.2184218748864,False,,0,0,,False,False,,False,False,,False,False,Kulhudhuffushi Airport,True,False,Hanimaadhoo International Airport; Kulhudhuffushi Airport,True,True,Haa Dhaalu Vaikaradhoo
+89,11,False,False,False,37.40694141183109,False,,0,0,,False,False,,False,False,,False,False,,False,False,Velana International Airport,True,True,Kaafu Dhiffushi
+90,11,False,False,False,62.47225952351361,False,,0,0,,False,False,,False,False,,False,False,,False,False,,False,False,Kaafu Gaafaru
+91,11,False,False,False,20.41032166097954,False,,0,0,,False,False,,False,False,,False,False,,False,False,Velana International Airport,True,True,Kaafu Gulhi
+175,20,False,False,False,30.78632564080354,False,,0,0,,False,False,,False,False,,False,False,,False,False,Velana International Airport,True,True,Kaafu Guraidhoo
+93,11,True,False,False,16.36478821442842,False,,0,0,,False,False,,False,False,Velana International Airport,True,True,Velana International Airport,True,True,Velana International Airport,True,True,Kaafu Hinmafushi
+94,11,False,False,False,20.41703913785064,False,,0,0,,False,False,,False,False,,False,False,Velana International Airport,True,True,Velana International Airport,True,True,Kaafu Huraa
+95,11,True,False,False,87.1177559413251,False,,0,0,,False,False,,False,False,,False,False,,False,False,,False,False,Kaafu Kaashidhoo
+96,11,True,False,False,26.04351334931167,False,,0,0,,False,False,,False,False,,False,False,,False,False,Velana International Airport,True,True,Kaafu Maafushi
+97,11,False,False,False,26.87856140510948,False,,0,0,,False,False,,False,False,,False,False,,False,False,Velana International Airport,True,True,Kaafu Thulusdhoo
+98,12,False,False,False,231.3442510098225,False,,0,0,,False,False,,False,False,,False,False,,False,False,Kadhdhoo Airport,True,False,Laamu Dhan'bidhoo
+99,12,True,False,False,260.2098473164119,False,,0,0,Kadhdhoo Airport,True,False,Kadhdhoo Airport,True,False,Kadhdhoo Airport,True,False,Kadhdhoo Airport,True,False,Kadhdhoo Airport,True,False,Laamu Fonadhoo
+100,12,True,False,False,251.3455614856559,True,Gan International Airport,0,0,,False,False,Kadhdhoo Airport,True,False,Kadhdhoo Airport,True,False,Kadhdhoo Airport,True,False,Kadhdhoo Airport,True,False,Laamu Gan
+153,18,False,False,False,264.7226252620827,False,,0,0,,False,False,,False,False,,False,False,Kadhdhoo Airport,True,False,Kadhdhoo Airport,True,False,Laamu Hithadhoo
+102,12,False,False,False,228.0869972530312,False,,0,0,,False,False,,False,False,,False,False,,False,False,Kadhdhoo Airport,True,False,Laamu Isdhoo
+103,12,False,False,False,229.155102315465,False,,0,0,,False,False,,False,False,,False,False,,False,False,Kadhdhoo Airport,True,False,Laamu Kalaidhoo
+104,12,False,False,False,266.3359534421462,False,,0,0,,False,False,,False,False,,False,False,Kadhdhoo Airport,True,False,Kadhdhoo Airport,True,False,Laamu Kunahandhoo
+105,12,False,False,False,238.5383947555854,False,,0,0,,False,False,,False,False,,False,False,Kadhdhoo Airport,True,False,Kadhdhoo Airport,True,False,Laamu Maabaidhoo
+106,12,False,False,False,262.3761709785165,False,,0,0,,False,False,,False,False,,False,False,Kadhdhoo Airport,True,False,Kadhdhoo Airport,True,False,Laamu Maamendhoo
+107,12,False,False,False,256.2342581074565,False,,0,0,,False,False,,False,False,,False,False,,False,False,Kadhdhoo Airport; Thimarafushi Airport,True,False,Laamu Maavah
+108,12,False,False,False,240.4849694957796,False,,0,0,,False,False,,False,False,,False,False,Kadhdhoo Airport,True,False,Kadhdhoo Airport,True,False,Laamu Mundoo
+109,13,True,False,False,146.9629253905853,False,,0,0,,False,False,Madivaru Airport,True,False,Madivaru Airport,True,False,Madivaru Airport,True,False,Maafaru International Airport; Madivaru Airport,True,True,Lhaviyani Hinnavaru
+110,13,False,False,False,129.0417450978703,False,,0,0,,False,False,,False,False,,False,False,Madivaru Airport,True,False,Madivaru Airport,True,False,Lhaviyani Kurendhoo
+111,13,True,False,False,142.164821549151,False,,0,0,Madivaru Airport,True,False,Madivaru Airport,True,False,Madivaru Airport,True,False,Madivaru Airport,True,False,Madivaru Airport,True,False,Lhaviyani Naifaru
+112,13,False,False,False,123.2318777271503,False,,0,0,,False,False,,False,False,,False,False,,False,False,Madivaru Airport,True,False,Lhaviyani Olhuvelifushi
+113,15,False,False,False,118.3117802192684,False,,0,0,,False,False,,False,False,,False,False,,False,False,,False,False,Meemu Dhiggaru
+114,15,False,False,False,155.6805295213894,False,,0,0,,False,False,,False,False,,False,False,,False,False,,False,False,Meemu Kolhufushi
+146,17,False,False,False,119.1396209056915,False,,0,0,,False,False,,False,False,,False,False,,False,False,,False,False,Meemu Maduvvari
+116,15,False,False,False,136.7815275854812,True,Fuvahmulah Airport,0,0,,False,False,,False,False,,False,False,,False,False,,False,False,Meemu Mulah
+117,15,False,False,False,139.9296670221878,False,,0,0,,False,False,,False,False,,False,False,,False,False,,False,False,Meemu Muli
+118,15,False,False,False,142.4259670426616,False,,0,0,,False,False,,False,False,,False,False,,False,False,,False,False,Meemu Naalaafushi
+119,15,False,False,False,121.5022971670906,False,,0,0,,False,False,,False,False,,False,False,,False,False,,False,False,Meemu Raiymandhoo
+120,15,False,False,False,135.8226238215262,False,,0,0,,False,False,,False,False,,False,False,,False,False,,False,False,Meemu Veyvah
+121,14,False,False,False,6.422247750835267,False,,0,0,Velana International Airport,True,True,Velana International Airport,True,True,Velana International Airport,True,True,Velana International Airport,True,True,Velana International Airport,True,True,MLE Hulhumaale
+122,14,False,False,False,0.0,False,,0,0,Velana International Airport,True,True,Velana International Airport,True,True,Velana International Airport,True,True,Velana International Airport,True,True,Velana International Airport,True,True,MLE Maale
+123,14,False,False,False,2.710761932156926,False,,0,0,,False,False,Velana International Airport,True,True,Velana International Airport,True,True,Velana International Airport,True,True,Velana International Airport,True,True,MLE Vilin'gili
+124,16,False,False,False,177.5122814752573,False,,0,0,,False,False,,False,False,,False,False,,False,False,Ifuru Airport; Maafaru International Airport; Madivaru Airport,True,True,Noonu Fohdhoo
+125,16,False,False,False,199.8031347871568,False,,0,0,,False,False,,False,False,,False,False,Maafaru International Airport,True,True,Maafaru International Airport; Funadhoo Airport,True,True,Noonu Hen'badhoo
+126,16,False,False,False,177.7811427592356,False,,0,0,,False,False,,False,False,,False,False,,False,False,Ifuru Airport; Maafaru International Airport; Madivaru Airport,True,True,Noonu Holhudhoo
+127,16,False,False,False,197.9876992477701,False,,0,0,,False,False,,False,False,,False,False,Maafaru International Airport,True,True,Maafaru International Airport; Funadhoo Airport,True,True,Noonu Ken'dhikulhudhoo
+128,16,False,False,False,190.3487507211159,False,,0,0,,False,False,,False,False,Maafaru International Airport,True,True,Maafaru International Airport,True,True,Maafaru International Airport; Funadhoo Airport,True,True,Noonu Kudafari
+129,16,False,False,False,189.9107520202985,False,,0,0,,False,False,Maafaru International Airport,True,True,Maafaru International Airport,True,True,Maafaru International Airport,True,True,Maafaru International Airport; Funadhoo Airport,True,True,Noonu Landhoo
+130,16,False,False,False,183.1218827410168,False,,0,0,,False,False,,False,False,Maafaru International Airport,True,True,Maafaru International Airport,True,True,Maafaru International Airport; Funadhoo Airport; Madivaru Airport,True,True,Noonu Lhohi
+131,16,False,False,False,183.5401696103492,True,Maafaru International Airport,0,0,Maafaru International Airport,True,True,Maafaru International Airport,True,True,Maafaru International Airport,True,True,Maafaru International Airport,True,True,Maafaru International Airport,True,True,Noonu Maafaru
+132,16,False,False,False,192.2268925647399,False,,0,0,,False,False,Maafaru International Airport,True,True,Maafaru International Airport,True,True,Maafaru International Airport,True,True,Maafaru International Airport; Funadhoo Airport,True,True,Noonu Maalhendhoo
+133,16,False,False,False,178.8772715222013,False,,0,0,,False,False,,False,False,Maafaru International Airport,True,True,Maafaru International Airport,True,True,Ifuru Airport; Maafaru International Airport; Madivaru Airport,True,True,Noonu Magoodhoo
+134,16,False,False,False,177.3101431827388,False,,0,0,,False,False,Maafaru International Airport,True,True,Maafaru International Airport,True,True,Maafaru International Airport,True,True,Maafaru International Airport; Madivaru Airport,True,True,Noonu Manadhoo
+135,16,False,False,False,180.4327759170698,False,,0,0,,False,False,,False,False,Maafaru International Airport,True,True,Maafaru International Airport,True,True,Ifuru Airport; Maafaru International Airport; Madivaru Airport,True,True,Noonu Miladhoo
+136,16,False,False,False,167.7329637443189,False,,0,0,,False,False,,False,False,,False,False,,False,False,Ifuru Airport; Maafaru International Airport; Madivaru Airport,True,True,Noonu Velidhoo
+137,17,False,False,False,208.6633384080808,False,,0,0,,False,False,,False,False,,False,False,,False,False,Ifuru Airport,True,False,Raa Alifushi
+138,17,False,False,False,188.3930976184534,False,,0,0,,False,False,Ifuru Airport,True,False,Ifuru Airport,True,False,Ifuru Airport,True,False,Ifuru Airport,True,False,Raa An'golhitheemu
+139,17,True,False,False,169.8822905661074,False,,0,0,,False,False,Ifuru Airport,True,False,Ifuru Airport,True,False,Ifuru Airport,True,False,Ifuru Airport,True,False,Raa Dhuvaafaru
+140,17,False,False,False,152.692877094348,False,,0,0,,False,False,,False,False,,False,False,,False,False,Dharavandhoo Airport; Ifuru Airport; Madivaru Airport,True,False,Raa Fainu
+141,17,False,False,False,185.3036964160861,False,,0,0,,False,False,Ifuru Airport,True,False,Ifuru Airport,True,False,Ifuru Airport,True,False,Ifuru Airport,True,False,Raa Hulhudhuffaaru
+142,17,False,False,False,154.0260763843356,False,,0,0,,False,False,,False,False,,False,False,,False,False,Dharavandhoo Airport; Ifuru Airport; Madivaru Airport,True,False,Raa In'guraidhoo
+143,17,False,False,False,161.3492126267709,False,,0,0,,False,False,,False,False,,False,False,Ifuru Airport,True,False,Ifuru Airport; Madivaru Airport,True,False,Raa Innamaadhoo
+144,17,False,False,False,151.303500596111,False,,0,0,,False,False,,False,False,,False,False,,False,False,Dharavandhoo Airport; Ifuru Airport; Madivaru Airport,True,False,Raa Kinolhas
+145,17,False,False,False,167.3614719837402,False,,0,0,,False,False,,False,False,Ifuru Airport,True,False,Ifuru Airport,True,False,Ifuru Airport; Madivaru Airport,True,False,Raa Maakurathu
+146,17,False,False,False,160.9443322995686,False,,0,0,,False,False,,False,False,,False,False,,False,False,Ifuru Airport,True,False,Raa Maduvvari
+157,18,False,False,False,155.3989203067042,False,,0,0,,False,False,,False,False,,False,False,,False,False,Dharavandhoo Airport; Ifuru Airport,True,False,Raa Meedhoo
+148,17,False,False,False,190.086261721691,False,,0,0,,False,False,,False,False,Ifuru Airport,True,False,Ifuru Airport,True,False,Ifuru Airport,True,False,Raa Rasgetheemu
+149,17,False,False,False,162.8106160976383,False,,0,0,,False,False,,False,False,,False,False,Ifuru Airport,True,False,Ifuru Airport; Madivaru Airport,True,False,Raa Rasmaadhoo
+150,17,False,False,False,174.4099103040201,False,,0,0,Ifuru Airport,True,False,Ifuru Airport,True,False,Ifuru Airport,True,False,Ifuru Airport,True,False,Ifuru Airport,True,False,Raa Un'goofaaru
+151,17,False,False,False,195.6297641883715,False,,0,0,,False,False,,False,False,,False,False,Ifuru Airport,True,False,Ifuru Airport,True,False,Raa Vaadhoo
+160,19,True,False,False,541.6956651560469,False,,0,0,Gan International Airport,True,True,Gan International Airport,True,True,Gan International Airport,True,True,Gan International Airport,True,True,Gan International Airport,True,True,Seenu Feydhoo
+153,18,True,True,False,534.2652008814332,False,,0,0,,False,False,,False,False,Gan International Airport,True,True,Gan International Airport,True,True,Gan International Airport,True,True,Seenu Hithadhoo
+154,18,False,False,False,531.5196968155511,False,,0,0,,False,False,,False,False,Gan International Airport,True,True,Gan International Airport,True,True,Gan International Airport; Fuvahmulah Airport,True,True,Seenu Hulhudhoo
+155,18,True,False,False,539.8945308298267,False,,0,0,,False,False,Gan International Airport,True,True,Gan International Airport,True,True,Gan International Airport,True,True,Gan International Airport,True,True,Seenu Maradhoo
+156,18,False,False,False,540.7549753742322,False,,0,0,Gan International Airport,True,True,Gan International Airport,True,True,Gan International Airport,True,True,Gan International Airport,True,True,Gan International Airport,True,True,Seenu Maradhoofeydhoo
+157,18,False,False,False,530.0674125144893,False,,0,0,,False,False,,False,False,Gan International Airport,True,True,Gan International Airport,True,True,Gan International Airport; Fuvahmulah Airport,True,True,Seenu Meedhoo
+158,19,False,False,False,247.7627139588589,False,,0,0,,False,False,,False,False,,False,False,,False,False,Kulhudhuffushi Airport; Funadhoo Airport,True,False,Shaviyani Bileiyfahi
+159,19,False,False,False,244.0640739410352,False,,0,0,,False,False,,False,False,,False,False,,False,False,Kulhudhuffushi Airport; Funadhoo Airport,True,False,Shaviyani Feevah
+160,19,False,False,False,248.3814622860427,False,,0,0,,False,False,,False,False,,False,False,,False,False,Kulhudhuffushi Airport; Funadhoo Airport,True,False,Shaviyani Feydhoo
+161,19,False,False,False,242.6228487549804,False,,0,0,,False,False,,False,False,,False,False,,False,False,Kulhudhuffushi Airport; Funadhoo Airport,True,False,Shaviyani Foakaidhoo
+162,19,True,False,False,221.3759771926519,True,Funadhoo Airport,0,0,Funadhoo Airport,True,False,Funadhoo Airport,True,False,Funadhoo Airport,True,False,Funadhoo Airport,True,False,Funadhoo Airport,True,False,Shaviyani Funadhoo
+163,19,False,False,False,258.9047290329328,False,,0,0,,False,False,,False,False,,False,False,,False,False,Kulhudhuffushi Airport,True,False,Shaviyani Goidhoo
+164,19,False,False,False,260.4072314548754,False,,0,0,,False,False,,False,False,,False,False,,False,False,Kulhudhuffushi Airport,True,False,Shaviyani Kan'ditheemu
+165,19,False,False,False,215.0205032508914,False,,0,0,,False,False,,False,False,,False,False,,False,False,Ifuru Airport; Funadhoo Airport,True,False,Shaviyani Komandoo
+166,19,False,False,False,223.0700185439961,False,,0,0,Funadhoo Airport,True,False,Funadhoo Airport,True,False,Funadhoo Airport,True,False,Funadhoo Airport,True,False,Funadhoo Airport,True,False,Shaviyani Lhaimagu
+167,19,False,False,False,208.5797344943306,False,,0,0,,False,False,,False,False,Funadhoo Airport,True,False,Funadhoo Airport,True,False,Maafaru International Airport; Funadhoo Airport,True,True,Shaviyani Maaun'goodhoo
+168,19,False,False,False,231.6868653860943,False,,0,0,,False,False,,False,False,,False,False,,False,False,Funadhoo Airport,True,False,Shaviyani Maroshi
+169,19,True,False,False,236.6777245074877,False,,0,0,,False,False,,False,False,Funadhoo Airport,True,False,Funadhoo Airport,True,False,Funadhoo Airport,True,False,Shaviyani Milandhoo
+170,19,False,False,False,234.6157069551868,False,,0,0,,False,False,,False,False,Funadhoo Airport,True,False,Funadhoo Airport,True,False,Funadhoo Airport,True,False,Shaviyani Narudhoo
+171,19,False,False,False,255.9673653644192,False,,0,0,,False,False,,False,False,,False,False,,False,False,Hanimaadhoo International Airport; Kulhudhuffushi Airport; Funadhoo Airport,True,True,Shaviyani Noomaraa
+172,20,False,False,False,185.1366536509518,False,,0,0,,False,False,,False,False,,False,False,,False,False,Thimarafushi Airport; Dhaalu Airport,True,False,Thaa Burunee
+173,20,False,False,False,204.8887720005258,False,,0,0,,False,False,,False,False,,False,False,,False,False,Thimarafushi Airport,True,False,Thaa Dhiyamigili
+174,20,False,False,False,216.2225844954678,False,,0,0,,False,False,Thimarafushi Airport,True,False,Thimarafushi Airport,True,False,Thimarafushi Airport,True,False,Thimarafushi Airport,True,False,Thaa Gaadhiffushi
+175,20,False,False,False,207.0194281375245,False,,0,0,,False,False,,False,False,,False,False,,False,False,Thimarafushi Airport,True,False,Thaa Guraidhoo
+176,20,False,False,False,221.2162004673198,False,,0,0,,False,False,,False,False,,False,False,,False,False,Thimarafushi Airport,True,False,Thaa Hirilandhoo
+177,20,False,False,False,216.3256958640512,False,,0,0,,False,False,,False,False,,False,False,,False,False,Thimarafushi Airport; Dhaalu Airport,True,False,Thaa Kan'doodhoo
+178,20,False,False,False,228.449609637164,False,,0,0,,False,False,,False,False,Thimarafushi Airport,True,False,Thimarafushi Airport,True,False,Thimarafushi Airport,True,False,Thaa Kin'bidhoo
+179,20,False,False,False,202.844030178712,False,,0,0,,False,False,,False,False,,False,False,,False,False,Thimarafushi Airport,True,False,Thaa Madifushi
+180,20,False,False,False,229.5860441674439,False,,0,0,,False,False,,False,False,,False,False,Thimarafushi Airport,True,False,Thimarafushi Airport,True,False,Thaa Omadhoo
+181,20,False,False,False,222.1636878746994,True,Thimarafushi Airport,0,0,Thimarafushi Airport,True,False,Thimarafushi Airport,True,False,Thimarafushi Airport,True,False,Thimarafushi Airport,True,False,Thimarafushi Airport,True,False,Thaa Thimarafushi
+182,20,False,False,False,218.6329569888319,True,Dharavandhoo Airport,0,0,,False,False,,False,False,,False,False,,False,False,Thimarafushi Airport,True,False,Thaa Vandhoo
+183,20,False,False,False,225.7207467204196,False,,0,0,,False,False,Thimarafushi Airport,True,False,Thimarafushi Airport,True,False,Thimarafushi Airport,True,False,Thimarafushi Airport,True,False,Thaa Veymandoo
+184,20,False,False,False,187.1783964797066,False,,0,0,,False,False,,False,False,,False,False,,False,False,Thimarafushi Airport,True,False,Thaa Vilufushi
+185,21,False,False,False,78.22213956932973,False,,0,0,,False,False,,False,False,,False,False,,False,False,,False,False,Vaavu Felidhoo
+186,21,False,False,False,55.91336087409054,False,,0,0,,False,False,,False,False,,False,False,,False,False,,False,False,Vaavu Fulidhoo
+187,21,False,False,False,79.33492669331429,False,,0,0,,False,False,,False,False,,False,False,,False,False,,False,False,Vaavu Keyodhoo
+188,21,False,False,False,95.67964933322983,False,,0,0,,False,False,,False,False,,False,False,,False,False,,False,False,Vaavu Rakeedhoo
+189,21,False,False,False,76.42675805504861,False,,0,0,,False,False,,False,False,,False,False,,False,False,,False,False,Vaavu Thinadhoo

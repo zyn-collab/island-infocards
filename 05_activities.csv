@@ -1,0 +1,1283 @@
+activity_id,island_id,category,name
+1,1,restaurant_cafe,Niru Bakery
+2,1,restaurant_cafe,Aliha Cafe
+3,1,restaurant_cafe,Funrelish
+4,1,recreational,Water Sports
+5,1,recreational,Fishing
+6,1,recreational,Scuba Diving
+7,1,recreational,Snorkeling
+8,1,natural_attraction,Banyan Tree
+9,1,cultural_experience,Ahkan Valhu
+10,1,excursion,Night Fishing
+11,1,historical_attraction,Visit Old Friday Mosque
+12,2,restaurant_cafe,Iruma Cafe
+13,2,restaurant_cafe,Corner Hut
+14,2,recreational,Diving at Himandhoo Reef
+15,2,recreational,Diving at Manta Point
+16,2,recreational,Diving at Whale Shark Point
+17,2,recreational,Fishing
+18,2,recreational,Sports
+19,2,recreational,Picnic at Tourist Beach
+20,2,natural_attraction,Nikagas
+21,2,cultural_experience,Toddy Making
+22,2,cultural_experience,Thatch Weaving
+23,2,excursion,Island Hopping
+24,2,excursion,Sandbank Trip
+25,2,excursion,Manta Ray Tours
+26,2,excursion,Dolphin Cruise
+27,2,excursion,Turtle Tours
+28,2,historical_attraction,Old Friday mosque visit
+29,3,restaurant_cafe,Coffee Pot
+30,3,recreational,Fishing
+31,3,recreational,Diving
+32,3,recreational,Snorkeling
+33,3,excursion,Dolphin Cruise
+34,3,excursion,Sandbank Trip
+35,3,excursion,Night Fishing
+36,3,excursion,Island Hopping
+37,4,restaurant_cafe,Cafe Palato
+38,4,restaurant_cafe,Mathiveri Skyview
+39,4,restaurant_cafe,Second Home
+40,4,recreational,Water Sports
+41,4,recreational,Picnic at Tourist Beach
+42,4,recreational,Fishing
+43,4,recreational,Snorkeling
+44,4,recreational,Diving
+45,4,natural_attraction,Banyan Tree
+46,4,cultural_experience,Thatch Weaving
+47,4,excursion,Shark Point
+48,4,excursion,Mas Race
+49,4,excursion,Sunset Cruise
+50,4,excursion,Trip to Picnic Island
+51,4,historical_attraction,Hukuru Miskiy
+52,4,other_activity,Farmland Tours
+53,6,restaurant_cafe,Sweet and Treat Restaurant
+54,6,restaurant_cafe,Kavaabu Restaurant
+55,6,restaurant_cafe,The Mint Garden
+56,6,restaurant_cafe,Coffee Moon
+57,6,restaurant_cafe,Lagoon Restaurant
+58,6,restaurant_cafe,Bayside
+59,6,restaurant_cafe,Seli Poeli
+60,6,restaurant_cafe,Cherry Beans
+61,6,restaurant_cafe,Food Land
+62,6,restaurant_cafe,Panda Cafe Restaurant
+63,6,restaurant_cafe,Dhaagaba Restaurant
+64,6,restaurant_cafe,Seven Spices
+65,6,recreational,Beach Dinners
+66,6,recreational,Barbeque
+67,6,recreational,Picnic
+68,6,recreational,Visit Watermelon Farms
+69,6,natural_attraction,WOW Magu
+70,6,excursion,Sandbank Trips
+71,6,historical_attraction,Hukuru Miskiy
+72,6,historical_attraction,Visit Dhaagaba
+73,7,recreational,Swimming with Manta Rays
+74,7,recreational,Diving
+75,7,recreational,Fishing
+76,7,recreational,Snorkeling
+77,7,natural_attraction,Old Friday mosque visit
+78,7,natural_attraction,Banyan Tree
+79,7,excursion,Sandbank Trip
+80,7,excursion,Picnic Island Trip
+81,8,restaurant_cafe,Hawaee Foods
+82,8,restaurant_cafe,Monalaz cafe
+83,8,restaurant_cafe,Compass Beach & Bistro
+84,8,restaurant_cafe,The Blue Moon Cafe
+85,8,recreational,Diving
+86,8,recreational,Fishing
+87,8,recreational,Snorkeling
+88,8,excursion,Sunset Cruise
+89,8,excursion,Dolphin Tour
+90,8,excursion,Sandbank Trips
+91,8,excursion,Barbecue
+92,9,restaurant_cafe,Bonthi Restaurant
+93,9,restaurant_cafe,Beach Cafe Dhigurah
+94,9,restaurant_cafe,Shell Restaurant and Cafe
+95,9,restaurant_cafe,Long Beach Restaurant
+96,9,recreational,Water Sports
+97,9,recreational,Diving
+98,9,recreational,Beach Barbeque
+99,9,recreational,Fishing
+100,9,recreational,Snorkeling
+101,10,restaurant_cafe,Futtaru Cafe
+102,10,restaurant_cafe,Coffee Joadu
+103,10,recreational,Fishing
+104,10,recreational,Snorkeling
+105,10,excursion,Beach Barbeque
+106,10,excursion,Whale Shark Snorkelling
+107,10,excursion,Sports Fishing
+108,11,restaurant_cafe,Ekuveri Hiya
+109,11,recreational,Diving
+110,11,recreational,Fishing
+111,11,recreational,Snorkeling
+112,11,natural_attraction,Fenfushi Thundi
+113,11,cultural_experience,Visit to Traditional Mosque
+114,12,restaurant_cafe,Two Leaf Garden
+115,12,restaurant_cafe,Pausa Cafe
+116,12,recreational,Diving
+117,12,recreational,Snorkeling
+118,12,recreational,Fishing
+119,13,restaurant_cafe,Udhares Cafe
+120,13,recreational,Fishing
+121,13,recreational,Snorkeling
+122,14,restaurant_cafe,Rindhali Cafe and Restaurant
+123,14,restaurant_cafe,Epazote Restaurant
+124,14,restaurant_cafe,Maaniya Restaurant
+125,14,recreational,Fishing
+126,14,recreational,Snorkeling
+127,14,excursion,Whale Shark Trips
+128,14,excursion,Picnic Trips
+129,15,recreational,Delish
+130,15,natural_attraction,Barbecue
+131,15,natural_attraction,Fishing
+132,15,natural_attraction,Snorkeling
+133,16,natural_attraction,Snorkeling with Sharks
+134,16,natural_attraction,Manta Ray Tours
+135,16,natural_attraction,Whale Shark Watching
+136,16,natural_attraction,Beach Barbeque
+137,16,natural_attraction,Fishing
+138,16,natural_attraction,Snorkeling
+139,17,restaurant_cafe,Ruhjehi Hotaa
+140,17,restaurant_cafe,Lilly Garden
+141,17,restaurant_cafe,Cafe Moorish
+142,17,restaurant_cafe,Green Island Taste
+143,17,recreational,Beach Barbeque
+144,17,recreational,Fishing
+145,17,recreational,Water Sports
+146,17,recreational,Diving
+147,17,recreational,Snorkeling
+148,17,excursion,Dolphin Cruise
+149,17,excursion,Whale Shark Watching
+150,17,excursion,Swimming with Manta Ray
+151,17,excursion,Night Fishing
+152,18,restaurant_cafe,Gelato Baa
+153,18,restaurant_cafe,Layers Cafe & Bakers
+154,18,restaurant_cafe,Lofty Corner
+155,18,restaurant_cafe,Colada Cafe
+156,18,restaurant_cafe,JIS Cafe
+157,18,restaurant_cafe,Taste Baa
+158,18,restaurant_cafe,Cafe D' Port
+159,18,restaurant_cafe,Tea's Me
+160,18,restaurant_cafe,Honey Bunny
+161,18,recreational,Snorkeling
+162,18,recreational,Sports Fishing
+163,18,recreational,Diving
+164,18,natural_attraction,Bodunikagas
+165,18,excursion,Sunset Cruise
+166,18,excursion,Dolphin Cruise
+167,18,excursion,Island Hopping
+168,18,excursion,Hanifaru Bay
+169,18,excursion,Angafaru Sandbank
+170,18,other_activity,Souvenir Shopping
+171,18,other_activity,Coral Boutique
+172,18,other_activity,Dharavandhoo Souvenirs
+173,18,other_activity,Kihaa Beach Spa
+174,18,other_activity,Blueworld Dharavandhoo
+175,18,other_activity,Dharavandhoo Divers
+176,18,other_activity,Liquid Salt Divers
+177,19,restaurant_cafe,Front Cafe
+178,19,recreational,Fishing
+179,19,recreational,Snorkeling
+180,19,excursion,Sunset Ride
+181,19,excursion,Evening Dolphin Cruise
+182,19,excursion,Sandbank Walk
+183,19,excursion,Morning Dolphin Cruise
+184,19,excursion,Hanifaru Island Day Trips
+185,20,restaurant_cafe,Lemon Wood
+186,20,restaurant_cafe,White by Eight S
+187,20,restaurant_cafe,Gasdhoshu Garden
+188,20,restaurant_cafe,Bella Vista Restaurant
+189,20,restaurant_cafe,Village Hut
+190,20,restaurant_cafe,Hangout Café
+191,20,recreational,Fishing
+192,20,recreational,Snorkeling
+193,20,recreational,Surfing
+194,21,recreational,Kuchina Restaurant and Café
+195,21,natural_attraction,Snorkeling
+196,21,natural_attraction,Surfing
+197,21,natural_attraction,Fishing
+198,21,historical_attraction,Sand Bank Trip
+199,22,recreational,Water Sports
+200,22,recreational,Fishing
+201,22,recreational,Diving
+202,22,excursion,Sandbank
+203,22,excursion,Island Hopping
+204,23,restaurant_cafe,Lantyz Garden
+205,23,recreational,Snorkeling
+206,23,recreational,Jet Skiing
+207,23,excursion,Reef Fishing
+208,24,recreational,Globus Cafe
+209,24,recreational,Fresh Cafe
+210,24,recreational,Tarf Cafe
+211,24,recreational,Island Cube
+212,24,recreational,F7 Cafe
+213,24,natural_attraction,Scuba Diving
+214,24,natural_attraction,Fishing
+215,24,natural_attraction,Snorkeling
+216,24,historical_attraction,Reef Fishing
+217,24,historical_attraction,Sports Fishing
+218,24,historical_attraction,Dhogiri Island
+219,24,historical_attraction,Island Hopping
+220,24,historical_attraction,Sandbank Trip
+221,24,historical_attraction,Dolphin Cruise
+222,25,restaurant_cafe,Sea Side Cafe
+223,25,restaurant_cafe,Coffee Hall
+224,25,restaurant_cafe,Nalahiya Restaurant
+225,25,recreational,Yoga on the beach
+226,25,recreational,Water Sports
+227,25,recreational,Diving
+228,25,recreational,Fishing
+229,25,recreational,Snorkeling
+230,25,natural_attraction,Vevu
+231,25,natural_attraction,Nikagas (100 years old Banyan tree)
+232,25,cultural_experience,Fathigandu neshun (folk dance)
+233,25,cultural_experience,Maafathi neshun (folk dance)
+234,25,cultural_experience,Boduberu jehun (traditional music)
+235,25,cultural_experience,Dhandijehun (folk dance)
+236,25,cultural_experience,Island life
+237,25,cultural_experience,Coir making
+238,26,restaurant_cafe,Cofee Nest
+239,26,recreational,Fishing
+240,26,recreational,Snorkeling
+241,26,natural_attraction,Kendhoo Magaamfulhu
+242,26,natural_attraction,Baa Atoll Biosphere reserve
+243,26,excursion,Reef Fish Fishing
+244,27,restaurant_cafe,Goshi Joadu
+245,27,restaurant_cafe,Power Coffee
+246,27,recreational,Diving
+247,27,recreational,Sports
+248,27,recreational,Snorkeling
+249,27,recreational,Water Sports
+250,27,cultural_experience,Rukufathi
+251,27,cultural_experience,Rukuraaverikan
+252,27,excursion,Hanifaru Bay
+253,27,excursion,Sandbank Trips
+254,27,excursion,Island Hopping
+255,28,restaurant_cafe,Ladudu Restaurant
+256,28,restaurant_cafe,Bonjour Bakery and Bistro
+257,28,recreational,Fishing
+258,28,recreational,Snorkeling
+259,28,recreational,Surfing
+260,28,natural_attraction,Boegas
+261,28,natural_attraction,Old Mosque
+262,28,natural_attraction,Ibrahimfulhu Museum
+263,28,natural_attraction,Baa Atoll Biosphere reserve
+264,29,recreational,Rooftop by Moonshell
+265,29,recreational,Waataru Cafe
+266,29,recreational,45 Coffee
+267,29,recreational,Cafe Pink Rose
+268,29,natural_attraction,Snorkeling
+269,29,natural_attraction,Scuba Diving
+270,29,historical_attraction,Dolphin Cruise
+271,29,historical_attraction,Sunset Cruise
+272,29,historical_attraction,Island Hopping
+273,29,historical_attraction,Hanifaru Bay
+274,29,historical_attraction,Sandbank Trip
+275,30,restaurant_cafe,Nees Garden
+276,30,recreational,Island life
+277,30,recreational,Reef Fishing
+278,30,recreational,Big Game Fishing
+279,30,recreational,Snorkeling
+280,30,recreational,Water Sports
+281,30,natural_attraction,Kadhuru Park
+282,30,cultural_experience,Lacquer Handicrafts Tour
+283,31,restaurant_cafe,Star Glory
+284,31,restaurant_cafe,Iruvai Cafe
+285,31,recreational,Fishing Trips
+286,31,recreational,Snorkeling
+287,31,historical_attraction,Visit to Old Friday Mosque
+288,32,restaurant_cafe,Green Diamond
+289,32,restaurant_cafe,Endheri Coffee House
+290,32,recreational,Snorkeling
+291,32,recreational,Diving
+292,32,recreational,Fishing Trips
+293,32,excursion,A visit to Dhonbandaara Ziyaraiy
+294,33,natural_attraction,Surfing
+295,33,excursion,Fishing
+296,34,restaurant_cafe,Jugo Buona
+297,34,restaurant_cafe,Befaan Royal
+298,34,recreational,Surfing
+299,34,recreational,Water Sports
+300,34,recreational,Snorkeling
+301,34,recreational,Game Fishing
+302,34,historical_attraction,Visit to Masjidhul Zikura
+303,35,restaurant_cafe,Fini Point
+304,35,restaurant_cafe,Aqua Sweet Restaurant
+305,35,recreational,Night Fishing
+306,35,recreational,Surfing
+307,35,recreational,Snorkelling
+308,35,recreational,Fishing
+309,36,restaurant_cafe,Thileyru Cafe
+310,36,recreational,Fishing
+311,36,recreational,Snorkeling
+312,36,recreational,Diving
+313,36,cultural_experience,Visit to Hukuru Miskiy
+314,36,cultural_experience,Tour of Sagaafee Magu
+315,36,cultural_experience,Island tour
+316,37,restaurant_cafe,Aroma Cafe'
+317,37,recreational,Diving
+318,37,recreational,Snorkeling
+319,37,natural_attraction,Banyan Tree Tour
+320,37,natural_attraction,Visit to Bilehdhoo Fasgandu
+321,38,restaurant_cafe,Mashah Veevaru Cafe'
+322,38,restaurant_cafe,Bits and Bites
+323,38,recreational,Snorkeling
+324,38,natural_attraction,Thundhi
+325,38,natural_attraction,Olhukolhu
+326,38,natural_attraction,Koala Aunu
+327,39,restaurant_cafe,Canopus
+328,39,restaurant_cafe,Ranthari Cafe
+329,39,recreational,Cave diving
+330,39,recreational,Fishing
+331,39,cultural_experience,Island life
+332,40,natural_attraction,Snorkeling
+333,41,recreational,Water sports
+334,41,recreational,Fishing
+335,41,recreational,Snorkeling
+336,41,cultural_experience,Cultural music
+337,41,cultural_experience,Old Friday Mosque
+338,41,excursion,Barbeque on uninhabited islands
+339,41,excursion,Sandbank day trip
+340,41,excursion,Octopus hunting
+341,41,excursion,Night fishing
+342,41,excursion,Big game fishing
+343,41,excursion,Dolphin watching
+344,41,excursion,Eagle ray watching trips
+345,42,recreational,Muneem Nice Cafe
+346,42,recreational,Saman Cafe
+347,42,recreational,Lui Cafe
+348,42,recreational,Bamos
+349,42,natural_attraction,Water Sports
+350,42,natural_attraction,Fishing
+351,42,natural_attraction,Diving
+352,42,cultural_experience,Hikki Keyle Vadaa
+353,42,excursion,Thiruge
+354,42,historical_attraction,Sandbank Trip
+355,42,historical_attraction,Island Hopping
+356,43,restaurant_cafe,Cafe Fanthoshi
+357,43,restaurant_cafe,Cafe Bonenza
+358,43,recreational,Water Sports
+359,43,recreational,Fishing
+360,43,recreational,Diving
+361,43,natural_attraction,Hikki Keyle Vadaa
+362,43,cultural_experience,Thiruge
+363,43,excursion,Sandbank Trip
+364,43,excursion,Island Hopping
+365,44,restaurant_cafe,Royal
+366,44,restaurant_cafe,Taro Cafe and Restaurant
+367,44,recreational,Fishing
+368,44,recreational,Snorkeling
+369,44,natural_attraction,Sunrise beach
+370,44,natural_attraction,Paradise Beach
+371,44,natural_attraction,Maareha View Beach
+372,44,natural_attraction,Zero
+373,44,cultural_experience,Handicraft
+374,44,cultural_experience,Agriculture
+375,44,historical_attraction,Ancient Cemetery
+376,45,restaurant_cafe,Huvadhoo Cafe & Bistro
+377,45,restaurant_cafe,Coffee Gallery
+378,45,recreational,Snorkeling
+379,45,cultural_experience,Kasabu Viun
+380,45,excursion,Fishing
+381,46,natural_attraction,Lavista Cafe
+382,46,natural_attraction,Anni Cafe
+383,46,cultural_experience,Surfing
+384,46,historical_attraction,Maahuttey Ziyaratha
+385,46,other_activity,Island Hopping
+386,46,other_activity,Island Tour
+387,46,other_activity,Picnic Island Visits
+388,46,other_activity,Fishing
+389,47,natural_attraction,Fishing
+390,47,natural_attraction,Snorkeling
+391,48,recreational,Sprinkles Bakery
+392,48,recreational,The Village Cafe and Restaurant
+393,48,recreational,Maakeyn
+394,48,recreational,Atige
+395,48,natural_attraction,Island Tour
+396,48,natural_attraction,Fishing Trips
+397,49,recreational,Wooden Cafe'
+398,49,natural_attraction,Barbecue
+399,49,historical_attraction,Sandbank Trips
+400,49,historical_attraction,Island Hopping
+401,49,historical_attraction,Picnic
+402,50,restaurant_cafe,Chaayaa Restaurent
+403,50,restaurant_cafe,Cloud Berry
+404,50,restaurant_cafe,Ocean Grill
+405,50,restaurant_cafe,Miaz Cafe
+406,50,restaurant_cafe,Sheesha/ Hookah Restaurant
+407,50,restaurant_cafe,Coffee Break
+408,50,restaurant_cafe,Lemon Sugar
+409,50,restaurant_cafe,The Sugar
+410,50,restaurant_cafe,Miriha Cafe
+411,50,recreational,Visit to Mangroves
+412,50,recreational,Butterfly Park (opening in October)
+413,50,recreational,Vilingili Corner -Diving
+414,50,recreational,Shipwreck dive
+415,50,recreational,Snorkeling
+416,50,natural_attraction,Love point and Valhegadaa beach
+417,51,natural_attraction,Surfing
+418,51,natural_attraction,Diving
+419,51,natural_attraction,Snorkeling
+420,51,natural_attraction,Reef fishing
+421,51,natural_attraction,Pole&line fishing
+422,51,historical_attraction,Virgin island Maahutigala day trip
+423,51,historical_attraction,Laabadhoo day trip
+424,51,historical_attraction,Picnic island day trip
+425,52,recreational,KIVI C
+426,52,natural_attraction,water sports
+427,52,natural_attraction,Sailing
+428,52,natural_attraction,Surfing
+429,52,cultural_experience,Exploring mangroves
+430,52,excursion,Cultural dances
+431,52,excursion,Visiting farms
+432,52,historical_attraction,Island tour
+433,53,natural_attraction,Fishing
+434,53,natural_attraction,Snorkeling
+435,53,natural_attraction,Surfing
+436,54,recreational,Picnic island day trips
+437,54,recreational,Mangrove tour
+438,54,recreational,Farm tours
+439,54,recreational,Coral gardening
+440,54,recreational,Fishing
+441,54,recreational,Snorkeling
+442,54,cultural_experience,Old Friday Mosque Tour
+443,55,recreational,Fishing
+444,55,recreational,Snorkeling
+445,56,natural_attraction,Snorkeling
+446,56,natural_attraction,Fishing
+447,57,restaurant_cafe,Coffeeology
+448,57,recreational,Nature -field trips
+449,57,recreational,Octopus fishing
+450,57,recreational,Be a sailor
+451,57,recreational,Rathafandhoo Island Tour
+452,57,recreational,Snorkeling
+453,57,recreational,Reef Fishing
+454,57,cultural_experience,Virgin Island Barbeque
+455,57,excursion,A day on a virgin island
+456,57,excursion,5 local island tour
+457,58,recreational,Surfing
+458,58,recreational,Snorkeling
+459,58,excursion,Picnic island day trips
+460,59,recreational,Fishing
+461,59,recreational,Snorkeling
+462,59,recreational,Surfing
+463,60,restaurant_cafe,Pebbles by Royal
+464,60,restaurant_cafe,Cool Banana
+465,60,restaurant_cafe,Highway Restaurant
+466,60,recreational,Water sports
+467,60,recreational,Scuba Diving
+468,60,recreational,Surfing
+469,60,excursion,Island Tour
+470,60,excursion,Visiting Mangroves
+471,60,excursion,Nature Park tour
+472,60,excursion,Fishing
+473,60,excursion,Snorkeling
+474,61,restaurant_cafe,Velaalu Café
+475,61,restaurant_cafe,Lamensa Café
+476,61,restaurant_cafe,Jasmine café
+477,61,recreational,Surfing
+478,61,recreational,Snorkeling
+479,61,recreational,Fishing
+480,61,natural_attraction,3 Berebedhi
+481,61,natural_attraction,"Kamanaa Magu, Kamanaa Olhu and 2 Wells"
+482,61,natural_attraction,Remains of place where Kalhuoh Fummi Vessel was built
+483,61,natural_attraction,Kamanaa Olhu
+484,61,historical_attraction,Old Friday Mosque
+485,61,historical_attraction,Gravestone of Kamba Aisha
+486,62,recreational,Water sports
+487,62,recreational,Snorkeling
+488,62,recreational,Fishing
+489,62,recreational,Kite Surfing
+490,62,cultural_experience,Hichchai Baiy
+491,63,recreational,Snorkeling
+492,64,restaurant_cafe,Maza Restaurant
+493,64,restaurant_cafe,Palm Restaurant
+494,64,restaurant_cafe,Scuba Cafe'
+495,64,recreational,Fishing
+496,64,recreational,Snorkeling
+497,64,natural_attraction,Gailandhoo
+498,64,natural_attraction,Billedhoo Thila
+499,64,historical_attraction,Ziyaaraiy - Cemetary
+500,64,historical_attraction,Tomb of Hui Ali Didi
+501,64,historical_attraction,Kuda Miskiy
+502,65,recreational,Fishing tours
+503,65,recreational,Snorkeling
+504,65,cultural_experience,Coir making
+505,65,cultural_experience,Boat building tour
+506,65,historical_attraction,Old Mosque tour -included in world heritage list
+507,66,restaurant_cafe,Michoobs La Director Cafe
+508,66,recreational,Catamaran sailing
+509,66,recreational,Kite Surfing
+510,66,recreational,Coral gardening
+511,66,recreational,Jet skiing
+512,66,recreational,Wind Surfing
+513,66,recreational,Fishing
+514,66,recreational,Water sports
+515,66,recreational,Snorkeling
+516,66,cultural_experience,Banana plantation tour
+517,66,cultural_experience,Thatch weaving
+518,66,cultural_experience,Island Tour
+519,66,cultural_experience,Visiting Mangroves
+520,66,cultural_experience,Farm tour
+521,67,recreational,Sun Cafe
+522,67,recreational,S Cafe
+523,67,natural_attraction,Fishing tours
+524,67,natural_attraction,Mangrove tour
+525,67,natural_attraction,Snorkeling
+526,67,excursion,Stone curving (Old cemetery)
+527,67,excursion,Boduberu Jehun (local music)
+528,67,excursion,Coir making
+529,68,recreational,Lacquer work tour
+530,68,recreational,Water sports
+531,68,recreational,Snorkeling
+532,68,natural_attraction,Visiting mangrove
+533,68,cultural_experience,Thatch weaving
+534,68,cultural_experience,Ziyarah
+535,68,excursion,Dolphin watching
+536,68,historical_attraction,100 years Old Cemetery
+537,69,natural_attraction,Fishing
+538,69,natural_attraction,Snorkeling
+539,69,excursion,Farm tours
+540,69,historical_attraction,Resort & Farm island day trip
+541,70,recreational,Local Fishing trips
+542,70,recreational,Snorkeling
+543,70,cultural_experience,Kandoo dish
+544,70,cultural_experience,Ziyarah tour
+545,70,cultural_experience,Mangrove tour
+546,70,cultural_experience,Stone curving (Old cemetery)
+547,70,cultural_experience,Coir making
+548,70,cultural_experience,Thatch weaving
+549,72,recreational,Island tour
+550,72,recreational,Snorkeling
+551,72,cultural_experience,Thatch weaving
+552,74,recreational,Old Friday Mosque tour
+553,74,recreational,Fishing
+554,74,recreational,Snorkeling
+555,75,natural_attraction,Fishing
+556,75,natural_attraction,Snorkeling
+557,75,cultural_experience,Mangrove Visit
+558,75,cultural_experience,Lake Tour
+559,75,excursion,Ancient Mosque
+560,76,natural_attraction,Scuba Diving
+561,76,natural_attraction,Fishing
+562,76,historical_attraction,Night Fishing
+563,77,cultural_experience,Mangrove
+564,78,recreational,Faaroshi Bakery
+565,78,recreational,Family Bakers and Bistro
+566,78,recreational,Feneena
+567,78,recreational,Kay Ashi
+568,78,recreational,Boakiru Cafe
+569,78,recreational,Carnival Restaurant
+570,78,recreational,Dose 2.0
+571,78,recreational,Orange Deck
+572,78,recreational,Taste Club
+573,78,recreational,La Stanza
+574,78,cultural_experience,Maafalu Fengandu
+575,78,cultural_experience,Ancient Cemetery
+576,78,cultural_experience,Rahvehi Aasaaru
+577,78,cultural_experience,Kulhudhuffushi Kulhi Tour
+578,79,restaurant_cafe,Cafe Blue Bliss
+579,79,recreational,Sport Fishing
+580,79,recreational,Reef Fishing
+581,79,recreational,Mangrove Tour
+582,79,natural_attraction,Kumundhoo Old Eid Mosque
+583,79,natural_attraction,Kumundhoo Uskanna
+584,79,natural_attraction,Sunset Beach
+585,79,natural_attraction,Vehisara Nature Park
+586,79,excursion,Farm Tours
+587,80,recreational,El Sabo Rico
+588,80,natural_attraction,Sandbank Trip
+589,80,natural_attraction,Fishing
+590,80,natural_attraction,Diving
+591,80,natural_attraction,Snorkeling
+592,81,recreational,Fizzy All
+593,81,recreational,Home Bakery
+594,81,natural_attraction,Sandbank Trip
+595,81,natural_attraction,Snorkeling
+596,81,natural_attraction,Fishing
+597,81,cultural_experience,Makunudhoo Falhu
+598,81,excursion,Bodufenvalhuge
+599,82,recreational,Chill Shot Cafe
+600,82,recreational,Oceano Cafe
+601,82,natural_attraction,Snorkeling
+602,82,natural_attraction,Wind Surfing
+603,82,cultural_experience,Mangrove Visit
+604,82,cultural_experience,Thundi Beach
+605,82,excursion,Seedhibeyge Valhu
+606,82,historical_attraction,Island Hopping
+607,83,recreational,Cafe Oligo
+608,83,natural_attraction,Snorkeling
+609,83,historical_attraction,Island Hopping
+610,84,restaurant_cafe,Fresh Bun
+611,84,restaurant_cafe,Huhthu Cafe
+612,84,restaurant_cafe,All Two Plus Cafe
+613,84,recreational,Surfing
+614,84,recreational,Snorkeling
+615,84,natural_attraction,Island Hiking
+616,84,natural_attraction,Gaburasthaanu Miskiy
+617,84,natural_attraction,Kandoofa
+618,85,natural_attraction,Snorkeling
+619,85,natural_attraction,Fishing
+620,85,cultural_experience,Nolhivaramu South Mangrove
+621,86,recreational,Mangrove tour
+622,86,recreational,Fishing
+623,86,recreational,Island Tour
+624,86,recreational,Snorkeling
+625,86,excursion,Dolphin Cruise
+626,87,recreational,Fishing
+627,87,recreational,Snorkeling
+628,87,recreational,Sports Fishing
+629,87,natural_attraction,Kuda Miskiy
+630,87,natural_attraction,Boe Gas
+631,87,natural_attraction,Lake Visit
+632,87,natural_attraction,Mangrove Visit
+633,88,recreational,Snorkeling
+634,88,cultural_experience,Old Friday Mosque Tour
+635,88,cultural_experience,Coir making
+636,88,cultural_experience,Thatch weaving
+637,88,cultural_experience,Boduberu Jehun (local music)
+638,89,recreational,Fishing
+639,89,recreational,Water sports
+640,89,recreational,Turtle watching tour
+641,89,recreational,Snorkeling
+642,89,recreational,Diving
+643,89,cultural_experience,Old Friday Mosque Tour
+644,89,excursion,Sandbank day trip
+645,90,restaurant_cafe,Coffe Sha
+646,90,recreational,Shark watching tour
+647,90,recreational,Fishing
+648,90,recreational,Diving
+649,90,recreational,Surfing
+650,91,recreational,Water sports
+651,91,recreational,Fishing
+652,91,recreational,Snorkeling
+653,91,recreational,Diving
+654,91,recreational,Surfing
+655,92,restaurant_cafe,Watersports Restaurant
+656,92,recreational,Water Sports
+657,92,recreational,Farm Tours
+658,92,recreational,Beach Barbeque
+659,92,recreational,Fishing
+660,92,recreational,Diving
+661,92,recreational,Snorkeling
+662,92,recreational,Surfing
+663,92,cultural_experience,Cultural Music
+664,92,excursion,Fish Factory Tour
+665,92,excursion,Sandbank Day Trip
+666,93,recreational,Crab watching tour
+667,93,recreational,Mangrove tour
+668,93,recreational,Night fishing
+669,93,recreational,Big game fishing
+670,93,recreational,Canoeing in mangrove
+671,93,recreational,Surfing
+672,93,cultural_experience,Dhonbandarainge miskih (Mosque) tour
+673,93,cultural_experience,Lacquer work tour
+674,93,excursion,Resort day trip
+675,93,excursion,Male' - Capital island tour
+676,93,excursion,Barbeque on sandbank
+677,94,recreational,Coconut Palm plantation visit
+678,94,recreational,Magrove apple plantation visit
+679,94,recreational,Banana plantation visit
+680,94,recreational,Farm tours
+681,94,recreational,Snorkeling
+682,94,cultural_experience,Visiting Kuruhinna Tharaahgandu
+683,94,cultural_experience,Visiting Old Friday Mosque
+684,95,recreational,Diving
+685,95,recreational,Snorkeling
+686,96,recreational,Sport fishing
+687,96,recreational,Water sports
+688,96,recreational,Diving
+689,96,recreational,Boat building tour
+690,96,recreational,Fish factory tour
+691,96,recreational,Coke factory tour
+692,96,recreational,Snorkeling
+693,96,recreational,Surfing
+694,97,restaurant_cafe,The Harbour Expresso
+695,97,recreational,Fishing
+696,97,recreational,Snorkeling
+697,97,natural_attraction,Fasgandu
+698,97,cultural_experience,Mas Golha Riha
+699,97,cultural_experience,Thatch Weaving
+700,97,cultural_experience,Visiting Buddhist Ruins
+701,97,excursion,Trip to Hulhiyandhoo
+702,98,recreational,Beach Spot
+703,98,recreational,The Jam Kitchen
+704,98,recreational,Pizca
+705,98,natural_attraction,Island Tour
+706,98,excursion,Old Friday Mosque
+707,99,recreational,Faheyli
+708,99,recreational,The Pandora Lodge
+709,99,recreational,Quench
+710,99,recreational,Finithari
+711,99,recreational,Retro Garden
+712,99,recreational,Café Azzuro
+713,99,recreational,Highway Beach
+714,99,recreational,Café Mo
+715,99,recreational,Laziz
+716,99,recreational,Coffee Zone
+717,99,natural_attraction,Barbecue
+718,99,natural_attraction,Surfing
+719,99,natural_attraction,Fishing
+720,99,natural_attraction,Snorkeling
+721,99,cultural_experience,Bodu Finolhu
+722,99,cultural_experience,Bodu Fenganda
+723,99,cultural_experience,Hattheli
+724,99,historical_attraction,Sailing Dhoani Cruise
+725,99,other_activity,Goatha Mosque Graveyard
+726,102,restaurant_cafe,Dhaavani Café
+727,102,restaurant_cafe,Highway Stop
+728,102,restaurant_cafe,West Park View
+729,102,recreational,Snorkeling
+730,102,recreational,Surfing
+731,102,recreational,Fishing
+732,102,natural_attraction,Bengan Koaru (Bengan River)
+733,102,cultural_experience,Isdhoo Havitha
+734,102,cultural_experience,Historical Mosque
+735,102,excursion,Dhiyadhoo Hinna
+736,102,excursion,Ihadhdhoo
+737,103,restaurant_cafe,Breezy Cafe
+738,103,recreational,Island Tour
+739,103,natural_attraction,Mangroves
+740,104,restaurant_cafe,Mango Garden Restaurant
+741,104,restaurant_cafe,Vaifini Cafe
+742,104,recreational,Whale Shark Watching
+743,104,recreational,Dolphin Cruise
+744,104,recreational,Snorkeling with Manta Rays
+745,104,recreational,Shark Watching
+746,104,recreational,Big Game Fishing
+747,104,recreational,Reef Fishing
+748,104,recreational,Snorkeling
+749,104,recreational,Surfing
+750,104,recreational,Diving
+751,104,natural_attraction,Maabaidhoo Machine
+752,104,natural_attraction,Kerandoo Bunbera
+753,104,natural_attraction,Fushi Kandu
+754,104,natural_attraction,Maabaidhoo River
+755,105,restaurant_cafe,Food Escape
+756,105,restaurant_cafe,Ohana
+757,105,restaurant_cafe,Blossom Café
+758,105,restaurant_cafe,Café Lungo
+759,105,restaurant_cafe,S-S & R
+760,105,recreational,Fishing Trips
+761,105,natural_attraction,Laamaafaru Shark Point
+762,105,cultural_experience,Coir Rope Making
+763,105,excursion,Trip to Hulhimendhoo
+764,106,restaurant_cafe,Relax Zone
+765,106,restaurant_cafe,Cool Quench
+766,106,restaurant_cafe,Harbour Café
+767,106,recreational,Fishing
+768,106,recreational,Surfing
+769,106,recreational,Water Bike
+770,106,natural_attraction,Kilaa Gandu
+771,107,restaurant_cafe,Jawaa Café
+772,107,recreational,Fishing
+773,107,recreational,Snorkeling
+774,107,recreational,Surfing
+775,107,cultural_experience,Thatch Weaving
+776,107,cultural_experience,Coir Rope Making
+777,107,historical_attraction,Buddhist Ruins
+778,107,historical_attraction,Old Well
+779,107,historical_attraction,Ancient Mosque
+780,108,restaurant_cafe,Sky Deck Restaurent
+781,108,restaurant_cafe,Grey Apple
+782,108,restaurant_cafe,Yakkitori Café'
+783,108,recreational,Snorkeling
+784,108,recreational,Fishing
+785,108,recreational,BBQ
+786,108,excursion,Excursion
+787,108,excursion,Picnic at beach area
+788,108,historical_attraction,Historical Mosque
+789,109,recreational,KYC00Kurendhoo Youth Café-Kurendhoo Café-
+790,109,natural_attraction,Surfing
+791,109,natural_attraction,Snorkeling
+792,109,natural_attraction,Fishing
+793,109,excursion,Old Friday Mosque
+794,109,excursion,Kurendhoo Loiziyarai
+795,109,excursion,Kurendhoo Valhukolhu
+796,111,restaurant_cafe,Olice
+797,111,recreational,Snorkeling
+798,111,recreational,Fish trip
+799,111,recreational,Banyan tree tour
+800,111,recreational,Dolphin watching
+801,111,recreational,Sandbank picnic trip
+802,111,recreational,Farm tours
+803,111,cultural_experience,Visit to Friday Mosque
+804,112,restaurant_cafe,Meenash Cafe
+805,112,recreational,Fishing
+806,112,recreational,Snorkeling
+807,112,cultural_experience,Maldivian Dinner Night
+808,112,cultural_experience,Rihaakuru Tour
+809,112,excursion,Sand Bank Trip
+810,112,excursion,Dolphin Tour
+811,112,excursion,Night Fishing
+812,113,restaurant_cafe,Two Four Ten Cafe
+813,113,restaurant_cafe,Jaafai cafe'
+814,113,recreational,Fishing
+815,113,recreational,Snorkeling
+816,113,cultural_experience,Thakurufaanu Mosque
+817,113,excursion,Jigging
+818,113,excursion,Shark tour
+819,113,excursion,Dolphin Watching
+820,114,restaurant_cafe,El Barco
+821,114,recreational,Sand Bank Trip
+822,114,recreational,Fishing
+823,114,recreational,Snorkeling
+824,114,excursion,Picnic Island Visits
+825,115,restaurant_cafe,VFC
+826,115,restaurant_cafe,Central Garden
+827,115,restaurant_cafe,Fishing Village
+828,115,recreational,Surfing
+829,115,recreational,Fishing
+830,115,recreational,Barbecue
+831,115,natural_attraction,Mangrove Visit
+832,115,excursion,Sandbank Tour
+833,115,excursion,Picnic Island Tour
+834,115,excursion,Dolphin Tour
+835,116,restaurant_cafe,A.N Coffee Club
+836,116,restaurant_cafe,Café Muli
+837,116,recreational,Tortoise watching
+838,116,recreational,Fishing and Octopus Catching
+839,116,recreational,Surfing
+840,116,recreational,Snorkeling
+841,116,recreational,Skate Park
+842,116,excursion,Trip to Boahura
+843,117,restaurant_cafe,Irama Cafe
+844,117,restaurant_cafe,Finihiya Cafe
+845,117,recreational,Surf Trips
+846,117,recreational,Snorkeling
+847,117,recreational,Souvenir Shopping
+848,117,cultural_experience,Old Mosque
+849,117,excursion,Fishing Tour
+850,118,recreational,Guraha Cafe
+851,118,natural_attraction,Fishing
+852,118,cultural_experience,Banyan Tree
+853,118,excursion,Raiymandhoo Ruins
+854,118,historical_attraction,Snorkeling on The House Reef
+855,119,restaurant_cafe,Haveeree café
+856,119,restaurant_cafe,Nilamehi café'
+857,119,recreational,Old Mosque
+858,119,recreational,Fishing
+859,119,recreational,Surfing
+860,119,recreational,Snorkeling
+861,123,natural_attraction,Snorkeling
+862,123,natural_attraction,Fishing
+863,123,cultural_experience,Bioluminescence in Fodhoo
+864,123,historical_attraction,Sandbank Trip
+865,124,natural_attraction,Fishing
+866,124,natural_attraction,Snorkeling
+867,125,recreational,Snorkeling
+868,125,recreational,Fishing
+869,126,recreational,Flamingo Cafe
+870,126,natural_attraction,Canoeing in mangrove
+871,126,natural_attraction,Snorkeling
+872,126,natural_attraction,Fishing
+873,127,natural_attraction,Fishing
+874,127,natural_attraction,Snorkeling
+875,128,recreational,Island Tour
+876,128,recreational,Sports
+877,128,recreational,Fishing
+878,128,recreational,Snorkeling
+879,129,recreational,Snorkeling
+880,130,natural_attraction,Water sports
+881,130,natural_attraction,Fishing
+882,130,natural_attraction,Snorkeling
+883,131,natural_attraction,Snorkeling
+884,131,natural_attraction,Fishing
+885,131,cultural_experience,Visit to Nature Park
+886,132,natural_attraction,Island Tour
+887,132,natural_attraction,Snorkeling
+888,132,natural_attraction,Fishing
+889,133,natural_attraction,Kite Surfing
+890,133,natural_attraction,Wind Surfing
+891,133,natural_attraction,Surfing
+892,133,natural_attraction,Fishing
+893,133,natural_attraction,Diving
+894,133,natural_attraction,Snorkeling
+895,133,excursion,Dhandi jehun
+896,133,excursion,Thatch weaving
+897,134,natural_attraction,Fishing
+898,134,natural_attraction,Snorkeling
+899,135,recreational,Island Tour
+900,135,recreational,Diving
+901,135,recreational,Barbeque (local style)
+902,135,recreational,Dolphin watching
+903,135,recreational,Big game fishing
+904,135,recreational,Snorkeling
+905,135,natural_attraction,Mangrove tour (Kendikulhudhoo)
+906,135,cultural_experience,Thatch weaving
+907,135,excursion,Picnic island day trips
+908,137,restaurant_cafe,Thihthi Cafe
+909,137,restaurant_cafe,Vaasiu Cafe
+910,137,recreational,Snorkeling
+911,137,natural_attraction,Farmlands
+912,137,natural_attraction,Usfasgandu
+913,137,natural_attraction,Kandoofaa
+914,137,cultural_experience,Old Well
+915,137,cultural_experience,Old Cemetries
+916,137,cultural_experience,Miskithuge Tharaagandu
+917,137,cultural_experience,Ruins of Buddhist Temple
+918,137,cultural_experience,Aasaaree Binaa
+919,137,cultural_experience,Island Well
+920,137,excursion,Sunset Cruise
+921,137,historical_attraction,Visitor Center
+922,139,restaurant_cafe,Vaimathee Hotaa
+923,139,restaurant_cafe,Alho Cafe
+924,139,recreational,Surfing
+925,139,recreational,Diving
+926,139,recreational,Snorkeling with Baby Sharks
+927,139,recreational,Kayaking
+928,139,recreational,Picnic
+929,139,recreational,Sports
+930,139,natural_attraction,Camping at Nature Park
+931,139,natural_attraction,Farm Visit
+932,139,excursion,Turtle Watching
+933,139,excursion,Whaleshark Viewing
+934,139,excursion,Sandbank Trip
+935,139,excursion,Island Hopping
+936,139,historical_attraction,Visit Fainu Ziyaaraiy
+937,139,historical_attraction,Old Atoll House
+938,140,restaurant_cafe,Cafe 33
+939,140,restaurant_cafe,Cafe el Fresco
+940,140,restaurant_cafe,Cafe Bella
+941,140,recreational,Fishing
+942,140,recreational,Snorkeling
+943,140,recreational,Surfing
+944,140,natural_attraction,Kandoofaa
+945,140,natural_attraction,Thundi
+946,140,natural_attraction,Huraagandu
+947,140,natural_attraction,Vevu
+948,140,natural_attraction,Mangrove Visit
+949,141,restaurant_cafe,Coffee Crowd
+950,141,restaurant_cafe,Fathiohbi Restaurant
+951,141,restaurant_cafe,Rasarana Cafe
+952,141,recreational,Thatch Weaving
+953,141,recreational,Coir Rope Making
+954,141,recreational,Sports
+955,141,recreational,Picnic at Thundi
+956,141,recreational,Diving
+957,141,recreational,Fishing
+958,141,cultural_experience,Visit to Kuda Miskiy
+959,141,cultural_experience,Visit to Maa Miskiy
+960,141,excursion,Sandbank Trip
+961,142,historical_attraction,Visit Ganbaru Kamana Mahaana
+962,142,historical_attraction,Visit Baa Miskhiy
+963,143,restaurant_cafe,Coffee Talk
+964,143,recreational,Diving at Kinolhas Vilu
+965,143,recreational,Surfing at Kinolhas Surf Point
+966,143,recreational,Picnic at Ganduvaru Beach
+967,143,recreational,Mangrove Tour
+968,143,cultural_experience,Visit Old Tombstone
+969,143,cultural_experience,Goshi Viyun
+970,144,restaurant_cafe,Cafe Faaz
+971,144,restaurant_cafe,Janburoadhu Kanmathi Cafe
+972,144,restaurant_cafe,Mazaaraa Cafe
+973,144,recreational,Fishing
+974,144,recreational,Sports
+975,144,recreational,Barbeque at the Picnic Beach
+976,144,recreational,Surfing
+977,144,recreational,Diving
+978,144,cultural_experience,Palm Leaf Handicrafts
+979,144,cultural_experience,Coir Rope Making
+980,144,historical_attraction,Vaguthugaa
+981,144,historical_attraction,Bodu Valhu
+982,145,restaurant_cafe,Pepper Dine
+983,145,restaurant_cafe,La Vista
+984,145,recreational,Snorkeling
+985,145,recreational,Kanneli Fishing
+986,145,recreational,Day Fishing
+987,145,cultural_experience,Traditional Handicrafts
+988,146,restaurant_cafe,You Cafe
+989,146,restaurant_cafe,Shelly Beach
+990,146,restaurant_cafe,Blue Waves
+991,146,recreational,Fishing
+992,146,recreational,Snorkeling
+993,146,recreational,Big Game Fishing
+994,146,cultural_experience,Coir Rope Making
+995,146,historical_attraction,Meedhoo Friday Mosque
+996,147,restaurant_cafe,Vaarish Bakery
+997,147,restaurant_cafe,Eat Point
+998,147,restaurant_cafe,Sun Flavour
+999,147,recreational,Snorkeling
+1000,147,recreational,Surfing
+1001,147,recreational,Diving
+1002,147,recreational,Fishing
+1003,147,recreational,Picnic at Northwest Beach
+1004,147,recreational,Sports
+1005,147,cultural_experience,Coir Rope Making
+1006,147,cultural_experience,Thatch Weaving
+1007,147,excursion,Night Fishing
+1008,147,excursion,Reef Fishing
+1009,147,excursion,Island Hopping
+1010,147,historical_attraction,Athiri Ziyaaraiy
+1011,147,historical_attraction,Ehgamu Ziyaaraiy
+1012,147,historical_attraction,Rasgatheemu Boduvalhu
+1013,147,historical_attraction,Maaganfulhu
+1014,147,other_activity,Thelebadi
+1015,148,restaurant_cafe,Athiriheyri Cafe
+1016,148,restaurant_cafe,Rasmazaa Cafe
+1017,148,recreational,Fishing
+1018,148,cultural_experience,Coir Rope Making
+1019,148,cultural_experience,Thatch Weaving
+1020,150,restaurant_cafe,Fannu Cafe
+1021,150,recreational,Sea of Stars
+1022,150,recreational,Snorkeling
+1023,150,recreational,Surfing
+1024,150,recreational,Wind Surfing
+1025,150,recreational,Kite Surfing
+1026,150,recreational,Dolphin Cruise
+1027,150,recreational,Turtle Tour
+1028,150,recreational,Wetland Tour
+1029,150,recreational,Thundi Tour
+1030,150,recreational,Farmland Tours
+1031,150,recreational,Sandbank Trip
+1032,150,recreational,Island Hopping
+1033,150,cultural_experience,Local Cultural Sites Tour
+1034,150,historical_attraction,Musuem
+1035,157,restaurant_cafe,Roadhi Cafe
+1036,157,restaurant_cafe,Rani Cafe
+1037,157,recreational,Island Tour
+1038,157,recreational,Fishing
+1039,157,recreational,Kite Surfing
+1040,157,recreational,Snorkeling with Manta Rays
+1041,157,cultural_experience,Kihsoru Vadaakurun
+1042,157,cultural_experience,Rukufathi
+1043,158,restaurant_cafe,Nooraa Cafe
+1044,158,restaurant_cafe,Street Cafe
+1045,158,restaurant_cafe,Island Sea 5
+1046,158,recreational,Sports
+1047,158,recreational,Snorkeling
+1048,158,recreational,Diving
+1049,158,natural_attraction,Nature Park
+1050,158,excursion,Night Fishing
+1051,158,excursion,Farm Tours
+1052,159,recreational,Dhiveetha Cafe
+1053,159,natural_attraction,Snorkeling
+1054,159,natural_attraction,Water Sports
+1055,159,natural_attraction,Diving
+1056,159,natural_attraction,Fishing
+1057,159,natural_attraction,Sports
+1058,159,cultural_experience,Kandoofa Kulhi
+1059,159,historical_attraction,Swimming with Manta Rays
+1060,159,historical_attraction,Turtle Watching
+1061,160,restaurant_cafe,Aulaadh Cafe
+1062,160,restaurant_cafe,Sharaabu Cafe
+1063,160,restaurant_cafe,Sunset Cafe
+1064,160,recreational,Fishing
+1065,160,excursion,Island Hopping
+1066,161,recreational,Fresh Mulberry
+1067,161,recreational,Funadhoo Bakery
+1068,161,recreational,Pix Food
+1069,161,recreational,Food Grand Cafe
+1070,161,recreational,Leaf Garden
+1071,161,recreational,Ocean View
+1072,161,natural_attraction,Barbecue at Weekend Beach
+1073,161,natural_attraction,Sports
+1074,161,natural_attraction,Fishing
+1075,161,natural_attraction,Diving
+1076,161,natural_attraction,Surfing
+1077,161,natural_attraction,Water Sports
+1078,161,cultural_experience,Gohi Kulhi Mangrove
+1079,161,historical_attraction,Dhahfaru
+1080,161,historical_attraction,Picnic at Bis'huraa
+1081,161,historical_attraction,Trip to Farukolhu Island
+1082,162,restaurant_cafe,Cafe Delmar
+1083,162,recreational,Walk Way and Deck
+1084,162,recreational,Picnic
+1085,162,natural_attraction,Fish Pond
+1086,163,restaurant_cafe,Daisy Coffee Bend
+1087,163,restaurant_cafe,Coffee Table
+1088,163,recreational,Fishing
+1089,163,natural_attraction,Bunbaru Deck
+1090,163,natural_attraction,Feebo Surfbreak
+1091,163,natural_attraction,Bodufasgandu
+1092,163,cultural_experience,Feebo Valhugandu
+1093,163,excursion,Fushifaru Sandbank
+1094,163,excursion,Rose Park
+1095,164,restaurant_cafe,Anfa
+1096,164,restaurant_cafe,Likes Cafe
+1097,164,restaurant_cafe,Maali Restaurant
+1098,164,restaurant_cafe,Findhan'di
+1099,164,recreational,Sports
+1100,164,recreational,Watersports
+1101,164,recreational,Fishing
+1102,164,recreational,Diving
+1103,164,recreational,Snorkeling
+1104,164,natural_attraction,Sikundi Kulhi
+1105,164,natural_attraction,Red Pond
+1106,164,cultural_experience,Kihaa Valhu
+1107,164,cultural_experience,Kalhuohfummi Rongu
+1108,164,excursion,Picnic at Kudafaru finolhu
+1109,165,recreational,Bakery Dream
+1110,165,recreational,Coffee Town
+1111,165,natural_attraction,Snorkeling
+1112,165,natural_attraction,Fishing Trips
+1113,165,cultural_experience,Maakan'doodhoo Kulhi
+1114,165,cultural_experience,Bodu Nikagas
+1115,165,excursion,Lhaimagu Fageeraa Usfasgandu
+1116,165,historical_attraction,Picnic at Farukolhu Sandbank
+1117,167,restaurant_cafe,Beach Imoca Cafe
+1118,167,recreational,Reef Fishing
+1119,167,recreational,Picnic at Maroshi Beach
+1120,167,natural_attraction,Maroshi Mangrove
+1121,167,natural_attraction,Kaanigas
+1122,167,cultural_experience,Thatch Weaving
+1123,167,other_activity,Karuhakuru Tour
+1124,168,restaurant_cafe,Avas Restaurant
+1125,168,restaurant_cafe,Avas Cafe
+1126,168,restaurant_cafe,Woodland Restaurant
+1127,168,restaurant_cafe,Quench Garden
+1128,168,restaurant_cafe,J.A.S Cafe
+1129,168,restaurant_cafe,Pink Bakery
+1130,168,recreational,Snorkeling
+1131,168,recreational,Island Tour
+1132,168,recreational,Fishing
+1133,168,recreational,Sports
+1134,168,recreational,Picnic
+1135,168,natural_attraction,Sikundi Kulhi
+1136,168,natural_attraction,Red Pond
+1137,169,restaurant_cafe,Zamaanee Cafe
+1138,169,restaurant_cafe,Goodmeal Cafe
+1139,169,restaurant_cafe,Ichiban Cafe
+1140,169,recreational,Picnic
+1141,169,recreational,Sports
+1142,169,recreational,Fishing
+1143,169,natural_attraction,Visit to Farmlands
+1144,169,natural_attraction,Bodu Kandoofa
+1145,169,cultural_experience,Lonufenvalhu
+1146,169,cultural_experience,Saharaage
+1147,169,cultural_experience,Hasanbe Ziyaaraih
+1148,169,cultural_experience,Mohamedbe Ziyaaraiy
+1149,170,recreational,Fishing
+1150,170,natural_attraction,Neelaa Huih
+1151,170,natural_attraction,Chakabin
+1152,170,natural_attraction,Muskulhi Nikagas
+1153,171,restaurant_cafe,Flaix cafe'
+1154,171,recreational,Fishing
+1155,171,recreational,Snorkeling
+1156,171,cultural_experience,Boduberu jehun (traditional music)
+1157,171,cultural_experience,Visiting Kamana Miskih (mosque)
+1158,171,cultural_experience,Cultural tour
+1159,172,restaurant_cafe,Four M Star
+1160,172,restaurant_cafe,White Restaurant
+1161,172,restaurant_cafe,Harbor Queen
+1162,172,recreational,Picnic
+1163,172,recreational,Fishing
+1164,172,recreational,Snorkeling
+1165,172,recreational,Whale Shark Watching
+1166,172,natural_attraction,Nilamehi Faru
+1167,172,cultural_experience,Ganduvaru (old palace)
+1168,172,cultural_experience,Thatch weaving
+1169,172,excursion,Picnic island day trips
+1170,172,excursion,Nilamehi Faru snorkeling
+1171,172,other_activity,Theluli banbukeyo fani
+1172,173,restaurant_cafe,Iramai Cafe
+1173,173,restaurant_cafe,Ice Cafe
+1174,173,recreational,Sand bank tour
+1175,173,recreational,Virgin island day trips
+1176,173,recreational,Sailing
+1177,173,recreational,Snorkeling
+1178,173,recreational,Surfing
+1179,173,recreational,Fishing
+1180,173,cultural_experience,Island life
+1181,173,cultural_experience,Culture
+1182,174,restaurant_cafe,Ekkala Hut
+1183,174,restaurant_cafe,Harbour Salt
+1184,174,recreational,Sport Fishing
+1185,174,recreational,Snorkeling
+1186,174,natural_attraction,Mangrove Tour
+1187,175,restaurant_cafe,Time Out
+1188,175,restaurant_cafe,Kefana
+1189,175,restaurant_cafe,Coffee Dose
+1190,175,recreational,Snorkeling
+1191,175,recreational,Fishing
+1192,176,restaurant_cafe,Aana Cafe
+1193,176,restaurant_cafe,Sip and Snack
+1194,176,recreational,Sailing
+1195,176,recreational,Beach BBQ
+1196,176,recreational,Sandbank Trip
+1197,176,recreational,Fishing
+1198,176,recreational,Snorkeling
+1199,176,natural_attraction,Chili Farm Tour
+1200,176,natural_attraction,Mangrove Tour
+1201,176,cultural_experience,Visit to Naruvai Miskih (Mosque)
+1202,176,cultural_experience,Visit to Old Friday Miskih
+1203,176,cultural_experience,Visit to Dhonhiyala grave
+1204,177,restaurant_cafe,Bitemore Restaurant
+1205,177,restaurant_cafe,Moosey's Sea House
+1206,177,restaurant_cafe,Coffee Dine
+1207,177,recreational,Wind Surfing
+1208,177,recreational,Fishing
+1209,177,recreational,Snorkeling
+1210,177,natural_attraction,Tour to Kuda Kinbidhoo
+1211,177,cultural_experience,Kinbidhoo Veyru
+1212,177,cultural_experience,Hirigau Miskih (Mosque)
+1213,178,restaurant_cafe,Al-kausaru Cafe
+1214,178,restaurant_cafe,Vaadhee Corner
+1215,178,restaurant_cafe,Binaa Tea
+1216,178,restaurant_cafe,Anhenunge Cafe
+1217,178,recreational,Fishing
+1218,178,recreational,Snorkeling
+1219,178,natural_attraction,"Tour to Uninhabited Islands (Kolhufushi, Uhurihaa, Uhurihaa Vilu)"
+1220,178,historical_attraction,Boduvalhu
+1221,179,restaurant_cafe,Sichio Cafe
+1222,179,restaurant_cafe,Swaasaa Restaurant
+1223,179,recreational,Fishing
+1224,179,recreational,Snorkeling
+1225,180,restaurant_cafe,Coffeedo
+1226,180,recreational,Big game fishing
+1227,180,recreational,Sand bank tour
+1228,180,recreational,Virgin island tour
+1229,180,recreational,Diving
+1230,180,recreational,Watersports
+1231,180,recreational,Finimas surf break
+1232,180,recreational,Mikado surf break
+1233,180,recreational,Sport Fishing
+1234,180,recreational,Snorkelling
+1235,181,restaurant_cafe,Koifulhu Cafe
+1236,181,recreational,Kiraamaagas
+1237,181,recreational,Boduvalhu
+1238,181,recreational,Vandhoo Khaajee Dhoruvanna Kilegefaanu Ziyaaraiy
+1239,181,recreational,Mangrove Tour
+1240,181,recreational,Sand Bank Trips
+1241,181,recreational,Surfing
+1242,181,recreational,Snorkeling
+1243,181,recreational,Fishing
+1244,182,restaurant_cafe,Veyo Garden
+1245,182,restaurant_cafe,Rahameeru Restaurant
+1246,182,recreational,Adventure Trip
+1247,182,recreational,Mikado Surfing Point
+1248,182,recreational,Snorkeling
+1249,183,restaurant_cafe,Salsa Blue
+1250,183,recreational,Dolphin Watching
+1251,183,recreational,Blue Whale Point
+1252,183,recreational,Sand Bank Trips
+1253,183,recreational,Fishing
+1254,183,recreational,Snorkeling
+1255,184,restaurant_cafe,Sixty Six Café
+1256,184,restaurant_cafe,Parar Lever
+1257,184,restaurant_cafe,Silent Music Café'
+1258,184,recreational,Jetski riding
+1259,184,recreational,Fishing
+1260,184,natural_attraction,Fish pond
+1261,184,natural_attraction,Shark point
+1262,184,natural_attraction,Vaavu Shipwreck
+1263,184,excursion,Sand bank excursion
+1264,185,recreational,Water Sports
+1265,185,recreational,Diving
+1266,185,recreational,Snorkeling
+1267,185,recreational,Fishing
+1268,186,restaurant_cafe,Café Athiri Baa-Royaltaste.mv-Ocean Pizza and Bakery-Thinfahdhandi-
+1269,186,recreational,Snorkeling
+1270,186,recreational,Fishing
+1271,186,recreational,Diving
+1272,186,recreational,Water sports and diving
+1273,186,natural_attraction,Shark point
+1274,186,natural_attraction,Vaavu Shipwreck
+1275,186,excursion,Excursion Trips
+1276,187,recreational,Snorkeling
+1277,187,recreational,Fishing
+1278,188,restaurant_cafe,Le Bois Cherry
+1279,188,recreational,Wreck diving
+1280,188,recreational,Yoga
+1281,188,recreational,Fishing
+1282,188,recreational,Snorkeling

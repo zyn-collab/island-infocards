@@ -1,0 +1,47 @@
+social_service_id,provider_name,island_id,atoll_id,matched_island_name,matched_atoll_name,contact_phone,contact_email,original_atoll,original_island
+1,Haa Alifu Family and Children Service Centre,,9,,Haa Alifu,3027632.0,ha.fcsc@msfd.gov.mv,Haa Alifu,Dhidhdhoo
+2,Haa Dhaalu Family and Children Service Centre,79.0,10,Kulhudhuffushi,Haa Dhaalu,3027633.0,hdh.fcsc@msfd.gov.mv,Haa Dhaalu,Kulhudhuffushi
+3,Shaviyani Family and Children Service Centre,162.0,19,Funadhoo,Shaviyani,3027634.0,sh.fcsc@msfd.gov.mv,Shaviyani,Funadhoo
+4,Noonu Family and Children Service Centre,134.0,16,Manadhoo,Noonu,3027635.0,n.fcsc@msfd.gov.mv,Noonu,Manadhoo
+5,Raa Family and Children Service Centre,139.0,17,Dhuvaafaru,Raa,3027636.0,r.fcsc@msfd.gov.mv,Raa,Dhuvaafaru
+6,Baa Family and Children Service Centre,21.0,3,Eydhafushi,Baa,3027638.0,b.fcsc@msfd.gov.mv,Baa,Eydhafushi
+7,Lhaviyani Family and Children Service Centre,111.0,13,Naifaru,Lhaviyani,3027637.0,lh.fcsc@msfd.gov.mv,Lhaviyani,Naifaru
+8,Alifu Alifu Family and Children Service Centre,6.0,1,Rasdhoo,Alifu Alifu,3027639.0,aa.fcsc@msfd.gov.mv,Alifu Alifu,Rasdhoo
+9,Alifu Dhaalu Family and Children Service Centre,16.0,2,Mahibadhoo,Alifu Dhaalu,3027640.0,adh.fcsc@msfd.gov.mv,Alifu Dhaalu,Mahibadhoo
+10,Vaavu Family and Children Service Centre,185.0,21,Felidhoo,Vaavu,3027641.0,v.fcsc@msfd.gov.mv,Vaavu,Felidhoo
+11,Meemu Family and Children Service Centre,116.0,15,Mulah,Meemu,3027642.0,m.fcsc@msfd.gov.mv,Meemu,Mulah
+12,Faafu Family and Children Service Centre,50.0,6,Nilandhoo,Gaafu Alifu,3027643.0,f.fcsc@msfd.gov.mv,Faafu,Nilandhoo
+13,Dhaalu Family and Children Service Centre,34.0,4,Kudahuvadhoo,Dhaalu,3027644.0,dh.fcsc@msfd.gov.mv,Dhaalu,Kudahuvadhoo
+14,Thaa Family and Children Service Centre,,20,,Thaa,3027645.0,th.fcsc@msfd.gov.mv,Thaa,Veymandhoo
+15,Laamu Family and Children Service Centre,99.0,12,Fonadhoo,Laamu,3027646.0,l.fcsc@msfd.gov.mv,Laamu,Fonadhoo
+16,Gaafu Alifu Family and Children Service Centre,,6,,Gaafu Alifu,3027647.0,ga.fcsc@msfd.gov.mv,Gaafu Alifu,Villingili
+17,Gaafu Dhaalu Family and Children Service Centre,189.0,21,Thinadhoo,Vaavu,3027648.0,gdh.fcsc@msfd.gov.mv,Gaafu Dhaalu,Thinadhoo
+18,Gnaviyani Family and Children Service Centre,61.0,8,Fuvahmulah,Gnaviyani,3027649.0,gn.fcsc@msfd.gov.mv,Gnaviyani,Fuvahmulah
+19,Seenu Family and Children Service Centre,153.0,18,Hithadhoo,Seenu,3027630.0,s.fcsc@msfd.gov.mv,Seenu,Hithadhoo
+20,Gaafu Dhaalu Thinadhoo Amaan Hiyaa (Safe Home),189.0,21,Thinadhoo,Vaavu,,,Gaafu Dhaalu,Thinadhoo
+21,Shaviyani Funadhoo Amaan Hiyaa (Safe Home),162.0,19,Funadhoo,Shaviyani,,,Shaviyani,Funadhoo
+22,Seenu Hithadhoo Amaan Hiyaa (Safe Home),153.0,18,Hithadhoo,Seenu,,,Seenu,Hithadhoo
+23,Haa Dhaalu Kulhudhuffushi Amaan Hiyaa (Safe Home),79.0,10,Kulhudhuffushi,Haa Dhaalu,,,Haa Dhaalu,Kulhudhuffushi
+24,Haa Alifu Dhidhdhoo Amaan Hiyaa (Safe Home),,9,,Haa Alifu,,,Haa Alifu,Dhidhdhoo
+25,Noonu Manadhoo Amaan Hiyaa (Safe Home),134.0,16,Manadhoo,Noonu,,,Noonu,Manadhoo
+26,Lhaviyani Naifaru Amaan Hiyaa (Safe Home),111.0,13,Naifaru,Lhaviyani,,,Lhaviyani,Naifaru
+27,Baa Eydhafushi Amaan Hiyaa (Safe Home),21.0,3,Eydhafushi,Baa,,,Baa,Eydhafushi
+28,Dhaalu Kudahuvadhoo Amaan Hiyaa (Safe Home),34.0,4,Kudahuvadhoo,Dhaalu,,,Dhaalu,Kudahuvadhoo
+29,Meemu Mulah Amaan Hiyaa (Safe Home),116.0,15,Mulah,Meemu,,,Meemu,Mulah
+30,Laamu Fonadhoo Amaan Hiyaa (Safe Home),99.0,12,Fonadhoo,Laamu,,,Laamu,Fonadhoo
+31,Gnaviyani Fuvahmulah Amaan Hiyaa (Safe Home),61.0,8,Fuvahmulah,Gnaviyani,,,Gnaviyani,Fuvahmulah
+32,Haa Alifu Dhidhdhoo Fiyavathi (Orphanage),,9,,Haa Alifu,,,Haa Alifu,Dhidhdhoo
+33,Shaviyani Funadhoo Fiyavathi (Orphanage),162.0,19,Funadhoo,Shaviyani,,,Shaviyani,Funadhoo
+34,Noonu Manadhoo Fiyavathi (Orphanage),134.0,16,Manadhoo,Noonu,,,Noonu,Manadhoo
+35,Baa Eydhafushi Fiyavathi (Orphanage),21.0,3,Eydhafushi,Baa,,,Baa,Eydhafushi
+36,Gnaviyani Fuvahmulah Fiyavathi (Orphanage),61.0,8,Fuvahmulah,Gnaviyani,,,Gnaviyani,Fuvahmulah
+37,Kulhudhuffushi Regional Hospital Child Development Centre,79.0,10,Kulhudhuffushi,Haa Dhaalu,,,Haa Dhaalu,Kulhudhuffushi
+38,Southern Child Development Centre,153.0,18,Hithadhoo,Seenu,,,Seenu,Hithadhoo
+39,HPSN (Home for People with Special Needs),175.0,20,Guraidhoo,Thaa,,,Kaafu,Guraidhoo
+40,Domestic Violence Shelter,,6,,Gaafu Alifu,,,Gaafu Alifu,Villingili
+41,Hanimaadhoo Drug Rehab Centre,77.0,10,Hanimaadhoo,Haa Dhaalu,,,Haa Dhaalu,Hanimaadhoo
+42,Himmafushi Drug Rehab Centre,,11,,Kaafu,,,Kaafu,Himmafushi
+43,Hulhumale Drug Rehab Centre,,14,,MLE,,,MLE,Hulhumale
+44,Villingili Drug Rehab Centre,,6,,Gaafu Alifu,,,Gaafu Alifu,Villingili
+45,Thinadhoo Drug Rehab Centre,189.0,21,Thinadhoo,Vaavu,,,Gaafu Dhaalu,Thinadhoo
+46,Fuvahmulah Drug Rehab Centre,61.0,8,Fuvahmulah,Gnaviyani,,,Gnaviyani,Fuvahmulah

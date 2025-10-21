@@ -1,0 +1,502 @@
+health_facility_id,facility_name,island_id,atoll_id,is_public,facility_level,facility_type,address,contact_phone,contact_email,original_location
+1,Vaavu thinadhoo Health Centre,189.0,21.0,True,Health Centre Grade 1,,,,,Vaavu thinadhoo
+2,Vaavu Fulidhoo health Centre,186.0,21.0,True,Health Centre Grade 1,,,,,Vaavu Fulidhoo
+3,Vaavu Rakeedhoo Health Centre,188.0,21.0,True,Health Centre Grade 1,,,,,Vaavu Rakeedhoo
+4,Vaavu Keyodhoo Health Centre,187.0,21.0,True,Health Centre Grade 2,,,,,Vaavu Keyodhoo
+5,Vaavu Atoll Hospital,180.0,20.0,True,Hospital Grade 1,,,,,Vaavu Omadhoo
+6,Noonu Atoll Hospital,134.0,16.0,True,Hospital Grade 2,,,,,Noonu Manadhoo
+7,Noonu Magoodhoo Health Centre,133.0,16.0,True,Health Centre Grade 1,,,,,Noonu Magoodhoo
+8,Noonu Maalhendhoo Health Centre,132.0,16.0,True,Health Centre Grade 1,,,,,Noonu Maalhendhoo
+9,Noonu Miladhoo Health Centre,135.0,16.0,True,Health Centre Grade 2,,,,,Noonu Miladhoo
+10,Noonu Lhohi Health Centre,130.0,16.0,True,Health Centre Grade 1,,,,,Noonu Lhohi
+11,Noonu Kendhikulhudhoo Health Centre,127.0,16.0,True,Health Centre Grade 2,,,,,Noonu Kendhikulhudhoo
+12,Noonu Maafaru Health Centre,131.0,16.0,True,Health Centre Grade 3,,,,,Noonu Maafaru
+13,Noonu Holhudhoo Health Centre,126.0,16.0,True,Health Centre Grade 3,,,,,Noonu Holhudhoo
+14,Noonu Velidhoo Health Centre,136.0,16.0,True,Health Centre Grade 3,,,,,Noonu Velidhoo
+15,Noonu Kudafari Health Centre,128.0,16.0,True,Health Centre Grade 1,,,,,Noonu Kudafari
+16,Noonu Henbadhoo Health Centre,125.0,16.0,True,Health Centre Grade 1,,,,,Noonu Henbadhoo
+17,Noonu Fohdhoo Health Centre,124.0,16.0,True,Health Centre Grade 1,,,,,Noonu Fohdhoo
+18,Laamu Gan Regional Hospital,100.0,12.0,True,Hospital Grade 3,,,,,Laamu Gan
+19,Laamu Isdhoo Health Centre,102.0,12.0,True,Health Centre Grade 3,,,,,Laamu Isdhoo
+20,Laamu Fonadhoo Health Centre,99.0,12.0,True,Health Centre Grade 3,,,,,Laamu Fonadhoo
+21,Laamu Maavah Health Centre,107.0,12.0,True,Health Centre Grade 3,,,,,Laamu Maavah
+22,Laamu Maabaidhoo Health Centre,105.0,12.0,True,Health Centre Grade 2,,,,,Laamu Maabaidhoo
+23,Laamu Hithadhoo Health Centre,153.0,18.0,True,Health Centre Grade 3,,,,,Laamu Hithadhoo
+24,Laamu Kunahandhoo Health Centre,104.0,12.0,True,Health Centre Grade 1,,,,,Laamu Kunahandhoo
+25,Laamu Maamendhoo Health Centre,106.0,12.0,True,Health Centre Grade 2,,,,,Laamu Maamendhoo
+26,Laamu Dhanbidhoo Health Centre,98.0,12.0,True,Health Centre Grade 1,,,,,Laamu Dhanbidhoo
+27,Laamu Mundoo Health Centre,108.0,12.0,True,Health Centre Grade 1,,,,,Laamu Mundoo
+28,Haa Alifu Muraidhoo Health Centre,70.0,9.0,True,Health Centre Grade 1,,,,,Haa Alifu Muraidhoo
+29,Haa Alifu Atoll Hospital,63.0,9.0,True,Hospital Grade 2,,,,,Haa Alifu Dhidhdhoo
+30,Haa Alifu Uligamu Health Centre,73.0,9.0,True,Health Centre Grade 1,,,,,Haa Alifu Uligamu
+31,Haa Alifu Kelaa Health Centre,67.0,9.0,True,Health Centre Grade 3,,,,,Haa Alifu Kelaa
+32,Haa Alifu Filladhoo Health Centre,64.0,9.0,True,Health Centre Grade 1,,,,,Haa Alifu Filladhoo
+33,Haa Alifu Thuraakunu Health Centre,72.0,9.0,True,Health Centre Grade 1,,,,,Haa Alifu Thuraakunu
+34,Haa Alifu Ihavandhoo Health Centre,66.0,9.0,True,Health Centre Grade 1,,,,,Haa Alifu Ihavandhoo
+35,Haa Alifu Maarandhoo Health Centre,68.0,9.0,True,Health Centre Grade 1,,,,,Haa Alifu Maarandhoo
+36,Haa Alifu Vashafaru Health Centre,75.0,9.0,True,Health Centre Grade 2,,,,,Haa Alifu Vashafaru
+37,Haa Alifu Hoarafushi Health Centre,65.0,9.0,True,Health Centre Grade 4,,,,,Haa Alifu Hoarafushi
+38,Haa Alifu Utheemu Health Centre,74.0,9.0,True,Health Centre Grade 2,,,,,Haa Alifu Utheemu
+39,Haa Alifu Thakandhoo Health Centre,71.0,9.0,True,Health Centre Grade 2,,,,,Haa Alifu Thakandhoo
+40,Haa Alifu Molhadhoo Health Centre,69.0,9.0,True,Health Centre Grade 1,,,,,Haa Alifu Molhadhoo
+41,Haa Alifu Baarah Health Centre,62.0,9.0,True,Health Centre Grade 3,,,,,Haa Alifu Baarah
+42,Fuvahmulah Atoll Hospital,61.0,8.0,True,Hospital Grade 2,,,,,Gnaviyani Fuvahmulah
+43,Baa Atoll Hospital,21.0,3.0,True,Hospital Grade 2,,,,,Baa Eydhafushi
+44,Baa Fehendhoo Health Centre,22.0,3.0,True,Health Centre Grade 1,,,,,Baa Fehendhoo
+45,Baa Fulhadhoo Health Centre,23.0,3.0,True,Health Centre Grade 1,,,,,Baa Fulhadhoo
+46,Baa Thulhaadhoo Health Centre,31.0,3.0,True,Health Centre Grade 4,,,,,Baa Thulhaadhoo
+47,Baa Dhonfanu Health Centre,20.0,3.0,True,Health Centre Grade 1,,,,,Baa Dhonfanu
+48,Baa Kihaadhoo Health Centre,28.0,3.0,True,Health Centre Grade 1,,,,,Baa Kihaadhoo
+49,Baa Kamadhoo Health Centre,26.0,3.0,True,Health Centre Grade 1,,,,,Baa Kamadhoo
+50,Baa Maalhos Health Centre,30.0,3.0,True,Health Centre Grade 1,,,,,Baa Maalhos
+51,Baa Kudarikilu Health Centre,29.0,3.0,True,Health Centre Grade 1,,,,,Baa Kudarikilu
+52,Baa Goidhoo Health Centre,163.0,19.0,True,Health Centre Grade 3,,,,,Baa Goidhoo
+53,Baa Dharavandhoo Health Centre,19.0,3.0,True,Health Centre Grade 3,,,,,Baa Dharavandhoo
+54,Baa Hithaadhoo Health Centre,25.0,3.0,True,Health Centre Grade 2,,,,,Baa Hithaadhoo
+55,Baa Kendhoo Health Centre,27.0,3.0,True,Health Centre Grade 3,,,,,Baa Kendhoo
+56,Senahiya Military Hospital,122.0,14.0,True,General Clinic,,,,,MLE
+57,Abdul Samad Memorial Hospital,122.0,14.0,True,Hospital Grade 3,,,,,MLE
+58,Gaafu Dhaalu Nadella Health Centre,57.0,7.0,True,Health Centre Grade 2,,,,,Gaafu Dhaalu Nadella
+59,Gaafu Dhaalu Madaveli Health Centre,56.0,7.0,True,Health Centre Grade 2,,,,,Gaafu Dhaalu Madaveli
+60,Gaafu Dhaalu Gahdhoo Health Centre,54.0,7.0,True,Health Centre Grade 4,,,,,Gaafu Dhaalu Gahdhoo
+61,Gaafu Dhaalu Fiyoaree Health Centre,53.0,7.0,True,Health Centre Grade 2,,,,,Gaafu Dhaalu Fiyoaree
+62,Gaafu Dhaalu Vaadhoo Health Centre,151.0,17.0,True,Health Centre Grade 3,,,,,Gaafu Dhaalu Vaadhoo
+63,Ungoofaaru Regional Hospital,150.0,17.0,True,Hospital Grade 3,,,,,Raa Ungoofaaru
+64,Raa Vaadhoo Health Centre,151.0,17.0,True,Health Centre Grade 1,,,,,Raa Vaadhoo
+65,Raa Fainu Health Centre,140.0,17.0,True,Health Centre Grade 1,,,,,Raa Fainu
+66,Raa Madduvari Health Centre,146.0,17.0,True,Health Centre Grade 3,,,,,Raa Madduvari
+67,Raa Kinolhohu Health Centre,144.0,17.0,True,Health Centre Grade 1,,,,,Raa Kinolhohu
+68,Raa Maakurath Health Centre,145.0,17.0,True,Health Centre Grade 2,,,,,Raa Maakurath
+69,Raa Inguraidhoo Health Centre,142.0,17.0,True,Health Centre Grade 3,,,,,Raa Inguraidhoo
+70,Raa Angolhitheem Health Centre,138.0,17.0,True,Health Centre Grade 1,,,,,Raa Angolhitheem
+71,Raa Innamaadhoo Health Centre,143.0,17.0,True,Health Centre Grade 1,,,,,Raa Innamaadhoo
+72,Raa Meedhoo Health Centre,157.0,18.0,True,Health Centre Grade 3,,,,,Raa Meedhoo
+73,Raa Rasgetheem Health Centre,148.0,17.0,True,Health Centre Grade 1,,,,,Raa Rasgetheem
+74,Raa Dhuvaafaru Health Centre,139.0,17.0,True,Health Centre Grade 4,,,,,Raa Dhuvaafaru
+75,Addu Equatorial Hospital,153.0,18.0,True,Tertiary,,,,,Seenu Hithadhoo
+76,Seenu Feydhoo Health Centre,160.0,19.0,True,Health Centre Grade 3,,,,,Seenu Feydhoo
+77,Seenu Maradhoo Health Centre,155.0,18.0,True,Health Centre Grade 3,,,,,Seenu Maradhoo
+78,Seenu Hulhu-meedhoo Health Centre,154.0,18.0,True,Health Centre Grade 3,,,,,Seenu Hulhu-meedhoo
+79,Alifu Alifu Atoll Hospital,6.0,1.0,True,Hospital Grade 1,,,,,Alifu Alifu Rasdhoo
+80,Alifu Alifu Himandhoo Health Centre,3.0,1.0,True,Health Centre Grade 1,,,,,Alifu Alifu Himandhoo
+81,Alifu Alifu Maalhos Health Centre,30.0,3.0,True,Health Centre Grade 1,,,,,Alifu Alifu Maalhos
+82,Alifu Alifu Feridhoo Health Centre,2.0,1.0,True,Health Centre Grade 2,,,,,Alifu Alifu Feridhoo
+83,Alifu Alifu Bodufulhadhoo Health Centre,1.0,1.0,True,Health Centre Grade 1,,,,,Alifu Alifu Bodufulhadhoo
+84,Alifu Alifu Mathiveri Health Centre,5.0,1.0,True,Health Centre Grade 3,,,,,Alifu Alifu Mathiveri
+85,Alifu Alifu Thoddoo Health Centre,7.0,1.0,True,Health Centre Grade 3,,,,,Alifu Alifu Thoddoo
+86,Alifu Alifu Ukulhas Health Centre,8.0,1.0,True,Health Centre Grade 3,,,,,Alifu Alifu Ukulhas
+87,Shaviyani Atoll Hospital,162.0,19.0,True,Hospital Grade 2,,,,,Shaviyani Funadhoo
+88,Shaviyani Maroshi Health Centre,168.0,19.0,True,Health Centre Grade 2,,,,,Shaviyani Maroshi
+89,Shaviyani Feydhoo Health Centre,160.0,19.0,True,Health Centre Grade 2,,,,,Shaviyani Feydhoo
+90,Shaviyani Narudhoo Health Centre,170.0,19.0,True,Health Centre Grade 1,,,,,Shaviyani Narudhoo
+91,Shaviyani Kanditheemu Health Centre,164.0,19.0,True,Health Centre Grade 2,,,,,Shaviyani Kanditheemu
+92,Shaviyani Komandoo Health Centre,165.0,19.0,True,Health Centre Grade 3,,,,,Shaviyani Komandoo
+93,Shaviyani Bilehfahi Health Centre,158.0,19.0,True,Health Centre Grade 1,,,,,Shaviyani Bilehfahi
+94,Shaviyani Milandhoo Health Centre,169.0,19.0,True,Health Centre Grade 3,,,,,Shaviyani Milandhoo
+95,Shaviyani Maaungoodhoo Health Centre,167.0,19.0,True,Health Centre Grade 2,,,,,Shaviyani Maaungoodhoo
+96,Shaviyani Foakaidhoo Health Centre,161.0,19.0,True,Health Centre Grade 3,,,,,Shaviyani Foakaidhoo
+97,Shaviyani Feevah Health Centre,159.0,19.0,True,Health Centre Grade 2,,,,,Shaviyani Feevah
+98,Shaviyani Goidhoo Health Centre,163.0,19.0,True,Health Centre Grade 1,,,,,Shaviyani Goidhoo
+99,Shaviyani Noomaraa Health Centre,171.0,19.0,True,Health Centre Grade 1,,,,,Shaviyani Noomaraa
+100,Shaviyani Lhaimagu Health Centre,166.0,19.0,True,Health Centre Grade 1,,,,,Shaviyani Lhaimagu
+101,Maldives Correctional Services Medical Centre (Jail),96.0,11.0,True,General Clinic,,,,,K. Maafushi
+102,Hulhumale' Hospital,121.0,14.0,True,Hospital Grade 3,,,,,Hulhumale'
+103,Dhaalu Atoll Hospital,34.0,4.0,True,Hospital Grade 1,,,,,Dhaalu Kudahuvadhoo
+104,Dhaalu Hulhudheli Health Centre,33.0,4.0,True,Hospital Grade 1,,,,,Dhaalu Hulhudheli
+105,Dhaalu Meedhoo Health Centre,157.0,18.0,True,Hospital Grade 3,,,,,Dhaalu Meedhoo
+106,Dhaalu Rinbidhoo Health Centre,37.0,4.0,True,Hospital Grade 1,,,,,Dhaalu Rinbidhoo
+107,Dhaalu Bandidhoo Health Centre,32.0,4.0,True,Hospital Grade 2,,,,,Dhaalu Bandidhoo
+108,Faafu Atoll Hospital,50.0,6.0,True,Hospital Grade 1,,,,,Faafu Nilandhoo
+109,Faafu Feeali Health Centre,40.0,5.0,True,Health Centre Grade 2,,,,,Faafu Feeali
+110,Faafu Dharanboodhoo Health Centre,39.0,5.0,True,Health Centre Grade 1,,,,,Faafu Dharanboodhoo
+111,Faafu Biledhoo Health Centre,38.0,5.0,True,Health Centre Grade 2,,,,,Faafu Biledhoo
+112,Faafu Magoodhoo Health Centre,133.0,16.0,True,Health Centre Grade 2,,,,,Faafu Magoodhoo
+113,Meemu Kolhufushi Health Centre,114.0,15.0,True,Health Centre Grade 4,,,,,Meemu Kolhufushi
+114,Meemu Mulak Health Centre,116.0,15.0,True,Health Centre Grade 3,,,,,Meemu Mulak
+115,Meemu Naalaafushi Health Centre,118.0,15.0,True,Health Centre Grade 4,,,,,Meemu Naalaafushi
+116,Meemu Maduvvaree Health Centre,146.0,17.0,True,Health Centre Grade 4,,,,,Meemu Maduvvaree
+117,Meemu Dhiggaru Health Centre,113.0,15.0,True,Health Centre Grade 4,,,,,Meemu Dhiggaru
+118,Meemu Mulee Regional Hospital,117.0,15.0,True,Hospital Grade 1,,,,,Meemu Mulee
+119,Meemu Raimandhoo Health Centre,119.0,15.0,True,Health Centre Grade 4,,,,,Meemu Raimandhoo
+120,Meemu Veyvah Health Centre,120.0,15.0,True,Health Centre Grade 1,,,,,Meemu Veyvah
+121,Thaa Gaadhifushi Health Centre,174.0,20.0,True,Health Centre Grade 1,,,,,Thaa Gaadhifushi
+122,Thaa Kandhoodhoo Health Centre,177.0,20.0,True,Health Centre Grade 1,,,,,Thaa Kandhoodhoo
+123,Thaa Omadhoo Health Centre,180.0,20.0,True,Health Centre Grade 2,,,,,Thaa Omadhoo
+124,Thaa Dhiyamigili Health Centre,173.0,20.0,True,Health Centre Grade 2,,,,,Thaa Dhiyamigili
+125,Thaa Vandhoo Health Centre,182.0,20.0,True,Health Centre Grade 1,,,,,Thaa Vandhoo
+126,Thaa Madifushi Health Centre,179.0,20.0,True,Health Centre Grade 3,,,,,Thaa Madifushi
+127,Thaa Buruni Health Centre,172.0,20.0,True,Health Centre Grade 2,,,,,Thaa Buruni
+128,Thaa Kinbidhoo Health Centre,178.0,20.0,True,Health Centre Grade 2,,,,,Thaa Kinbidhoo
+129,Thaa Vilufushi Health Centre,184.0,20.0,True,Health Centre Grade 3,,,,,Thaa Vilufushi
+130,Thaa Guraidhoo Health Centre,175.0,20.0,True,Health Centre Grade 3,,,,,Thaa Guraidhoo
+131,Thaa Thimarafushi Health Centre,181.0,20.0,True,Health Centre Grade 3,,,,,Thaa Thimarafushi
+132,Thaa Hirilandhoo Health Centre,176.0,20.0,True,Health Centre Grade 3,,,,,Thaa Hirilandhoo
+133,Thaa Atoll Hospital,183.0,20.0,True,Hospital Grade 2,,,,,Thaa Veymandhoo
+134,Lhaviyani Atoll Hospital,111.0,13.0,True,Hospital Grade 2,,,,,Lhaviyani Naifaru
+135,Lhaviyani Kurendhoo Health Centre,110.0,13.0,True,Health Centre Grade 3,,,,,Lhaviyani Kurendhoo
+136,Lhaviyani Olhuvelifushi Health Centre,112.0,13.0,True,Health Centre Grade 3,,,,,Lhaviyani Olhuvelifushi
+137,Lhaviyani Hinnavaru Health Centre,109.0,13.0,True,Health Centre Grade 4,,,,,Lhaviyani Hinnavaru
+138,General Practice Clinic,121.0,14.0,True,General Clinic,,,,,Hulhumale'
+139,Haa Dhaalu Finey Health Centre,76.0,10.0,True,Health Centre Grade 1,,,,,Haa Dhaalu Finey
+140,Haa Dhaalu Hanimaadhoo Health Centre,77.0,10.0,True,Health Centre Grade 3,,,,,Haa Dhaalu Hanimaadhoo
+141,Haa Dhaalu Hirimaradhoo Health Centre,78.0,10.0,True,Health Centre Grade 1,,,,,Haa Dhaalu Hirimaradhoo
+142,Haa Dhaalu Kumundhoo Health Centre,80.0,10.0,True,Health Centre Grade 1,,,,,Haa Dhaalu Kumundhoo
+143,Haa Dhaalu Kurinbi Health Centre,81.0,10.0,True,Health Centre Grade 1,,,,,Haa Dhaalu Kurinbi
+144,Haa Dhaalu Makunudhoo Health Centre,82.0,10.0,True,Health Centre Grade 3,,,,,Haa Dhaalu Makunudhoo
+145,Haa Dhaalu Navaidhoo Health Centre,83.0,10.0,True,Health Centre Grade 1,,,,,Haa Dhaalu Navaidhoo
+146,Haa Dhaalu Nelliadhoo Health Centre,84.0,10.0,True,Health Centre Grade 2,,,,,Haa Dhaalu Nelliadhoo
+147,Haa Dhaalu Neykurendhoo Health Centre,85.0,10.0,True,Health Centre Grade 3,,,,,Haa Dhaalu Neykurendhoo
+148,Haa Dhaalu Nolhivaram Health Centre,86.0,10.0,True,Health Centre Grade 3,,,,,Haa Dhaalu Nolhivaram
+149,Haa Dhaalu Nolhivaranfaru Health Centre,87.0,10.0,True,Health Centre Grade 3,,,,,Haa Dhaalu Nolhivaranfaru
+150,Haa Dhaalu Vaikaradhoo Health Centre,88.0,10.0,True,Health Centre Grade 3,,,,,Haa Dhaalu Vaikaradhoo
+151,Kulhudhuffushi Regional Hospital,79.0,10.0,True,Hospital Grade 3,,,,,Haa Dhaalu Kulhudhuffushi
+152,Kaafu Dhiffushi Health Centre,89.0,11.0,True,Health Centre Grade 2,,,,,Kaafu Dhiffushi
+153,Kaafu Gaafaru Health Centre,90.0,11.0,True,Health Centre Grade 2,,,,,Kaafu Gaafaru
+154,Kaafu Gulhi Health Centre,91.0,11.0,True,Health Centre Grade 2,,,,,Kaafu Gulhi
+155,Kaafu Guraidhoo Health Centre,175.0,20.0,True,Health Centre Grade 3,,,,,Kaafu Guraidhoo
+156,Kaafu Himmafushi Health Centre,93.0,11.0,True,Health Centre Grade 3,,,,,Kaafu Himmafushi
+157,Kaafu Huraa Health Centre,94.0,11.0,True,Health Centre Grade 2,,,,,Kaafu Huraa
+158,Kaafu Kaashidhoo Health Centre,95.0,11.0,True,Health Centre Grade 3,,,,,Kaafu Kaashidhoo
+159,Kaafu Maafushi Health Centre,96.0,11.0,True,Health Centre Grade 3,,,,,Kaafu Maafushi
+160,Kaafu Thulusdhoo Health Centre,97.0,11.0,True,Health Centre Grade 3,,,,,Kaafu Thulusdhoo
+161,Alifu Dhaalu Maamigili Health Centre,15.0,2.0,True,Health Centre Grade 4,,,,,Alifu Dhaalu Maamigili
+162,Alifu Dhaalu Omadhoo Health Centre,180.0,20.0,True,Health Centre Grade 2,,,,,Alifu Dhaalu Omadhoo
+163,Alifu Dhaalu Kunburudhoo Health Centre,14.0,2.0,True,Health Centre Grade 1,,,,,Alifu Dhaalu Kunburudhoo
+164,Alifu Dhaalu Mandhoo Health Centre,17.0,2.0,True,Health Centre Grade 1,,,,,Alifu Dhaalu Mandhoo
+165,Alifu Dhaalu Dhangethi Health Centre,9.0,2.0,True,Health Centre Grade 3,,,,,Alifu Dhaalu Dhangethi
+166,Alifu Dhaalu Dhigurah Health Centre,10.0,2.0,True,Health Centre Grade 2,,,,,Alifu Dhaalu Dhigurah
+167,Alifu Dhaalu Dhihdhoo Health Centre,63.0,9.0,True,Health Centre Grade 1,,,,,Alifu Dhaalu Dhihdhoo
+168,Alifu Dhaalu Fenfushi Health Centre,12.0,2.0,True,Health Centre Grade 2,,,,,Alifu Dhaalu Fenfushi
+169,Gaafu Alifu Dhevvadhoo Health Centre,44.0,6.0,True,Health Centre Grade 3,,,,,Gaafu Alifu Dhevvadhoo
+170,Gaafu Alifu Dhaandhoo Health Centre,43.0,6.0,True,Health Centre Grade 3,,,,,Gaafu Alifu Dhaandhoo
+171,Gaafu Alifu Gemanafushi Health Centre,45.0,6.0,True,Health Centre Grade 3,,,,,Gaafu Alifu Gemanafushi
+172,Gaafu Alifu Kondey Health Centre,48.0,6.0,True,Health Centre Grade 1,,,,,Gaafu Alifu Kondey
+173,Gaafu Alifu Kolamaafushi Health Centre,47.0,6.0,True,Health Centre Grade 3,,,,,Gaafu Alifu Kolamaafushi
+174,Gaafu Alifu Maamendhoo Health Centre,106.0,12.0,True,Health Centre Grade 2,,,,,Gaafu Alifu Maamendhoo
+175,Gaafu Alifu Nilandhoo Health Centre,50.0,6.0,True,Health Centre Grade 1,,,,,Gaafu Alifu Nilandhoo
+176,Gaafu Alifu Atoll Hospital,137.0,17.0,True,Hospital Grade 2,,,,,Gaafu Alifu
+177,Gagan Clinic,122.0,14.0,True,General Clinic,,,,,MLE
+178,Villimale' Hospital,122.0,14.0,True,Hospital Grade 1,,,,,MLE
+179,Advance Medical Clinic,,,False,,General Clinic,"G. Rocketge, Male’, Republic of Maldives",3007788 / 7511844,advancecentralclinic@gmail.com,
+180,Central Medical Center,122.0,14.0,False,,General Clinic,"1st Floor& 2nd floor M.Nimsa, Male'",7511844,central.clinic.medical@gmail.com,K. Male'
+181,Central Clinic,122.0,14.0,False,,General Clinic,"1st Floor, M. Dhihlee Villa, Male'",7511845,central.clinic.medical@gmail.com,K. Male'
+182,Hussain Abdul Samad Memorial Clinic,9.0,2.0,False,,General Clinic,"Maaya, A.Dh. Dhangethi, Republic of Maldives",7978330,hasmcdhangethi@gmail.com,DH. Dhangethi
+183,Vital Care,122.0,14.0,False,,General Clinic,"G. Kanduvaige, K.Male'",,vitalcaremaldives@gmail.com,K. Male'
+184,Eve Clinic,122.0,14.0,False,,General Clinic,"M. Kovarik, K.Male'",7900788,eveclinicmaldives@gmail.com,K. Male'
+185,Mednova Medical Center,122.0,14.0,False,,General Clinic,"M. Aadhilleege, Male'",,mednova.medical.center@gmail.com,K. Male'
+186,Pro Care Clinic and Dental Centre,16.0,2.0,False,,General Clinic,"Champaamaage, ADH. Mahibadhoo",9112446,,ADH. Mahibadhoo
+187,CyMa Care,,,False,,General Clinic,"M.Naainfaruge, 2nd Floor, Jahaamuguri goalhi, Male’, Republic of Maldives",7901920,cymacare@gmail.com,
+188,Aahiyans Medical Clinic,109.0,13.0,False,,General Clinic,"Aahiyaa, Lh. Hinnavaru",7783818,aahiyansmedicalclinic@gmail.com,LH. Hinnavaru
+189,Family Relationship Services,122.0,14.0,False,,General Clinic,"H. Maafolhey Villa, ground floor, K. Male'",3327341,shiyana@familyrelationshipservices.com,K. Male'
+190,Imperial Medicare Centre,122.0,14.0,False,,General Clinic,"G. Chaman, K.Male'",,lmedicarecenter@gmail.com,K. Male'
+191,Ilaa Ali Adam Clinic,79.0,10.0,False,,General Clinic,"Zureethu Irumatheebai, Hdh.Kulhudhuffushi",7747722,ilaaclinic@gmail.com,HDH. Kulhudhuffushi
+192,Centre for Traditional Medicine,,,False,,General Clinic,"Ma. Maathandi, K. Male’, Republic of Maldives",3320105 / 9751170,ctm.maldives@gmail.com,
+193,RMLS Lab Services,121.0,14.0,False,,General Clinic,"New Hill, Hulhumale' Lot No.10059, K. Hulhumale', Maldives",3355001 / 3355002,pmchulhumale@gmail.com,Hulhumale'
+194,Pearl Medical Centre,122.0,14.0,False,,General Clinic,"M. Chanbeyleege, Shaariuvarudhee, Male', Maldives",3305550 / 3315550,pearl@ihsmaldives.com,K. Male'
+195,Pearl Medical Centre Hulhumale,122.0,14.0,False,,General Clinic,"Lot No. 10059, New Hill, Hulhumale', K. Male', Maldives",3355001 / 3355002,pmchulhumale@gmail.com,K. Male'
+196,Elite Medical Centre,122.0,14.0,False,,General Clinic,"Ma. Boige, K.Male', Republic of Maldives",3333505,info@emc.mv / hr@emc.mc,K. Male'
+197,Care Trust Multi Speciality Clinic,122.0,14.0,False,,General Clinic,"Hm Commercial Unit, Huvandhumaa Hingun, Male', Maldives",3359001 / 3359002,info@caretrust.mv,K. Male'
+198,Maldicare Clinic,122.0,14.0,False,,General Clinic,"G. Maavehi, K.Male', Republic of Maldives",3331590,admin@maldicare.com,K. Male'
+199,Azmi Naeem Medical & Diagnostic Centre,122.0,14.0,False,,General Clinic,"M. Misruvaage, Shaariuvarudhee Magu, Male'",9656649,info@amdc.com.mv,K. Male'
+200,My Clinic,122.0,14.0,False,,General Clinic,"Ma. Milano, Ground Floor, K.Male', Republic of Maldives",7776313,admin@myclinic.mv,K. Male'
+201,Noosandha,122.0,14.0,False,,General Clinic,"M. Iskandharu Koshi, K.Male', Republic of Maldives",3300078 / 9514450,noosandha@police.gov.mv,K. Male'
+202,Faruvaa Clinic,122.0,14.0,False,,General Clinic,"G. Rosary West, K. Male'",,info@faruvaaclinic.mv,K. Male'
+203,Vital Care- Kulhudhuffushi,79.0,10.0,False,,General Clinic,"Roazeenaaz, HDh. Kulhudhuffushi, Republic of Maldives",7774517,vitalcaremaldives@gmail.com,HDH. Kulhudhuffushi
+204,Dr. Usama's Clinic Maafannu,122.0,14.0,False,,General Clinic,"M. Green Life, K. Male', Republic of Maldives",3330076,dr_osama_o@hotmail.com,K. Male'
+205,Listen Clinic,122.0,14.0,False,,General Clinic,"G. Koaheenoor, 1st Floor, K.Male', Republic of Maldives",3007007,info@listen-maldives.com,K. Male'
+206,Aims Diagnostic Care,160.0,19.0,False,,General Clinic,"Rihaab, S. Feydhoo, Republic of Maldives",6898091,hr@aimsmaldives.com,S. Feydhoo
+207,Dental Studio,,,False,,General Clinic,"ameen avenue, reethigas magu hulhumale",7777466,info@masterdentalcare.com,
+208,Dr Usama Dental Clinic,122.0,14.0,False,,General Clinic,"H. Relic, hakuraa goalhi, Male'",3330080,dental@drusamaclinic.com / umc@lsmedicalcenter.com,K. Male'
+209,MACL Medical Clinic,,,False,,General Clinic,Velaana International Airport,,,
+210,Farook Healthcare,61.0,8.0,False,,General Clinic,"Randhan, Gn. Fuvahmulah",,ibrahimfarooq@gmail.com,GN. Fuvahmulah
+211,Southern Care Clinic,153.0,18.0,False,,General Clinic,"Araairu, S. Hithadhoo, Republic of Maldives",9991120,hiyaly@mediquipmaldives.com,S. Hithadhoo
+212,Medhope Medical Centre,122.0,14.0,False,,General Clinic,"Ma. Pinnacle, Chaandhanee Magu, Male', Maldives",3334966 / 7894966,medical@medhopegroup.com,K. Male'
+213,Clinica,122.0,14.0,False,,General Clinic,"G. Malvina, 1st and ground floor, Male'",3334550 / 3334554,info@clinica.mv,K. Male'
+214,Revive Medical Centre,65.0,9.0,False,,General Clinic,"Dheedhaaru, HA. Hoarafushi",,,HA. Hoarafushi
+215,Asisa Medical Center,,,False,,General Clinic,"H. Ranveli, Ground Floor,K.Male’, Republic of Maldives",3013900,asisaenterprises@gmail.com,
+216,Kulunu Medical Clinic,122.0,14.0,False,,General Clinic,"M. Naarigugasdhoshuge, K.Male'",,kulunumed@gmail.com,K. Male'
+217,Dhoonidhoo Clinic,63.0,9.0,False,,General Clinic,"Dhoonidhoo Office Building, K. Dhoonidhoo",,dhoonidhooclinic@police.gov.mv,K. Dhoonidhoo
+218,Child Development Clinic,,,False,,General Clinic,ildren.com,,dr.shafeeu@gmail.com,
+219,Verso MedicalCentre Alifushi,137.0,17.0,False,,General Clinic,"Flooniyaage, R. Alifushi",,hawwanajudh2207@outlook.com,R. Alifushi
+220,Image Centre,122.0,14.0,False,,General Clinic,"H. Shady Palm, Hithafinivaa magu, Male'",3334888,theclinic@maldivesmedicare.com.mv / neeraen@thinkmaldives.com,K. Male'
+221,Family Care Clinic and Scan Centre,122.0,14.0,False,,General Clinic,"H. Azum, Ameenee Magu, Male', Maldives",,Shiyaz@familycare.com.mv,K. Male'
+222,Primax Medicare,122.0,14.0,False,,General Clinic,"M. Huvandhu Gandhakoalhige, Male', Maldives",7980528,primaxmedicare@gmail.com,K. Male'
+223,Dr. Didi Dental Centre,122.0,14.0,False,,General Clinic,"G. Dhathuge, K. Male', Republic of Maldives",3325570,drdididental@live.com,K. Male'
+224,Crystal Medicals,,,False,,General Clinic,Ministry of Health,7991232 / 7790671,crystalexpressmv@gmail.com,
+225,Hiyaa Medical Centre,,,False,,General Clinic,"Hiyaa Tower 12, Hulhumale phase 2",,umc@ismedicalcentre.com,
+226,Dr Didi Dental And Medical Center,121.0,14.0,False,,General Clinic,"Lot No. 10409, Ahigas Magu, Hulhumale', Maldives",9901202,drdididental@live.com / mariyamw@hotmail.com,Hulhumale'
+227,Maldives Mobile Nursing Care,,,False,,General Clinic,Ma. Jambumaa Villa,,,
+228,Abuharee Medical Centre,153.0,18.0,False,,General Clinic,"Kulee Bin 9A/F2/1 , S. Hithadhoo, Addu City Maldives",6887920,abuhareepharmacy@gmail.com,S. Hithadhoo
+229,Vivadent Dental Center,,,False,,General Clinic,"G. Nashaathu Villa, 1st Floor, Nirolhu Magu",3005737,vivadentmaldives@gmail.com,
+230,Unique Dental,121.0,14.0,False,,General Clinic,"C1-03, Hulhumale', Maldives",3359005 / 7909017,admin@uniquedental.mv,Hulhumale'
+231,Tiny Drops Medical Services,122.0,14.0,False,,General Clinic,"Ma. Dhunbuge, K. Male', Republic of Maldives",7633394,tinydropsmedicals@gmail.com,K. Male'
+232,Leykokaa Medical and Rehabilitation Centre,,,False,,General Clinic,H. Meerubahuruge 300 6699,,,
+233,Herbal Medi Clinic,122.0,14.0,False,,General Clinic,"M. Mivaru, 1st floor, Karneyshan magu, Male', Maldives",7486464,herbalmediclinic@gmail.com,K. Male'
+234,Pine tree Medic Care,,,False,,General Clinic,429,,aumoonmoosa@gmail.com,
+235,Synergy Care,,,False,,General Clinic,H6-G01 in H6 Tower Hulhumale Phase 2,,,
+236,Blyss Multi-Speciality Therapy Centre,121.0,14.0,False,,General Clinic,"Hulhumale', Lot 10505",,,Hulhumale'
+237,Advance Diagnostic Center,21.0,3.0,False,,General Clinic,"Meenaaz, B. Eydhafushi, Maldives",7785320,yasirrafeeu@hotmail.com,B. Eydhafushi
+238,D.S.M Clinic,122.0,14.0,False,,General Clinic,"H. Dhiggaamaage, Male' Maldives",3328987 / 3332033,dcsm@dhivehinet.net.mv,K. Male'
+239,Coco Chic Clinic,122.0,14.0,False,,General Clinic,"04th floor, H. Suez, Ameer Ahmed Magu, Male', Maldives",3000911,accounts@cocochic.mv / hr@cocochic.mv,K. Male'
+240,Vitalcare Huvadhoo,,,False,,General Clinic,"G. Kanduvaige, Lonuziyaaraimagu",9694873,admin@vitalcare.com.mv,
+241,Rx Medicare,,,False,,General Clinic,Kalaj- Hulhumale (Lot no: 10057),7780908,info@rihaab.mv,
+242,Oagaa Medical Centre,,,False,,General Clinic,"Oagaa Medical Centre, M. Asdha",,gaamedicals@gmail.com,M. Asdha
+243,Pain Clinic,,,False,,General Clinic,"4th floor, G. Hiyaakuri Alikileygefaanu magu, Republic of Maldives",7800699,admin@medius.mv,
+244,Care Medicals Services,,,False,,General Clinic,"Ma. Noorihi, 1st Floor, Kaamineemagu",9630163,fareesh@hotmail.com,
+245,Naifaru Medical Center,111.0,13.0,False,,General Clinic,"White Building, Lh. Naifaru",,hr@ihsmaldives.com,LH. Naifaru
+246,"F&C Medicare, Meedhoo",157.0,18.0,False,,General Clinic,"Mirihaana, S. Meedhoo",,nc-16@hotmail.com,S. Meedhoo
+247,F&C Medicare,156.0,18.0,False,,General Clinic,Bageechaage/ S.Maradhoo Feydhoo,,,S. Maradhoo Feydhoo
+248,F & C Medicare and Scan Center,153.0,18.0,False,,General Clinic,"Ehaaru, S. Hithadhoo, Maldives",,chemist1fncaddu@hotmail.com,S. Hithadhoo
+249,F & C Prime Care,122.0,14.0,False,,General Clinic,"Thilafushi Office, K.Thilafushi, Male'",7925848,fnc-16@hotmail.com,K. Male'
+250,Thasalli Medical Care,,,False,,General Clinic,"H. fennaage , Buruzumagu",7970097,info@anahita.mv / thasallimedical@gmail.com / abdullabishar@gmail.com,
+251,Popular Clinic,122.0,14.0,False,,General Clinic,"G. Gavali, Bodurasgefaanu Magu, K. Male'",7777207,info@popularmedicals.com,K. Male'
+252,Noosandha - Addu,,,False,,General Clinic,"National College of Policing and Law Enforcement, Addu City",,noosnadha.addu@polwec.gov.mv,
+253,Nada Clinic,122.0,14.0,False,,General Clinic,"H. Gaamathi, 3rd Floor, K. Male'",7773882,nada@nada.com.mv / admin@nada.com.mv / amgidhaaree@gmail.com,K. Male'
+254,AMG Clinic,157.0,18.0,False,,General Clinic,"Vinavi, R. Meedhoo",9790799,ahmednaseem18@gmail.com,R. Meedhoo
+255,Medicrest Clinic and Diagnostics,136.0,16.0,False,,General Clinic,"Dhoodhaari Imaaraaiyy, N. Velidhoo",,m@gmail.com / ahmed.usaid@outlook.com,N. Velidhoo
+256,Maldives Neuro Endocrine Medical Facility,122.0,14.0,False,,General Clinic,"G. Maajehi Anex , K. Male'",,accounts@wconstruction.com.mv,K. Male'
+257,Jibon Clinic,,,False,,General Clinic,"Ma. Heera Handhuvaru, Ground Floor, Dhilbahaaru Magu 20232",7623099,admin@vitalcare.com.mv,
+258,Magey Physio,,,False,,General Clinic,"Nine House , floor 8",,mageyphysio@gmail.com / fiyacompany@gmail.com,
+259,Life Care Medical Centre,,,False,,General Clinic,"Rabarugas Magu 9, Lot No: 11382",,edicalcentre@gmail.com,
+260,Shifaa Medical,122.0,14.0,False,,General Clinic,"5th Floor, G. Hiyaakuri, Alikilegefaanu Magu 20119, Male'",7557677 / 3337677,admin@shifaamedical.com,K. Male'
+261,Kaam Medical,121.0,14.0,False,,General Clinic,"Lot 10414, Ahigas Magu, Hulhumale'",7973538,kaammedical@gmail.com,Hulhumale'
+262,Life Wellness Clinic,121.0,14.0,False,,General Clinic,"Hiyaa Flat,H-5,G-2,2300,Hulhumale'",9191813,sheezaibrahim91@gmail.com,Hulhumale'
+263,Atoll Clinic,121.0,14.0,False,,General Clinic,"Hulhumale Lot 10133, Halaveli Magu, Hulhumale'",7774091 / 7381111,info@heymaldives.com / whalelagoon.hrm@barcelo.com,Hulhumale'
+264,BCare,1.0,1.0,False,,General Clinic,"Barcelo Whale Lagoon Maldives, Adh. Bodufinolhu",9312222,whalelagoon.gm@barcelo.com,ADH. Bodufinolhu
+265,Queen Aesthetic Medical Center,,,False,,General Clinic,"R 13-05, Hithigas Magu, Goalhi-07",,queenaestheticsmv@gmail.com,
+266,Eve Clinic West Park,122.0,14.0,False,,General Clinic,"M. Laalpoolge Aage, Boduthakurufaanu Magu, Block 333, Male'",7930619 / 9881550,eveclinicmaldives@gmail.com,K. Male'
+267,Master Medical and Dental Care Centre,54.0,7.0,False,,General Clinic,"Jihaadh, Gdh. Gadhdhoo",,saleembe@gmail.com,GDH. Gadhdhoo
+268,Maldives Diagnostic Centre,122.0,14.0,False,,General Clinic,"G. Velagala, Ground Floor, K. Male', Republic of Maldives",3003969,mdcmaldiveslab@gmail.com,K. Male'
+269,One Medical Care,122.0,14.0,False,,General Clinic,"M. Fashion Meed, K. Male'",,hello.onemedical@gmail.com,K. Male'
+270,Haajy Medical Clinic,79.0,10.0,False,,General Clinic,"South Ward, Hikifinifenmaage, Hdh. Kulhudhuffushi",6528181 / 7328181,haajymedical@gmail.com,HDH. Kulhudhuffushi
+271,Modern Medical Centre,99.0,12.0,False,,General Clinic,"Fehifarudhaage, L. Fonadhoo",,rix1259@gmail.com,L. Fonadhoo
+272,Heart Care,122.0,14.0,False,,General Clinic,"G. Alidhooge, K. Male'",7977744,eleena2000@gmail.com,K. Male'
+273,Star Medical,,,False,,General Clinic,"M. Golden Vlley, Buruzu Magu",3333074 / 7916649,starmedical.maldives@gmail.com,M. Golden Vlley
+274,Careone Dental & Clinic,,,False,,General Clinic,H. Nivai,,,
+275,Dharavandhoo Medical Center,,,False,,General Clinic,Ministry of Health,,,
+276,My Care Medical Centre,122.0,14.0,False,,General Clinic,"Ma. Kinaaraa House, K. Male'",,remedicalmv@gmail.com,K. Male'
+277,TTH Clinic,122.0,14.0,False,,Diagnostic Clinic,"M. Champa Villa, Buruzu Magu, Male', Maldives",3351610,care@treetophospital.com,K. Male'
+278,Mediflex Laboratories,122.0,14.0,False,,Diagnostic Clinic,"M. Cottage, Male'",,,K. Male'
+279,Medlab Diagnostics,122.0,14.0,False,,Diagnostic Clinic,"M.She Building, Male'",,ntoffice@medlabdiagnostics.com,K. Male'
+280,Novalux Diagnostics,97.0,11.0,False,,Diagnostic Clinic,"K.Thulusdhoo, Maldives",,nfo@novaluxdiagnostic.mv,K. Thulusdhoo
+281,Lab Maldives,121.0,14.0,False,,Diagnostic Clinic,"Lot No. 11261, K. Hulhumale', Republic of Maldives",7777486,ziyam@labmaldives.com,Hulhumale'
+282,Resort Medical and Laboratory Services,122.0,14.0,False,,Diagnostic Clinic,"M. Chanbeyleege, Shaariuvarudhee, Male', Maldives",3315550,pearl@ihsmaldives.com,K. Male'
+283,MVDX Diagnostics,122.0,14.0,False,,Diagnostic Clinic,"M. Rihaab, 1st Floor, Muniyaa Magu, K. Male'",3337010,info@mvdxlabs.com,K. Male'
+284,Villa Bio Medicals Laboratory,175.0,20.0,False,,Diagnostic Clinic,"Sun Island Resort and Spa, Adh. Nalaguraidhoo",,,ADH. Nalaguraidhoo
+285,Mafhaa Diagnostic Centre,122.0,14.0,False,,Therapeutic Clinic,"Male' Grand, Mezzanine Floor, Waysidecom 204 & 205",3033938,mdc@mafhaa.com / mohamed@mafhaa.com,K. Male'
+286,Physio Solutions,122.0,14.0,False,,Therapeutic Clinic,"G. Hiyaakuri, 3rd floor, Male', Republic of Maldives",7566958,management@physiosolutions.mv,K. Male'
+287,Physio Clinic,122.0,14.0,False,,Therapeutic Clinic,"M. Finifaru (3rd Floor), K. Male', Republic of Maldives",7933112,admin@physiomaldives.com,K. Male'
+288,Physio and Autism Clinic,122.0,14.0,False,,Therapeutic Clinic,"M. Saumaamuge, K.Male', Republic of Maldives",9990936,ayshaabdulla993@gmail.com,K. Male'
+289,Mindcare Clinic,122.0,14.0,False,,Therapeutic Clinic,"H. Meedhoo, finihiyaa goalhi, Male'",7717174,mcc.zias@gmail.com,K. Male'
+290,Nafsu Psychological Services,,,False,,Therapeutic Clinic,,,,
+291,Kulhelama Therapy,,,False,,Therapeutic Clinic,"M. Kulunuvehi 6A, Buruzu Magu",,info@kulhelamatherapy.mv,
+292,AMDC Physiotherapy Department,,,False,,Therapeutic Clinic,"M. Misururuvaage , Shaariuvaadhee",,,
+293,Bulbul Therapy Clinic,79.0,10.0,False,,Therapeutic Clinic,"Hedheykuri, Hdh. Kulhudhuffushi",7993030,shifau@actualmaldives.com,HDH. Kulhudhuffushi
+294,Great Minds,122.0,14.0,False,,Therapeutic Clinic,"vavathi building, 2A, Male', Maldives",3312224,ameera@greatminds.mv,K. Male'
+295,Institute For Counselling And Psychotherapy,122.0,14.0,False,,Therapeutic Clinic,"H.Haifa,Bodufenavalhuge Magu, Male'",,,K. Male'
+296,Alai Play and Learn Therapy Center,,,False,,Therapeutic Clinic,"Hulhumale Lot 11123, Raw house 13-08, Republic of Maldives",7684112,alai.pltc@gmail.com,
+297,Therapy Centre,122.0,14.0,False,,Therapeutic Clinic,"M. Jeymuge, Majeedhee Magu, K. Male'",9996989,therapycenter.mv@gmail.com / btrikz@hotmail.com,K. Male'
+298,VCare Counselling and Psychotherapy Centre,122.0,14.0,False,,Therapeutic Clinic,"Villa College QI Campus, Rahdhebai Magu, Male', Maldives",,nfo@villacollege.edu.mv,K. Male'
+299,Mind Space,122.0,14.0,False,,Therapeutic Clinic,"M. Lodge, K. Male'",7780581,ishanaabdulrashyd@gmail.com,K. Male'
+300,Knowhub,122.0,14.0,False,,Therapeutic Clinic,"G. Hiyaakuri, Alikilegefaanu Magu, Male'",3320037 / 7320037,shuhda@knowhub.mv / Shuhda@gmail.com,K. Male'
+301,Early Intervention Therapy Centre,,,False,,Therapeutic Clinic,"G. Kakaage Aage, K.Male’, Republic of Maldives",,ysiomaldives@gmail.com,
+302,Wellcare Physiotherapy & Sports Rehabilitation,121.0,14.0,False,,Therapeutic Clinic,"R14/05, Ground Floor, Hithigas Magu Goalhi 6, Hulhumale'",3330999,Wellcare@boldborder.com,Hulhumale'
+303,Bliss Care,111.0,13.0,False,,Therapeutic Clinic,"Gulzaaruge, Lh. Naifaru",7953726 / 7783096,info@blisscare.mv,LH. Naifaru
+304,Hope Health Care,122.0,14.0,False,,Therapeutic Clinic,"101, H. Buruneege Dhekunuge, K. Male'",7787332,hhcmaldives@gmail.com,K. Male'
+305,Physio Cure,122.0,14.0,False,,Therapeutic Clinic,"i, Hithigas Magu, Male'",9958587 / 7253939,manager@physioplusmv.com,K. Male'
+306,Moving Cure,122.0,14.0,False,,Therapeutic Clinic,"H. Bandosge, Dhunbugas Magu, Male'",7661808 / 9972734,movingcure141@gmail.com / ayshaabdulla993@gmail.com,K. Male'
+307,Physio & Autism Clinic - Hulhumale',121.0,14.0,False,,Therapeutic Clinic,"Plot No. 10531, Ranaura Magu, Hulhumale'",,hysio.autismclinic@gmail.com,Hulhumale'
+308,Huvadhoo Therapy Clinic,189.0,21.0,False,,Therapeutic Clinic,"Keyvakuge, GDh. Thinadhoo",,loothclinic@gmail.com / shifau@actualmaldives.com,GDH. Thinadhoo
+309,TotalPhysio,,,False,,Therapeutic Clinic,"H. Sakeena Manzil, 3rd Floor, Medhuziyaaraiyy Magu",,totalphysio.pvt@gmail.com / ahd.areen@gmail.com / aspe786@gmail.com,
+310,Sukoon Clinic,121.0,14.0,False,,Therapeutic Clinic,"Hulhumale' Phase 1, Lot 11180",7313260,mariyamsithara1992@gmail.com,Hulhumale'
+311,CyMa Care Hulhumale',121.0,14.0,False,,Therapeutic Clinic,"R14-01, Lot No. 11124, No. 6, Hithigas Magu, Hulhumale'",7901920,ccounts@cymacare.com.mv,Hulhumale'
+312,Bulbul Multi Rehab Clinic,153.0,18.0,False,,Therapeutic Clinic,Sunny Lodge/ S. Hithadhoo- Addu City,,,S. Hithadhoo- Addu City
+313,Alai Clinic,122.0,14.0,False,,Therapeutic Clinic,"G. Dimelight, 2nd floor, Lonuziyaarai magu, K. Male'",7800415,info.alaiclinic@gmail.com / physiomaldives@gmail.com,K. Male'
+314,Physio Clinic Annex 1,121.0,14.0,False,,Therapeutic Clinic,"FW Residence, Hulhumale' phase 1",9553112,abdkhaleel@gmail.com,Hulhumale'
+315,NazaHealth,111.0,13.0,False,,Therapeutic Clinic,"Rose Garden, Lh. Naifaru",9716799,nazahealthrehab@gmail.com,LH. Naifaru
+316,Dhugethi Dhivehibeys Clinic,122.0,14.0,False,,Therapeutic Clinic,"Ma. Forsythia, K. Male'",,78@gmail.com,K. Male'
+317,Ayurvedic Therapy,121.0,14.0,False,,Therapeutic Clinic,Hulhumale' Lot 11123/ Raw House 13-08,9772622 / 9183442,ayurvedictherapymv@gmail.com,Hulhumale'
+318,Dhivehi Beys Clinic,121.0,14.0,False,,Therapeutic Clinic,"Lot No 10176, Hulhumale'",,salih.clinic@gmail.com,Hulhumale'
+319,Ali Rasheed Dhivehi Beys Clinic,,,False,,Therapeutic Clinic,"H. Veliraalhuge, Male",,,
+320,Maldives Alternative Medical Centre,122.0,14.0,False,,Therapeutic Clinic,"M. Aluvimaage Aage, Nedhun Goalhi, K. Male'",,osaigmh@gmail.com,K. Male'
+321,Sha Therapy Dhivehibeys Centre,,,False,,Therapeutic Clinic,Ministry of Health,,mmx10494@gmail.com,
+322,Leaf of Life Clinic,67.0,9.0,False,,Therapeutic Clinic,Anthurium/ Ha. Kelaa,,,HA. Kelaa
+323,Chinese Health Care,122.0,14.0,False,,Area Specific Clinic,"G. Maajehige, 1st Floor, Lily Magu, Male'",3336866 / 9722075,chinesehealthcare@126.com,K. Male'
+324,Institute for Mental Wellbeing,122.0,14.0,False,,Area Specific Clinic,"H. Hulhugali, 2nd Floor, K. Male', Republic of Maldives",3337892,instituteformentalwellbeing@gmail.com,K. Male'
+325,Nowall Medical Centre,,,False,,Area Specific Clinic,"Hulhumale Lot, 1193",,wall@yahoo.com,
+326,Master Dental Care Centre,122.0,14.0,False,,Area Specific Clinic,"G. Kudhithiyara, Male', Republic of Maldives",7777466,info@masterdentalcare.com,K. Male'
+327,I wear,122.0,14.0,False,,Area Specific Clinic,"M. Blue chip, Orchid magu, Male', Maldives",3008558,info@adkcompany.com / admin@adkcompany.com / info@eyecare.com.mv,K. Male'
+328,Eyecare opticals (fuvahmulah branch),122.0,14.0,False,,Area Specific Clinic,"M. Jupiter fareedhee Magu, K. Male'",,info@eyecare.com.mv,K. Male'
+329,Eye Care Clinic (Addu Branch),,,False,,Area Specific Clinic,"Silver Leaf, Hiyfaseyha Magu, S.Hithadhoo.",6881026,corporateadmin@eyecare.com.mv,
+330,MIPSTAR,,,False,,Area Specific Clinic,M.A Kinaaraa House,,,M. A Kinaaraa House
+331,Farook Healthcare Villingili,123.0,14.0,False,,Area Specific Clinic,"Blue House, GA. Villingili",,okhealthcarefvm@gmail.com,GA. Villingili
+332,Oracare Dental,121.0,14.0,False,,Area Specific Clinic,"Oracare Dental, Lot #10110, Hulhumale'",7795878 / 9992235,hello@oracaredental.mv,Hulhumale'
+333,Dr. Jihad's Medical and Dental Centre,122.0,14.0,False,,Area Specific Clinic,"Ma.Red Rose Hulhangubai, Buruzumagu, Male', Maldives",3008018,infodrjihadcentre@gmail.com,K. Male'
+334,True Care Medicals,122.0,14.0,False,,Area Specific Clinic,"M.Spatula, Iskandharu Magu, Male', Maldives",33202882,info@truecaremedicals.com,K. Male'
+335,Vital Care Kulhudhufushi Anex,79.0,10.0,False,,Area Specific Clinic,"Roazeenaaz, Dhanbu Goalhi, HDh. Kulhudhuffushi, Maldives",9991323,mmuthuim@gmail.com,HDH. Kulhudhuffushi
+336,Advance Eye Clinic,122.0,14.0,False,,Area Specific Clinic,"M. Excell, Kanbaa Aisarani Hingun, Male', Maldives",3001800,advanceopticles@gmail.com,K. Male'
+337,Valley Dental,122.0,14.0,False,,Area Specific Clinic,"M. Sailaa, Izzuddeen Magu, Male' Maldives",9880909,ahmedahsan0909@gmail.com,K. Male'
+338,Dental Care Centre,,,False,,Area Specific Clinic,446,7731358,dentalcarecentre1@gmail.com / admin@icattmaldives.com,
+339,ICATT Maldives- Medical Services,122.0,14.0,False,,Area Specific Clinic,"5C, 5th Floor, Sakaimoo Building, Haveeree Hingun, Male'",7800699,secretary@icattmaldives.com,K. Male'
+340,Master Dental Care Centro,121.0,14.0,False,,Area Specific Clinic,"Centro Mini Hall, Hulhumale', Maldives",,info@masterdentalcare.com,Hulhumale'
+341,My Dental Care HF -23/ALP/PVT/710 PVT-ASC-23-382-00,,,False,,Area Specific Clinic,Maamigili council 2 number fihaara,7933404,mymed.dental@gmail.com,
+342,Medplus Dental,150.0,17.0,False,,Area Specific Clinic,Handhuvareege / R. Ungoofaaru,,,R. Ungoofaaru
+343,Smiles Dental Care,122.0,14.0,False,,Area Specific Clinic,"Ma. Vavathi, Ground Floor, Male', Maldives",3341040 / 3321040,info@smiles-dentalcare.com,K. Male'
+344,Healing Care Medical Center,,,False,,Area Specific Clinic,"Mathivaru, Maalihaa Magu, Kulhudhuffushi City",9693535 / 7577818,healing.care.maldives@gmail.com / hamidfathuhulla@gmail.com,
+345,Olive Medical Centre,189.0,21.0,False,,Area Specific Clinic,"Alidhoadhi, Gdh. Thinadhoo",,hamidfathuhulla@hotmail.com,GDH. Thinadhoo
+346,My Family Dentist,122.0,14.0,False,,Area Specific Clinic,"Unit H3-G-10, Hiyaa Hulhumale', Male'",3338800 / 9942318,hasika@ame-healthcare.com,K. Male'
+347,VitalCare Dental,121.0,14.0,False,,Area Specific Clinic,"Hulhumale', Endheri 4, Rowhouse",9694873,admin@vitalcare.com.mv / zareer@smiles-dentalcare.com,Hulhumale'
+348,Smiles Dental Care Hulhumale',121.0,14.0,False,,Area Specific Clinic,"Lot 11000, Ground Floor, Lansimoo Magu, Hulhumale'",7777792,,Hulhumale'
+349,My Family Dentist Male',122.0,14.0,False,,Area Specific Clinic,"H. Glister, 1st Floor, Abadhah Fehi Magu, 20081, K.Male'",3338800 / 9942318,hasika@ame-healthcare.com,K. Male'
+350,Pine tree Medic Care/ Sh. Funadhoo,162.0,19.0,False,,Speciality Clinic,"Sea Star, Sh. Funadhoo",,ccaresh.15@gmail.com,SH. Funadhoo
+351,Omega Medical Centre,122.0,14.0,False,,Speciality Clinic,"H.Blue Asseyri, Male'",,,K. Male'
+352,Mediflex Dental and Maxillofacial Surgery,122.0,14.0,False,,Speciality Clinic,"M. Maayaa, Gandakoali magu, Male'",,,K. Male'
+353,Hope Dental Care,122.0,14.0,False,,Speciality Clinic,"1st floor H. Saahath, Filigasmagu, Male', Maldives",3001516 / 7951515,hopedentalcaremv@gmail.com,K. Male'
+354,Male' Eye Clinic,122.0,14.0,False,,Speciality Clinic,"M. Canopus, Ground Floor, Orchid Magu, K. Male'",3326410,info@male-optical.com,K. Male'
+355,Vision Clinic,122.0,14.0,False,,Speciality Clinic,"M. Shura Manzil, Fareedhee Magu, Male'",3009666 / 7771925,vision3535@live.com,K. Male'
+356,Vision Clinic Hulhumale',121.0,14.0,False,,Speciality Clinic,"Hiri-4, Reethigas Hingun, Hulhumale'",3350006 / 7771925,vision3535@live.com,Hulhumale'
+357,Emerald Dental Care,122.0,14.0,False,,Speciality Clinic,"Lot No: 11157 Hulhumale', K. Male'",9900886,ahmedadam79798@gmail.com,K. Male'
+358,Family Dental Care,,,False,,Speciality Clinic,"Sun East 2nd Floor, Nirolhu Magu",,info@mauholding.com.mv,
+359,Vision Clinic-1,122.0,14.0,False,,Speciality Clinic,"H. Landhooge, Ameer Ahmed Magu, Male'",3003534 / 7771925,vision3535@live.com,K. Male'
+360,City Opticals,121.0,14.0,False,,Speciality Clinic,"R9-05 2nd Floor, Hithigas Magu, Hulhumale'",7777660,cityopticalmv@gmail.com,Hulhumale'
+361,Vision Care Optical and Eye Clinic,123.0,14.0,False,,Speciality Clinic,"Handhuvareeaage, Ameeneemagu, Ga. Villingili",,Leelzayyan46@gmail.com,GA. Villingili
+362,Eye to Eye Opticals & Clinic,,,False,,Speciality Clinic,"M. Sileyha, Funagoalhi",,eyetoeyemv@gmail.com,M. Sileyha
+363,Eye to Eye Opticals & Clinic 2,113.0,15.0,False,,Speciality Clinic,M. Dhiyaneru,,,M. Dhiyaneru
+364,Eye Zone Clinic,189.0,21.0,False,,Private Hospital,"Zenith, Fandiyaaru Magu, GDh. Thinadhoo",9527119,eyezone2024@gmail.com,GDH. Thinadhoo
+365,ADK Hospital,122.0,14.0,False,,Private Hospital,"ADK Hospital, K.Male', Republic of Maldives",3313553,info@adkhospital.com,K. Male'
+366,Medica,,,False,,Private Hospital,Ministry of Health,3002255,info@medica.com.mv,
+367,Medica Annex,122.0,14.0,False,,Private Hospital,"Daaf Store No.1, Faamudheyri Magu, Maafannu, Male'",3002255,info@medica.com.mv / info@eyecare.com.mv,K. Male'
+368,Eye Care Hospital,122.0,14.0,False,,Private Hospital,"M.Usha, orchid magu , K. Male'",3324300,corporateadmin@eyecare.com.mv,K. Male'
+369,TreeTop Hospital,121.0,14.0,False,,Private Hospital,"Lot 10608, Dhumburi Magu, K. Hulhumale, Maldives",3035186,executiveoffice@treetophospital.com,K. Hulhumale
+370,I.M.D.C Multi Speciality Hospital,153.0,18.0,False,,Private Hospital,"Albany, S.Hithadhoo",,fo@imdc.com.mv,S. Hithadhoo
+371,Eye Care Hospital Hulhumale' Annex,121.0,14.0,False,,Resort Clinic,"Lot 10420, Hulhumale'",,enas@eyecare.com.mv,Hulhumale'
+372,Kuda Villingili,,,False,,Resort Clinic,Kuda villingili resort,,,
+373,Kagi Clinic,,,False,,Resort Clinic,Kagi Maldives Spa Island,,,
+374,Angsana Velavaru Medical Centre,,,False,,Resort Clinic,Angsana Resort & Spa Maldives Velavaru,,clinic-velavaru@angsana.com,
+375,Kandima Medical Centre,,,False,,Resort Clinic,"Kandima Maldives, Dhaal Atoll",,ykindofplace@kandima.com,
+376,Thundufushi Medical Clinic,,,False,,Resort Clinic,"Diamonds Thundufushi Beach and Water Villas, Republic of Maldives",7602409,hr.thundufushi@diamonds-resorts.com,
+377,Athuruga Medical Clinic,,,False,,Resort Clinic,"Diamonds Athuruga Island Resort, Republic of Maldives",7602409,hr.athuruga@diamonds-resorts.com,
+378,Maayafushi Clinic,96.0,11.0,False,,Resort Clinic,"Maayafushi Tourist Resort, AA. Maayafushi, Republic of Maldives",6700588,maayafushi@nakairesorts.com,AA. Maayafushi
+379,Doctor's Clinic,96.0,11.0,False,,Resort Clinic,"Maafushivaru Maldives, Adh. Maafushivaru, Republic of Maldives",6680001,resort.doctor@maafushivaru.com,ADH. Maafushivaru
+380,Maamigili Clinic,15.0,2.0,False,,Resort Clinic,"R. Maamigili, Republic of Maldives",6584888,info@medplusmaldives.com,R. Maamigili
+381,Sandies Bathala Infirmary,,,False,,Resort Clinic,"AA. Atoll, Sandies Bathala Resort, Republic of Maldives",4002400,infirmary.bathala@sandies-resorts.com,AA. Atoll
+382,Cocogiri Clinic,,,False,,Resort Clinic,"Vashugiri, Vaavu Atoll, Republic of Maldives",7784975,vashugirimaldives@gmail.com,
+383,Joali Being Clinic,,,False,,Resort Clinic,"Joali Being Bodufushi, Raa Bodufushi, Republic of Maldives",7248216,jaileen.milar@joali.com,
+384,Velaa Private Island Clinic,,,False,,Resort Clinic,"Velaa Private Island Maldives, N.Fushivelaavaru, Republic of Maldives",6565000,ejaz.ahmed@velaaisland.com,N. Fushivelaavaru
+385,Kurumba Clinic,96.0,11.0,False,,Resort Clinic,"Kurumba Maldives, K. Vihamanaafushi, Republic of Maldives",7784038,iyaz.waheed@universalenterprises.com,K. Vihamanaafushi
+386,Ouch,,,False,,Resort Clinic,"Fesdu Island, North Ari Atoll, Republic of Maldives",3332245 / 7993083,s.suresh@universalenterprises.com,
+387,Anantara Kihavah Villas Clinic,,,False,,Resort Clinic,"Anantara Kihavah Villas, B. Kihavah Huravalhi, Republic of Maldives",6601020,rsanders@anantara.com,B. Kihavah Huravalhi
+388,Dhigali Clinic,,,False,,Resort Clinic,"Dhigali Maldives Resort, Raa Atoll, Republic of Maldives",7784038,iyaz.waheed@universalenterprises.com,
+389,Noo Clinic,,,False,,Resort Clinic,"Robinson Noonu, N.Orivaru, N.Atoll, Republic of Maldives",4004444,humanresources.noonu@robinson.com,N. Orivaru
+390,JP Memorial Clinic,,,False,,Resort Clinic,"Robinson maldives, GA. Funamaudda, Huvadhu Atoll, Rep.of.maldives",6820000,humanresources.maldives@robinson.com,GA. Funamaudda
+391,Maadhoo Clinic,134.0,16.0,False,,Resort Clinic,"Ozen by Atmosphere at Maadhoo, K. Maadhoo, Republic of Maldives",6642020,hrm@ozen-maadhoo.com,K. Maadhoo
+392,,,,False,,Resort Clinic,"Bandos Maldives, K.Bandos",6640088,clinic@bandos.com.mv,K. Bandos
+393,Pullman Maldives Maamutaa Resort Clinic,,,False,,Resort Clinic,"Pullman Maldives Maamutaa Resort, Ga. Maamutaa, republic maldives",,H9924-HR1@ACCOR.COM,GA. Maamutaa
+394,IHG Maamunagau Clinic,,,False,,Resort Clinic,Maamunagau Island Raa Atoll,,,
+395,Mercure Maldives Kooddoo Clinic,,,False,,Resort Clinic,"Mercure Maldives kooddoo, GA. Kooddoo",,ddeeg@accor.com,GA. Kooddoo
+396,Amingiri Clinic,,,False,,Resort Clinic,Hilton Maldives Amingiri Resort & SPA,,ni.Rasheed@hilton.com / nihad@amin.mv,
+397,Atoll Guest Clinic,,,False,,Resort Clinic,Gadifaru-Maafushi Island,,,
+398,Finolhu Clinic Plus,137.0,17.0,False,,Resort Clinic,"B. Kanifushi, Maldives",,atheen@finolhu.mv,B. Kanifushi
+399,Cinnamon Velifushi Maldives Medical Clinic,62.0,9.0,False,,Resort Clinic,"Cinnamon Velifushi Maldives, V. Aarah, Maldives",,hi@cinnamonhotels.com,V. Aarah
+400,Angaga Medicals,,,False,,Resort Clinic,"Angaga Island Resort and spa, Adh. Angaga",,gm@angaga.com.mv,ADH. Angaga
+401,Maalifushi by Como,,,False,,Resort Clinic,COMO Maalifushi,,,
+402,kuredivaru Clinic,,,False,,Resort Clinic,"Movenpick Maamunagau Resort, Noonu Atoll, Maldives",9444200 / 6563000,resort.kuredhivaru.doctor@movenpick.com,
+403,Joali Muravandhoo Clinic,151.0,17.0,False,,Resort Clinic,"Joali Muravandhoo Resort, R. Muravandhoo, Maldives",7967330,clinic.jomv@joali.com,R. Muravandhoo
+404,Kuramathi Medical Centre,,,False,,Resort Clinic,"Kuramathi Tourist Resort, Ari Atoll",,waheed@universalenterprises.com,
+405,Nova Clinic,,,False,,Resort Clinic,"Nova Resorts, Adh Vakarufalhi",7242787,mohamed.sunah@nova-maldives.com,
+406,Huvafen Fushi Clinic,122.0,14.0,False,,Resort Clinic,"Huvafenfushi, North Male' Atoll, Malidives",7784038,iyaz.waheed@universalenterprises.com,K. Male'
+407,Maandhoo Medical Centre,106.0,12.0,False,,Resort Clinic,"Maandhoo Medical Centre building,L. Maandhoo",,o@horizonfisheries.com,L. Maandhoo
+408,Raffles Clinic,,,False,,Resort Clinic,"Raffled Maldives Meradhoo Resort , Ga Atoll",,hassan.wisham@raffles.com,
+409,Thudufushi Medical Clinic,,,False,,Resort Clinic,Diamonds Thundufushi Beach and Water Villas,,,
+410,Milaidhoo Clinic,,,False,,Resort Clinic,Milaidhoo Island Resort,,,
+411,Resort Clinic,,,False,,Resort Clinic,"Four Seasons Resort Maldives at Landa Giraavaru , Baa Atoll",,sama@sandalawyers.com,
+412,Kandooma Clinic,,,False,,Resort Clinic,Holiday Inn Resort Kandooma,,,
+413,Mudhdhoo Clinic,,,False,,Resort Clinic,"B. Mudhoo Island , Male",,auroof.mohamed@dusit.com,B. Mudhoo Island
+414,Gilli Gets Well,,,False,,Resort Clinic,"K. Lankanfushi Island , Gili Lankanfushi",7923461,resort.doctor@gili-lankanfushi.com,K. Lankanfushi Island
+415,Thilamaafushi Clinic,,,False,,Resort Clinic,Lh. Thilamaafushi Island,,,LH. Thilamaafushi Island
+416,Meeru Clinic,,,False,,Resort Clinic,Meeru island resort and spa,,,
+417,Guest and Staff Clinic,,,False,,Resort Clinic,"GDh. Konotta, Gdh. Atoll, Republic of Maldives",6847770,info@medplusmaldives.com,GDH. Konotta
+418,Aarah Clinic,,,False,,Resort Clinic,"Aarah, Raa Atoll",,gm.aarah@heritamcehotels.com,
+419,Rannalhi Clinic HF22/ALP/PVT/659 PVT-GC-22-250-00 24th July,,,False,,Resort Clinic,Adaaran Club Rannalhi,6640375,,
+420,Dream Land Clinic,19.0,3.0,False,,Resort Clinic,Dreamland The Unique Sea and Lake Resort Spa/ B. Hirundhoo,,,B. Hirundhoo
+421,Kani Medical Clinic,,,False,,Resort Clinic,"Club Med Kanifinolhu, North Kaaf Atoll, Rep. of Maldives",6643152 / 7885773,kancinfr01@clubmed.com,
+422,Soneva Jani Clinic,,,False,,Resort Clinic,Ministry of Health,9900886,ahmedadam79798@gmail.com,
+423,Six Sensus Laamu Clinic,,,False,,Resort Clinic,"Six Senses Laamu, Olhuveli, Laamu Atoll, Republic of Maldives",7951795,sama@sandalawyers.com,
+424,Hudhuranfushi Clinic,89.0,11.0,False,,Resort Clinic,"Adaaran Select Hudhuranfushi, K. Lhohifushi",,gm.hrf@adaaran.com.mv / info@ayadamaldives.com,K. Lhohifushi
+425,Ayada Maldives Resort Clinic,,,False,,Resort Clinic,"GDh. Maguhdhuvaa Island, Maldives",,linic@ayadamaldives.com,GDH. Maguhdhuvaa Island
+426,Kothaifaru Clinic,,,False,,Resort Clinic,"Alila Kothaifaru Maldives , Raa Atoll",,farooque.ali@alilahotels.com,
+427,Meedhupparu Clinic,,,False,,Resort Clinic,R. Meedhupparu,,,R. Meedhupparu
+428,Rangali Clinic,,,False,,Resort Clinic,"Conrad Maldives Rangali Island, ADh. Rangali, Republic of Maldives",7924311,mohamed.naseem@conradhotels.com,ADH. Rangali
+429,Velassaru Medical Center,,,False,,Resort Clinic,K. Velassaru,,,K. Velassaru
+430,Finolhu Clinic,,,False,,Resort Clinic,"Club Med Finolhu Villas, K. Gasfinolhu, Maldives",6644040 / 7937608,kanvinfr01@clubmed.com,K. Gasfinolhu
+431,Vommuli Clinic,,,False,,Resort Clinic,"The St. Regis Vommuli Resort, Maldives",,mohamed.shimal@stregis.com,
+432,Cocoa Island Island,96.0,11.0,False,,Resort Clinic,"Cocoa Island, K. Makunufushi, Maldives",6641818,kennedy.sam@comohotels.com,K. Makunufushi
+433,Reethi Faru Clinic,64.0,9.0,False,,Resort Clinic,"Reethi Faru Resort, R. Fillaidhoo, Maldives",7941503,clinic@reethifaru.com,R. Fillaidhoo
+434,Sun Siyam Irufushi Maldives Clinic,,,False,,Resort Clinic,"Sun Siyam Iru Fushi Maldives, Noonu Atoll, Medhafushi",,nfo.irufushi@sunsiyam.com,
+435,Havodda Clinic,,,False,,Resort Clinic,"Amari Havodda Maldives, Gaafu Dhaalu Atoll, Havodda",6848826,anushka.maduranga@amari.com,
+436,Hurawalhi Clinic,,,False,,Resort Clinic,"Hurawalhi Island Resort, Lh. Hurawalhi, Maldives",3326545,oct@ctnt.com,LH. Hurawalhi
+437,Maafushivaru Clinic,,,False,,Resort Clinic,ldives,,,
+438,Care Max Clinic 1,,,False,,Resort Clinic,"Taj coral reef and spa , Maldives",,dr.abbas@caremax.mv,
+439,"ADK Hospital Reach Clinic, Maaranfushi",96.0,11.0,False,,Resort Clinic,"Oaga Art Resorts, K. Maaranfushi",,,K. Maaranfushi
+440,Ananatara Dhigu Clinic,,,False,,Resort Clinic,"Anantara Resort and Spa Maldives, K. Dhigufinolhu",,mrasheed@anantara.com,K. Dhigufinolhu
+441,Four Seasons Resort Kuda Huraa Clinic,,,False,,Resort Clinic,"Four Season Resort Maldives at Kudahuraa, Maldives",,,
+442,Eriyadu Clinic,,,False,,Resort Clinic,"Eriyadu Island Resort, Maldives",,gm@eriyadumaldives.com,
+443,Emerald Faarushi Clinic,,,False,,Resort Clinic,"Faarufushi Island, Raa Atoll, Maldives",,fc@emerald-maldives.com,
+444,Sun Siyam Olhuveli Maldives Clinic,112.0,13.0,False,,Resort Clinic,K. Olhuveli,,,K. Olhuveli
+445,Kanuhura Clinic,,,False,,Resort Clinic,"Kanuhura, Lhaviyani Atoll",7770948,juni@sandalawyers.com,
+446,Constance Moofushi Resort Clinic,,,False,,Resort Clinic,Constance Moofushi Resort/ South Ari Atoll dr.moofushiresort.com,,,
+447,Ruhgalu Clinic,,,False,,Resort Clinic,"Vakkaru Maldives, B. Vakkaru, Maldives",6607000,nasrulla.mohamed@vakkarumaldives.com / hrm@youandmemaldives.com,B. Vakkaru
+448,You & Me Clinic,139.0,17.0,False,,Resort Clinic,R. Uthurumaafaru,,,R. Uthurumaafaru
+449,Cheval Blance Randeli Clinic,,,False,,Resort Clinic,"Cheval Blanc Randheli, N.Atoll, Republic of Maldives",6561515,randheli@chevalblanc.com,N. Atoll
+450,Avani Clinic,,,False,,Resort Clinic,"Avani + Fares Maldives Resort, Fares Island",6644111,rdrever@avani.com,
+451,Veligandu Clinic HF -23/ALP/PVT/704 PVT-GC-23-384-00 15th,,,False,,Resort Clinic,Veligandu Island resort and spa,6660519,clinic@veligandu.com,
+452,Gangehi Clinic HF - 23/ALP/PVT/706 PVT-GC-23-380-00,,,False,,Resort Clinic,"Gangehi Island Resort, Adh. Gangehi, Maldives",7863402,he@gangehi.com,ADH. Gangehi
+453,Vadoo Clinic HF -23/ALP/PVT/708 PVT-GC-23-381-00 8th,151.0,17.0,False,,Resort Clinic,"Adaaran Prestige Vadoo, K. Vadoo, Maldives",7787785,mahdy@aitkenspence.lk,K. Vadoo
+454,Sun Siyam Iruveli Maldives Clinic HF,,,False,,Resort Clinic,Sunsiyam Iruveli Maldives Resort,6760100,info.iruveli@sunsiyam.com,
+455,Reethi Beach Clilnic HF -23/ALP/PVT/711 PVT-GC-23-385-00,133.0,16.0,False,,Resort Clinic,"B. Fonimagoodhoo, B. Atoll, Maldives",7931744,clinic@reethibeach.com,B. Fonimagoodhoo
+456,Komandoo Clinic HF -23/ALP/PVT/712 PVT-GC-23-386-00 31st,,,False,,Resort Clinic,Komandoo Maldives Island Resort,3326545,oc@ctnt.com,
+457,Kandolhu Clinic HF -23/ALP/PVT/713 PVT-GC-23-388-00 12th,,,False,,Resort Clinic,A.A. Kandolhudhoo,3323080,iyaaz.waleed@universalresort.com,
+458,Kunaavashi Clinic,,,False,,Resort Clinic,"Nooe Maldives Kunaavashi, Vaavu Atoll",,marketing@mediflexhospitality.com,
+459,Sun Island Medical Centre,175.0,20.0,False,,Resort Clinic,"Sun Island, Adh. Nalaguraidhoo",,clinic@sunisland.com.mv / mohamed.areesh@fairmont.com,ADH. Nalaguraidhoo
+460,The Clinic At Sirru Fen Fushi,,,False,,Resort Clinic,"Sh. Gaakoshibee, Fairmont Maldives Sirru fen Fushi",7924033,nalina.perera@fairmont.com,SH. Gaakoshibee
+461,The Residence Maldives Clinic,,,False,,Resort Clinic,"Falhumaafushi, Ga. Atoll",,wisham@theresidence.com,GA. Atoll
+462,Cinnamon Dhonveli Maldives Medical Clinic,,,False,,Resort Clinic,Cinnamon Dhonveli Maldives,,,
+463,Fihalhohi Clinic,,,False,,Resort Clinic,Fihaalhohi Island Resort,,info@medplusmaldives.com,
+464,Vabbinfaru Clinic,,,False,,Resort Clinic,"Banyan Tree Maldives, K.Vabbinfaru",,clinic-vabbinfaru@banyantree.com,K. Vabbinfaru
+465,Paradise Medical Center,,,False,,Resort Clinic,"K. Lankafinolhu, Paradise Island Resorts & Spa Maldives",7261886,doctor@paradise-island.com.mv,K. Lankafinolhu
+466,Medical & Hyperbaric Clinic,,,False,,Resort Clinic,"Kuredu Island, Lhaviyani Atoll",,t@ctnt.com,
+467,Ellaidhoo Clinic,,,False,,Resort Clinic,"Ellaidhoo, Alif Alif Atoll",7415366,doctor.ellaidhoo@cinnamonhotels.com,
+468,Bolifushi Clinic,89.0,11.0,False,,Resort Clinic,"Bolifushi Island Resort, K. Bolifushi",,dhr@ozenreserve-bolifushi.com,K. Bolifushi
+469,MPI Clinique,,,False,,Resort Clinic,"Madifushi Private Island, Meemu Madifushi, 11020, Republic of Maldives",6720000,stay@madifushiprivateisland.com,
+470,Hakuraa Medical Centre,,,False,,Resort Clinic,dives,,,
+471,Olhahali Clinic,,,False,,Resort Clinic,Jumeirah Maldives Olhahali Island,,,
+472,Jawakara Clinic,,,False,,Resort Clinic,"Mabinhura Island, Lahviyan Atoll, Maldives",6628888,aslam@ctnt.com,
+473,Ifuru Clinic,,,False,,Resort Clinic,Ministry of Health,,info@coastlinegroup.com.mv / maldives.parkhadahaa@hyatt.com,
+474,Hadahaa Clinic,,,False,,Resort Clinic,Park Hyatt Maldives Hadahaa,,ic.maldives@tajhotels.com,
+475,Taj Exotica Clinic,,,False,,Resort Clinic,"Taj Exotica Resort and Spa Maldives, K. Emboodhoo Finolhu",4005606 / 7949184,sujith.nambiar@tajhotels.com,K. Emboodhoo Finolhu
+476,Fushi Clinic,111.0,13.0,False,,Resort Clinic,"Lh. Fushifaru, Republic of Maldives",6620202,doctor@fushifaru.com,LH. Fushifaru
+477,Thulhagiri Clinic,,,False,,Resort Clinic,"Thulhagiri Island Resorts & Spa, K. Thulhagiri",6645930,hr@thulhagiri.com.mv,K. Thulhagiri
+478,The Standard Clinic,,,False,,Resort Clinic,The Standard Huruvalhi Maldives,,,
+479,The Residence Maldives at Dhigurah Clinic,10.0,2.0,False,,Resort Clinic,"The Residence Maldives Dhigurah, Ga. Dhigurah, Maldives",,aajmal@theresidence.com,GA. Dhigurah
+480,Helengeli Clinic,122.0,14.0,False,,Resort Clinic,"Oblu Atmosphere at Helengeli, Helengeli, K. Male'",9596001,hrm@oblu-helengeli.com,K. Male'
+481,Furaveri Clinic,,,False,,Resort Clinic,Furaveri Resort Maldives,,,
+482,SO/ Maldives Clinic,,,False,,Resort Clinic,"Emboodhoo Lagoon, Kaafu Atoll, Republic of Maldives",7469981 / 3341775,info@medplusmaldives.com,
+483,Varu Medical Centre,122.0,14.0,False,,Resort Clinic,"Varu by Atmosphere, K. Madivaru, North Male'",4000700,ahrm@varu-atmosphere.com / moo@luxresortmaldives.com,K. Male'
+484,Lux Maldives Resort Clinic,,,False,,Resort Clinic,Adh. DhidhdhooFinolhu,,,ADH. DhidhdhooFinolhu
+485,Miriandhoo Medical Services,,,False,,Resort Clinic,"Miriandhoo Island, B. Atoll",,,B. Atoll
+486,Sun Siyam Vilu Reef Maldives CLinic,89.0,11.0,False,,Resort Clinic,"Sun Siyam Vilu Reef Maldives, Dh. Meedhuffushi",,lureef@sunsiyam.com,DH. Meedhuffushi
+487,Niyama Resort Clinic,,,False,,Resort Clinic,"Niyama Maldives, Dh. Olhuveli and Emboodhoo",7906095,irafyf@niyama.com,DH. Olhuveli and Emboodhoo
+488,Ithaafushi Clinic,,,False,,Resort Clinic,"Ithaafushi, Male Atoll",3341775,info@medplusmaldives.com,
+489,Halaveli Clinic,,,False,,Resort Clinic,Constance Halaveli Resort / North Ari Atoll,,officemgr@halaveli.com,
+490,Rasfushi Clinic,,,False,,Resort Clinic,,,,
+491,Soneva Fushi Clinic,23.0,3.0,False,,Resort Clinic,"Soneva Fushi Resort, B. KUnfunadhoo",,doctor-fushi@soneva.com,B. KUnfunadhoo
+492,Kanuhura Clinic,,,False,,Resort Clinic,"Kanuhura, Lhaviyani",,mohamed.riza@sixsenses.com,
+493,Alimatha Clinic,,,False,,Resort Clinic,Vaavu Atoll Alimatha Aquatic Resort,,maleoffice@emerald-maldives.com,
+494,Emerald Maldives Resort Clinic,,,False,,Resort Clinic,R. Fasmendhoo Island,,,R. Fasmendhoo Island
+495,Raaya Clinic,,,False,,Resort Clinic,Raa Kudakurathu Island,,,
+496,Furana Clinic,,,False,,Resort Clinic,Furanafushi Island North Male Atoll,,,
+497,Baros Clinic,,,False,,Resort Clinic,"Baros Maldives, K. Baros",,iyaz.waheed@universalresorts.com,K. Baros
+498,Eri Maldives Clini,,,False,,Resort Clinic,"Eriyadhoo Island, Kaafu Atoll",7292828,salah.hassan@eriyadhumaldives.com,
+499,Muraka Clinic,,,False,,Resort Clinic,"JW Marriot K. Atoll Island Resort 5th Floor Unit C, Orchid Magu",7779712,info@medplusmaldives.com,
+500,Amilla Sihhath,144.0,17.0,False,,Resort Clinic,"Amilla Fushi, B. Finolhas",,reserve@amilla.com / doctor@amilla.com / almas.ahmed@siyamworld.com,B. Finolhas
+501,Siyam World Maldives Clinic,10.0,2.0,False,,Resort Clinic,"Siyam World Maldives, N. Dhigurah",,,N. Dhigurah

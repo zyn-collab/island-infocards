@@ -1,0 +1,20 @@
+Color palette:
+Teal: #46bbb7
+Blue: #0097b2
+Pink: #ec9896
+Coral: #f05b4e
+Green: #3fad87
+White: #ffffff
+Light background: bg-gray-50, dark background: bg-gray-900; text swaps between text-gray-900 and text-white.
+
+Font:
+IBM Plex Mono everywhere (titles and body).
+Header block (hero): H1 is uppercase with heavy weight; supporting lines are uppercase small caps.
+
+Layout
+App shell: two-column sidebar + main with sticky left rail.
+Sidebar: fixed width 300px, sticky, full-height scroll, light/dark backgrounds with border.
+Main: flexible column with padding.
+
+Vibe:
+Clean, modern, stylish feeling. Inspires both a feeling of data, tech, advanced feeling with the font and spacing while being accessible through clear, legible, readable, beautifully designed visualizations. Very interactive, very smooth, very flexible and powerful. Dropdowns, autocompletes, filters, select and highlights, smooth and subtle animations that rescale where applicable, an overall beautiful and pleasing design.

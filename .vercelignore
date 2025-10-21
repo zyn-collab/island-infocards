@@ -1,0 +1,5 @@
+# Files to ignore when deploying to Vercel
+START_SERVER.bat
+START_SERVER_NODE.bat
+style and look.txt
+

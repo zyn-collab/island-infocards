@@ -1,0 +1,190 @@
+island_id,fcode,island_name_standard,island_name_dhivehi,atoll_standard,is_capital,area_hectares,latitude,longitude
+1,LD0474,Bodufolhudhoo,ބޮޑުފޮޅުދޫ,Alifu Alifu,False,12.492676,4.185741,72.773469
+2,LD0287,Feridhoo,ފެރިދޫ,Alifu Alifu,False,45.079816,4.051066,72.725569
+3,LD0874,Himendhoo,ހިމެންދޫ,Alifu Alifu,False,20.958977,3.921069,72.744234
+4,LD0004,Maalhos,މާޅޮސް,Alifu Alifu,False,32.453251,3.986405,72.719227
+5,LD0132,Mathiveri,މަތިވެރި,Alifu Alifu,False,23.064295,4.19196,72.746108
+6,LD0257,Rasdhoo,ރަސްދޫ,Alifu Alifu,True,21.825808,4.263125,72.991681
+7,LD0501,Thoddoo,ތޮއްޑޫ,Alifu Alifu,False,162.847076,4.437064,72.95936
+8,LD0916,Ukulhas,އުކުޅަސް,Alifu Alifu,False,23.749664,4.214916,72.864141
+9,LD0273,Dhan'Gethi,ދަނގެތި,Alifu Dhaalu,False,30.166662,3.607647,72.956038
+10,LD1047,Dhigurah,ދިގުރަށް,Alifu Dhaalu,False,55.048316,3.527893,72.92386
+11,LD0459,Dhihdhoo,ދިއްދޫ,Alifu Dhaalu,False,20.305146,3.484571,72.87861
+12,LD0513,Fenfushi,ފެންފުށި,Alifu Dhaalu,False,25.640855,3.489172,72.782986
+13,LD1023,Hangnaameedhoo,ހަންޏާމީދޫ,Alifu Dhaalu,False,20.310461,3.849286,72.955337
+14,LD0771,Kun'Burudhoo,ކުނބުރުދޫ,Alifu Dhaalu,False,6.507178,3.775472,72.924721
+15,LD0158,Maamin'Gili,މާމިނގިލި,Alifu Dhaalu,False,220.80777,3.474846,72.833061
+16,LD0545,Mahibadhoo,މަހިބަދޫ,Alifu Dhaalu,True,23.598404,3.757158,72.968918
+17,LD0168,Mandhoo,މަންދޫ,Alifu Dhaalu,False,38.501574,3.69786,72.709786
+18,LD0009,Omadhoo,އޮމަދޫ,Alifu Dhaalu,False,22.822959,3.791618,72.962065
+19,LD0844,Dharavandhoo,ދަރަވަންދޫ,Baa,False,67.384564,5.157033,73.130709
+20,LD0348,Dhonfanu,ދޮންފަނު,Baa,False,17.30447,5.187979,73.122931
+21,LD0204,Eydhafushi,އޭދަފުށި,Baa,True,56.347201,5.102656,73.070774
+22,LD0520,Fehendhoo,ފެހެންދޫ,Baa,False,25.167163,4.881774,72.968754
+23,LD0044,Fulhadhoo,ފުޅަދޫ,Baa,False,29.271955,4.884713,72.932465
+24,LD0931,Goidhoo,ގޮއިދޫ,Baa,False,162.944662,4.872079,72.999556
+25,LD1000,Hithaadhoo,ހިތާދޫ,Baa,False,31.740218,5.007406,72.922859
+26,LD0518,Kamadhoo,ކަމަދޫ,Baa,False,21.348633,5.282034,73.136981
+27,LD0668,Kendhoo,ކެންދޫ,Baa,False,19.015349,5.275394,73.009979
+28,LD0363,Kihaadhoo,ކިހާދޫ,Baa,False,30.772466,5.215188,73.125099
+29,LD0059,Kudarikilu,ކުޑަރިކިލު,Baa,False,18.92569,5.300419,73.070832
+30,LD0637,Maalhos,މާޅޮސް,Baa,False,25.737584,5.134688,73.108156
+31,LD0677,Thulhaadhoo,ތުޅާދޫ,Baa,False,45.801303,5.021917,72.84112
+32,LD0066,Ban'Didhoo,ބަނޑިދޫ,Dhaalu,False,24.99915,2.936727,72.990241
+33,LD0662,Hulhudheli,ހުޅުދެލި,Dhaalu,False,21.534249,2.858441,72.846504
+34,LD0499,Kudahuvadhoo,ކުޑަހުވަދޫ,Dhaalu,True,165.579649,2.670137,72.888856
+35,LD0209,Maaen'Boodhoo,މާއެނބޫދޫ,Dhaalu,False,24.033801,2.695763,72.963418
+36,LD1050,Meedhoo,މީދޫ,Dhaalu,False,32.553442,2.998036,73.007279
+37,LD0334,Rin'Budhoo,ރިނބުދޫ,Dhaalu,False,17.29024,2.924517,72.895409
+38,LD0606,Bileiydhoo,ބިލެތްދޫ,Faafu,False,31.589802,3.118372,72.983999
+39,LD0970,Dharan'Boodhoo,ދަރަނބޫދޫ,Faafu,False,40.079694,3.062959,72.925724
+40,LD0008,Feeali,ފީއަލި,Faafu,False,17.678783,3.269969,73.001745
+41,LD0085,Magoodhoo,މަގޫދޫ,Faafu,False,24.594867,3.079179,72.963653
+42,LD1158,Nilandhoo,ނިލަންދޫ,Faafu,True,74.796714,3.057122,72.888814
+43,LD0766,Dhaandhoo,ދާންދޫ,Gaafu Alifu,False,31.558554,0.620824,73.461127
+44,LD0412,Dhevvadhoo,ދެއްވަދޫ,Gaafu Alifu,False,23.213563,0.556948,73.242132
+45,LD1182,Gemanafushi,ގެމަނަފުށި,Gaafu Alifu,False,56.791277,0.442445,73.568265
+46,LD0856,Kan'Duhulhudhoo,ކަނޑުހުޅުދޫ,Gaafu Alifu,False,32.324874,0.351318,73.539722
+47,LD0743,Kolamaafushi,ކޮލަމާފުށި,Gaafu Alifu,False,35.300191,0.837521,73.184729
+48,LD0435,Kon'Dey,ކޮނޑޭ,Gaafu Alifu,False,119.261418,0.499255,73.548777
+49,LD1085,Maamendhoo,މާމެންދޫ,Gaafu Alifu,False,51.913822,0.713824,73.43893
+50,LD1091,Nilandhoo,ނިލަންދޫ,Gaafu Alifu,False,61.258407,0.636395,73.446273
+51,LD0247,Vilin'Gili,ވިލިނގިލި,Gaafu Alifu,True,111.188844,0.756344,73.434852
+52,LD0572,Faresmaathodaa,ފަރެސްމާތޮޑާ,Gaafu Dhaalu,False,48.711192,0.199508,73.187191
+53,LD0470,Fiyoari,ފިޔޯރި,Gaafu Dhaalu,False,80.7816,0.221394,73.136558
+54,LD0887,Gahdhoo,ގައްދޫ,Gaafu Dhaalu,False,58.664974,0.290177,73.457958
+55,LD0851,Hoadehdhoo,ހޯޑެއްދޫ,Gaafu Dhaalu,False,110.8848,0.44454,73.004314
+56,LD0557,Madaveli,މަޑަވެލި,Gaafu Dhaalu,False,46.891993,0.458818,72.998927
+57,LD0181,Nadellaa,ނަޑެއްލާ,Gaafu Dhaalu,False,45.587479,0.293544,73.040797
+58,LD0630,Rathafandhoo,ރަތަފަންދޫ,Gaafu Dhaalu,False,40.968734,0.252744,73.104736
+59,LD0717,Thinadhoo,ތިނަދޫ,Gaafu Dhaalu,True,184.792144,0.532435,72.998431
+60,LD0195,Vaadhoo,ވާދޫ,Gaafu Dhaalu,False,193.73424,0.227326,73.273697
+61,LD0726,Fuvahmulah,ފުވައްމުލައް,Gnaviyani,True,495.047469,-0.295089,73.425148
+62,LD0987,Baarah,ބާރަށް,Haa Alifu,False,249.955159,6.816661,73.208382
+63,LD0568,Dhihdhoo,ދިއްދޫ,Haa Alifu,True,96.542888,6.888109,73.110928
+64,LD0993,Filladhoo,ފިއްލަދޫ,Haa Alifu,False,266.042832,6.893126,73.229072
+65,LD0246,Huvarafushi,ހުވަރަފުށި,Haa Alifu,False,69.022371,6.982665,72.894139
+66,LD0908,Ihavandhoo,އިހަވަންދޫ,Haa Alifu,False,62.575702,6.952921,72.926223
+67,LD0563,Kelaa,ކެލާ,Haa Alifu,False,203.365844,6.953291,73.215825
+68,LD0695,Maarandhoo,މާރަންދޫ,Haa Alifu,False,44.588624,6.852444,72.984325
+69,LD0901,Mulhadhoo,މުޅަދޫ,Haa Alifu,False,119.087738,7.013872,72.997378
+70,LD0701,Muraidhoo,މުރައިދޫ,Haa Alifu,False,47.503676,6.837921,73.167309
+71,LD0984,Thakandhoo,ތަކަންދޫ,Haa Alifu,False,41.343205,6.84423,72.995625
+72,LD0915,Thuraakunu,ތުރާކުނު,Haa Alifu,False,26.204154,7.104183,72.899143
+73,LD0488,Uligamu,އުލިގަމު,Haa Alifu,False,106.727102,7.082924,72.926389
+74,LD0507,Utheemu,އުތީމު,Haa Alifu,False,49.983419,6.834655,73.112609
+75,LD0232,Vashafaru,ވަށަފަރު,Haa Alifu,False,35.611409,6.897604,73.159751
+76,LD0441,Finey,ފިނޭ,Haa Dhaalu,False,117.528869,6.745941,73.053389
+77,LD0235,Hanimaadhoo,ހަނިމާދޫ,Haa Dhaalu,False,304.395856,6.753921,73.169658
+78,LD0199,Hirimaradhoo,ހިރިމަރަދޫ,Haa Dhaalu,False,46.602385,6.724829,73.024217
+79,LD0048,Kulhudhuffushi,ކުޅުދުއްފުށި,Haa Dhaalu,True,252.112262,6.623226,73.068889
+80,LD0541,Kumundhoo,ކުމުންދޫ,Haa Dhaalu,False,190.453373,6.57165,73.052022
+81,LD0852,Kurin'Bee,ކުރިނބީ,Haa Dhaalu,False,40.992754,6.665551,72.996637
+82,LD0699,Makunudhoo,މަކުނުދޫ,Haa Dhaalu,False,80.716405,6.409385,72.705088
+83,LD0710,Naivaadhoo,ނައިވާދޫ,Haa Dhaalu,False,30.9304,6.746958,72.934872
+84,LD0698,Nellaidhoo,ނެއްލައިދޫ,Haa Dhaalu,False,32.412109,6.714879,72.946978
+85,LD0686,Neykurendhoo,ނޭކުރެންދޫ,Haa Dhaalu,False,171.698005,6.543044,72.979783
+86,LD0658,Nolhivaramu,ނޮޅިވަރަމު,Haa Dhaalu,False,206.27283,6.662412,73.082374
+87,LD0416,Nolhivaranfaru,ނޮޅިވަރަންފަރު,Haa Dhaalu,False,173.732704,6.695288,73.118532
+88,LD0406,Vaikaradhoo,ވައިކަރަދޫ,Haa Dhaalu,False,107.450662,6.5498,72.953121
+89,LD0894,Dhiffushi,ދިއްފުށި,Kaafu,False,27.057046,4.441906,73.714327
+90,LD0873,Gaafaru,ގާފަރު,Kaafu,False,19.474938,4.736182,73.499606
+91,LD0577,Gulhi,ގުޅި,Kaafu,False,11.283389,3.990893,73.508919
+92,LD0738,Guraidhoo,ގުރައިދޫ,Kaafu,False,22.48401,3.900706,73.468096
+93,LD1129,Hinmafushi,ހިންމަފުށި,Kaafu,False,66.19051,4.308255,73.571145
+94,LD0683,Huraa,ހުރާ,Kaafu,False,52.614556,4.333583,73.601549
+95,LD0665,Kaashidhoo,ކާށިދޫ,Kaafu,False,282.710945,4.956371,73.460388
+96,LD0069,Maafushi,މާފުށި,Kaafu,False,41.598098,3.941089,73.48962
+97,LD0745,Thulusdhoo,ތުލުސްދޫ,Kaafu,True,77.132774,4.373144,73.647742
+98,LD1049,Dhan'Bidhoo,ދަނބިދޫ,Laamu,False,53.918371,2.094211,73.544703
+99,LD1038,Fonadhoo,ފޮނަދޫ,Laamu,True,171.614648,1.834343,73.500068
+100,LD0152,Gan,ގަން,Laamu,False,608.668247,1.914256,73.540917
+101,LD0265,Hithadhoo,ހިތަދޫ,Laamu,False,105.289815,1.796829,73.388259
+102,LD1070,Isdhoo,އިސްދޫ,Laamu,False,147.063796,2.124312,73.57701
+103,LD1473,Kalaidhoo,ކަލައިދޫ,Laamu,False,213.439932,2.114229,73.560517
+104,LD0323,Kunahandhoo,ކުނަހަންދޫ,Laamu,False,92.2612,1.7834,73.368207
+105,LD1053,Maabaidhoo,މާބައިދޫ,Laamu,False,52.80499,2.029341,73.532618
+106,LD0484,Maamendhoo,މާމެންދޫ,Laamu,False,22.36208,1.817884,73.389718
+107,LD0938,Maavah,މާވަށް,Laamu,False,39.891946,1.885495,73.243179
+108,LD0102,Mundoo,މުންޑޫ,Laamu,False,24.176301,2.011848,73.533897
+109,LD0340,Hinnavaru,ހިންނަވަރު,Lhaviyani,False,54.066987,5.492483,73.411424
+110,LD0510,Kurendhoo,ކުރެންދޫ,Lhaviyani,False,22.788812,5.334031,73.463465
+111,LD0020,Naifaru,ނައިފަރު,Lhaviyani,True,58.292494,5.444843,73.365303
+112,LD0517,Olhuvelifushi,އޮޅުވެލިފުށި,Lhaviyani,False,28.801563,5.278463,73.606816
+113,LD0179,Dhiggaru,ދިއްގަރު,Meemu,False,14.454305,3.111887,73.565232
+114,LD0061,Kolhufushi,ކޮޅުފުށި,Meemu,False,64.590007,2.776974,73.424314
+115,LD1166,Maduvvari,މަޑުއްވަރި,Meemu,False,12.121939,3.104866,73.573081
+116,LD0531,Mulah,މުލަށް,Meemu,False,68.333346,2.946601,73.584396
+117,LD0446,Muli,މުލި,Meemu,True,77.26488,2.918047,73.581086
+118,LD0793,Naalaafushi,ނާލާފުށި,Meemu,False,12.945342,2.895363,73.577423
+119,LD0786,Raiymandhoo,ރަތްމަންދޫ,Meemu,False,28.387081,3.089409,73.639112
+120,LD1167,Veyvah,ވޭވަށް,Meemu,False,42.069185,2.956284,73.599881
+121,LD0591,Hulhumaale,ހުޅުމާލެ,MLE,False,418.670605,4.222071,73.542463
+122,LD0442,Maale,މާލެ,MLE,True,208.033729,4.174446,73.5097
+123,LD0268,Vilin'Gili,ވިލިނގިލި,MLE,False,32.913695,4.173395,73.485279
+124,LD0332,Fohdhoo,ފޮއްދޫ,Noonu,False,26.177042,5.743801,73.215951
+125,LD0962,Hen'Badhoo,ހެނބަދޫ,Noonu,False,13.83568,5.967548,73.392884
+126,LD0455,Holhudhoo,ހޮޅުދޫ,Noonu,False,50.492919,5.753088,73.255499
+127,LD0866,Ken'Dhikulhudhoo,ކެނދިކުޅުދޫ,Noonu,False,209.086502,5.952517,73.415474
+128,LD0391,Kudafari,ކުޑަފަރި,Noonu,False,29.192882,5.882829,73.400418
+129,LD0191,Landhoo,ލަންދޫ,Noonu,False,87.209419,5.881804,73.466154
+130,LD0500,Lhohi,ޅޮހި,Noonu,False,40.562579,5.816037,73.377631
+131,LD0560,Maafaru,މާފަރު,Noonu,False,133.869772,5.824624,73.471528
+132,LD0203,Maalhendhoo,މާޅެންދޫ,Noonu,False,46.960848,5.902359,73.456092
+133,LD0907,Magoodhoo,މަގޫދޫ,Noonu,False,36.953845,5.776427,73.362463
+134,LD0392,Manadhoo,މަނަދޫ,Noonu,True,110.901565,5.765992,73.410862
+135,LD1068,Miladhoo,މިލަދޫ,Noonu,False,22.37376,5.790487,73.362599
+136,LD0497,Velidhoo,ވެލިދޫ,Noonu,False,62.235479,5.664426,73.273437
+137,LD0588,Alifushi,އަލިފުށި,Raa,False,60.57001,5.967268,72.953201
+138,LD0281,An'Golhitheemu,އަނގޮޅިތީމު,Raa,False,39.839134,5.792897,73.006649
+139,LD0790,Dhuvaafaru,ދުވާފަރު,Raa,False,54.651127,5.629247,73.041401
+140,LD0924,Fainu,ފައިނު,Raa,False,61.795385,5.463455,73.034582
+141,LD0600,Hulhudhuffaaru,ހުޅުދުއްފާރު,Raa,False,60.816466,5.765496,73.01213
+142,LD1121,In'Guraidhoo,އިނގުރައިދޫ,Raa,False,47.104442,5.476994,73.036716
+143,LD0564,Innamaadhoo,އިންނަމާދޫ,Raa,False,37.175115,5.549387,73.044249
+144,LD0194,Kinolhas,ކިނޮޅަސް,Raa,False,56.228136,5.448449,73.03005
+145,LD0180,Maakurathu,މާކުރަތު,Raa,False,53.137713,5.606169,73.043719
+146,LD0573,Maduvvari,މަޑުއްވަރި,Raa,False,22.728042,5.486328,72.895989
+147,LD0605,Meedhoo,މީދޫ,Raa,False,36.243457,5.45815,72.955271
+148,LD0178,Rasgetheemu,ރަސްގެތީމު,Raa,False,39.207399,5.807699,73.002954
+149,LD0423,Rasmaadhoo,ރަސްމާދޫ,Raa,False,26.684992,5.563069,73.043699
+150,LD1175,Un'Goofaaru,އުނގޫފާރު,Raa,True,36.149593,5.668287,73.029744
+151,LD0609,Vaadhoo,ވާދޫ,Raa,False,38.165617,5.856224,72.99107
+152,LD0947,Feydhoo,ފޭދޫ,Seenu,False,122.343602,-0.682721,73.134873
+153,LD1004,Hithadhoo,ހިތަދޫ,Seenu,True,551.277866,-0.612132,73.091756
+154,LD0299,Hulhudhoo,ހުޅުދޫ,Seenu,False,134.995153,-0.597337,73.22811
+155,LD0288,Maradhoo,މަރަދޫ,Seenu,False,60.138127,-0.665216,73.118934
+156,LD0081,Maradhoofeydhoo,މަރަދޫފޭދޫ,Seenu,False,34.273361,-0.673527,73.125795
+157,LD0272,Meedhoo,މީދޫ,Seenu,False,187.725238,-0.584384,73.230321
+158,LD1064,Bileiyfahi,ބިލެތްފަހި,Shaviyani,False,66.519896,6.337832,72.973971
+159,LD1149,Feevah,ފީވައް,Shaviyani,False,87.56318,6.348898,73.209358
+160,LD1100,Feydhoo,ފޭދޫ,Shaviyani,False,90.27882,6.360553,73.048849
+161,LD0646,Foakaidhoo,ފޯކައިދޫ,Shaviyani,False,67.814448,6.326699,73.14934
+162,LD0863,Funadhoo,ފުނަދޫ,Shaviyani,True,122.498119,6.153253,73.289853
+163,LD0836,Goidhoo,ގޮއިދޫ,Shaviyani,False,100.616365,6.430089,72.929723
+164,LD1092,Kan'Ditheemu,ކަނޑިތީމު,Shaviyani,False,89.304283,6.440537,72.916081
+165,LD1058,Komandoo,ކޮމަންޑޫ,Shaviyani,False,22.158796,6.054214,73.054251
+166,LD0978,Lhaimagu,ޅައިމަގު,Shaviyani,False,44.168911,6.164013,73.251478
+167,LD0016,Maaun'Goodhoo,މާއުނގޫދޫ,Shaviyani,False,29.4141,6.036706,73.283793
+168,LD1144,Maroshi,މަރޮށި,Shaviyani,False,30.868095,6.209665,73.061391
+169,LD0525,Milandhoo,މިލަންދޫ,Shaviyani,False,133.488627,6.286495,73.244507
+170,LD0551,Narudhoo,ނަރުދޫ,Shaviyani,False,42.745624,6.264327,73.218156
+171,LD0985,Noomaraa,ނޫމަރާ,Shaviyani,False,39.212995,6.434224,73.069072
+172,LD0254,Burunee,ބުރުނީ,Thaa,False,34.08479,2.558849,73.10652
+173,LD0200,Dhiyamigili,ދިޔަމިގިލި,Thaa,False,29.337474,2.33994,73.3368
+174,LD0427,Gaadhiffushi,ގާދިއްފުށި,Thaa,False,14.144367,2.252677,73.212525
+175,LD1163,Guraidhoo,ގުރައިދޫ,Thaa,False,76.475535,2.322582,73.317575
+176,LD0350,Hirilandhoo,ހިރިލަންދޫ,Thaa,False,30.088315,2.270395,72.932149
+177,LD0504,Kan'Doodhoo,ކަނޑޫދޫ,Thaa,False,81.829777,2.321263,72.916657
+178,LD0422,Kin'Bidhoo,ކިނބިދޫ,Thaa,False,38.175104,2.168263,73.066069
+179,LD0627,Madifushi,މަޑިފުށި,Thaa,False,53.581209,2.356801,73.354697
+180,LD0783,Omadhoo,އޮމަދޫ,Thaa,False,36.961553,2.167578,73.023611
+181,LD0082,Thimarafushi,ތިމަރަފުށި,Thaa,False,99.989305,2.209286,73.148547
+182,LD0859,Vandhoo,ވަންދޫ,Thaa,False,25.906479,2.29171,72.941936
+183,LD0694,Veymandoo,ވޭމަންޑޫ,Thaa,True,44.64553,2.187172,73.094962
+184,LD0205,Vilufushi,ވިލުފުށި,Thaa,False,60.201656,2.503166,73.308248
+185,LD0075,Felidhoo,ފެލިދޫ,Vaavu,True,15.75044,3.471967,73.547076
+186,LD0182,Fulidhoo,ފުލިދޫ,Vaavu,False,11.910502,3.680433,73.41567
+187,LD0260,Keyodhoo,ކެޔޮދޫ,Vaavu,False,11.821327,3.462109,73.550092
+188,LD0420,Rakeedhoo,ރަކީދޫ,Vaavu,False,6.417948,3.314903,73.469727
+189,LD1079,Thinadhoo,ތިނަދޫ,Vaavu,False,12.490236,3.487716,73.5383
